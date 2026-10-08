@@ -1,0 +1,25 @@
+{
+  "ablation": "full",
+  "completion_threshold": 0.0,
+  "confidence_threshold": 0.0,
+  "duration_threshold_frames": 12.0,
+  "source": "validation only",
+  "temperature": 0.5746068495616504,
+  "threshold_fit": {
+    "duration_candidate_count": 1,
+    "duration_candidate_source": "fixed_predeclared_rg_max_occlusion_frames",
+    "duration_threshold_frames": 12.0,
+    "duration_validation_searched": false,
+    "effective_minimum_coverage": 0.3,
+    "maximum_feasible_coverage": 1.0,
+    "requested_minimum_coverage": 0.3,
+    "status": "feasible",
+    "thresholds": [
+      0.0,
+      0.0,
+      0.0,
+      12.0
+    ]
+  },
+  "verification_threshold": 0.0
+}

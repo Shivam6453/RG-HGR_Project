@@ -1,0 +1,10 @@
+{
+  "method_key": "rg-hgr",
+  "method_name": "RG-HGR",
+  "metrics_file": "/run/media/mr_x/Shivam/SHREC_Results_ROBUST_FRESH/RG-HGR/Seed_11/metrics.csv",
+  "model_pkl": "/run/media/mr_x/Shivam/SHREC_Results_ROBUST_FRESH/RG-HGR/Seed_11/model.pkl",
+  "model_pt": "/run/media/mr_x/Shivam/SHREC_Results_ROBUST_FRESH/RG-HGR/Seed_11/model.pt",
+  "protocol_signature": "f7f125e823b6d7d5676e517d7d30c44d3ad3b7858ab964d58b4eec20e4b2da65",
+  "seed": 11,
+  "status": "complete"
+}

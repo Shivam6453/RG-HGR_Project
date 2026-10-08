@@ -1,0 +1,105 @@
+{
+  "Drop": {
+    "f1-score": 1.0,
+    "precision": 1.0,
+    "recall": 1.0,
+    "support": 280.0
+  },
+  "Emergency_calling": {
+    "f1-score": 1.0,
+    "precision": 1.0,
+    "recall": 1.0,
+    "support": 280.0
+  },
+  "Flip": {
+    "f1-score": 1.0,
+    "precision": 1.0,
+    "recall": 1.0,
+    "support": 280.0
+  },
+  "Pick": {
+    "f1-score": 1.0,
+    "precision": 1.0,
+    "recall": 1.0,
+    "support": 280.0
+  },
+  "Pick & Pour": {
+    "f1-score": 1.0,
+    "precision": 1.0,
+    "recall": 1.0,
+    "support": 280.0
+  },
+  "Pick and Give": {
+    "f1-score": 1.0,
+    "precision": 1.0,
+    "recall": 1.0,
+    "support": 280.0
+  },
+  "Pick and Place": {
+    "f1-score": 1.0,
+    "precision": 1.0,
+    "recall": 1.0,
+    "support": 280.0
+  },
+  "Push": {
+    "f1-score": 1.0,
+    "precision": 1.0,
+    "recall": 1.0,
+    "support": 280.0
+  },
+  "Receive": {
+    "f1-score": 1.0,
+    "precision": 1.0,
+    "recall": 1.0,
+    "support": 280.0
+  },
+  "Rotate": {
+    "f1-score": 1.0,
+    "precision": 1.0,
+    "recall": 1.0,
+    "support": 280.0
+  },
+  "Swipe Left": {
+    "f1-score": 0.9747292418772563,
+    "precision": 0.9854014598540146,
+    "recall": 0.9642857142857143,
+    "support": 280.0
+  },
+  "Swipe Right": {
+    "f1-score": 0.9752650176678446,
+    "precision": 0.965034965034965,
+    "recall": 0.9857142857142858,
+    "support": 280.0
+  },
+  "Task Completion": {
+    "f1-score": 1.0,
+    "precision": 1.0,
+    "recall": 1.0,
+    "support": 280.0
+  },
+  "Wave": {
+    "f1-score": 1.0,
+    "precision": 1.0,
+    "recall": 1.0,
+    "support": 280.0
+  },
+  "Wiping": {
+    "f1-score": 1.0,
+    "precision": 1.0,
+    "recall": 1.0,
+    "support": 280.0
+  },
+  "accuracy": 0.9966666666666667,
+  "macro avg": {
+    "f1-score": 0.9966662839696734,
+    "precision": 0.9966957616592652,
+    "recall": 0.9966666666666666,
+    "support": 4200.0
+  },
+  "weighted avg": {
+    "f1-score": 0.9966662839696734,
+    "precision": 0.9966957616592654,
+    "recall": 0.9966666666666667,
+    "support": 4200.0
+  }
+}

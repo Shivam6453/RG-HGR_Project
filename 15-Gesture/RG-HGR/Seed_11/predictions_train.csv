@@ -1,0 +1,4201 @@
+index,true_label,true_class,pred_label,pred_class,correct
+2309,5,Pick and Give,5,Pick and Give,True
+4715,11,Swipe Right,11,Swipe Right,True
+5567,13,Wave,13,Wave,True
+5692,14,Wiping,14,Wiping,True
+5490,13,Wave,13,Wave,True
+3233,8,Receive,8,Receive,True
+2180,5,Pick and Give,5,Pick and Give,True
+3682,9,Rotate,9,Rotate,True
+3270,8,Receive,8,Receive,True
+4929,12,Task Completion,12,Task Completion,True
+994,2,Flip,2,Flip,True
+1388,3,Pick,3,Pick,True
+4161,10,Swipe Left,10,Swipe Left,True
+234,0,Drop,0,Drop,True
+122,0,Drop,0,Drop,True
+5981,14,Wiping,14,Wiping,True
+180,0,Drop,0,Drop,True
+3690,9,Rotate,9,Rotate,True
+2051,5,Pick and Give,5,Pick and Give,True
+1361,3,Pick,3,Pick,True
+3965,9,Rotate,9,Rotate,True
+2807,7,Push,7,Push,True
+3164,7,Push,7,Push,True
+4150,10,Swipe Left,10,Swipe Left,True
+4056,10,Swipe Left,10,Swipe Left,True
+3107,7,Push,7,Push,True
+3792,9,Rotate,9,Rotate,True
+3498,8,Receive,8,Receive,True
+1921,4,Pick & Pour,4,Pick & Pour,True
+3387,8,Receive,8,Receive,True
+1116,2,Flip,2,Flip,True
+5993,14,Wiping,14,Wiping,True
+3371,8,Receive,8,Receive,True
+3314,8,Receive,8,Receive,True
+5180,12,Task Completion,12,Task Completion,True
+5160,12,Task Completion,12,Task Completion,True
+3758,9,Rotate,9,Rotate,True
+2155,5,Pick and Give,5,Pick and Give,True
+2844,7,Push,7,Push,True
+3449,8,Receive,8,Receive,True
+2705,6,Pick and Place,6,Pick and Place,True
+2644,6,Pick and Place,6,Pick and Place,True
+4323,10,Swipe Left,10,Swipe Left,True
+2442,6,Pick and Place,6,Pick and Place,True
+3032,7,Push,7,Push,True
+2916,7,Push,7,Push,True
+5427,13,Wave,13,Wave,True
+3014,7,Push,7,Push,True
+2279,5,Pick and Give,5,Pick and Give,True
+2567,6,Pick and Place,6,Pick and Place,True
+2766,6,Pick and Place,6,Pick and Place,True
+600,1,Emergency_calling,1,Emergency_calling,True
+356,0,Drop,0,Drop,True
+2886,7,Push,7,Push,True
+3549,8,Receive,8,Receive,True
+398,0,Drop,0,Drop,True
+3034,7,Push,7,Push,True
+3998,9,Rotate,9,Rotate,True
+3634,9,Rotate,9,Rotate,True
+5641,14,Wiping,14,Wiping,True
+2237,5,Pick and Give,5,Pick and Give,True
+154,0,Drop,0,Drop,True
+2843,7,Push,7,Push,True
+2899,7,Push,7,Push,True
+5087,12,Task Completion,12,Task Completion,True
+4792,11,Swipe Right,11,Swipe Right,True
+2379,5,Pick and Give,5,Pick and Give,True
+3968,9,Rotate,9,Rotate,True
+4514,11,Swipe Right,11,Swipe Right,True
+5614,14,Wiping,14,Wiping,True
+2803,7,Push,7,Push,True
+482,1,Emergency_calling,1,Emergency_calling,True
+2257,5,Pick and Give,5,Pick and Give,True
+3807,9,Rotate,9,Rotate,True
+5603,14,Wiping,14,Wiping,True
+1612,4,Pick & Pour,4,Pick & Pour,True
+5508,13,Wave,13,Wave,True
+4681,11,Swipe Right,11,Swipe Right,True
+5259,13,Wave,13,Wave,True
+5003,12,Task Completion,12,Task Completion,True
+3685,9,Rotate,9,Rotate,True
+2571,6,Pick and Place,6,Pick and Place,True
+1875,4,Pick & Pour,4,Pick & Pour,True
+4363,10,Swipe Left,10,Swipe Left,True
+5848,14,Wiping,14,Wiping,True
+5575,13,Wave,13,Wave,True
+1660,4,Pick & Pour,4,Pick & Pour,True
+4516,11,Swipe Right,11,Swipe Right,True
+3573,8,Receive,8,Receive,True
+1412,3,Pick,3,Pick,True
+1530,3,Pick,3,Pick,True
+3733,9,Rotate,9,Rotate,True
+4823,12,Task Completion,12,Task Completion,True
+2858,7,Push,7,Push,True
+4824,12,Task Completion,12,Task Completion,True
+526,1,Emergency_calling,1,Emergency_calling,True
+5374,13,Wave,13,Wave,True
+4621,11,Swipe Right,10,Swipe Left,False
+2352,5,Pick and Give,5,Pick and Give,True
+2783,6,Pick and Place,6,Pick and Place,True
+5536,13,Wave,13,Wave,True
+39,0,Drop,0,Drop,True
+5527,13,Wave,13,Wave,True
+5190,12,Task Completion,12,Task Completion,True
+1490,3,Pick,3,Pick,True
+5281,13,Wave,13,Wave,True
+5797,14,Wiping,14,Wiping,True
+4430,11,Swipe Right,11,Swipe Right,True
+4793,11,Swipe Right,11,Swipe Right,True
+3081,7,Push,7,Push,True
+3320,8,Receive,8,Receive,True
+3074,7,Push,7,Push,True
+1716,4,Pick & Pour,4,Pick & Pour,True
+4704,11,Swipe Right,11,Swipe Right,True
+3448,8,Receive,8,Receive,True
+2826,7,Push,7,Push,True
+4597,11,Swipe Right,11,Swipe Right,True
+4889,12,Task Completion,12,Task Completion,True
+4230,10,Swipe Left,10,Swipe Left,True
+277,0,Drop,0,Drop,True
+386,0,Drop,0,Drop,True
+4758,11,Swipe Right,11,Swipe Right,True
+33,0,Drop,0,Drop,True
+5597,13,Wave,13,Wave,True
+2937,7,Push,7,Push,True
+284,0,Drop,0,Drop,True
+4672,11,Swipe Right,11,Swipe Right,True
+5040,12,Task Completion,12,Task Completion,True
+3794,9,Rotate,9,Rotate,True
+3260,8,Receive,8,Receive,True
+5010,12,Task Completion,12,Task Completion,True
+2831,7,Push,7,Push,True
+3960,9,Rotate,9,Rotate,True
+387,0,Drop,0,Drop,True
+3949,9,Rotate,9,Rotate,True
+5266,13,Wave,13,Wave,True
+3642,9,Rotate,9,Rotate,True
+819,2,Flip,2,Flip,True
+4670,11,Swipe Right,11,Swipe Right,True
+1269,3,Pick,3,Pick,True
+2194,5,Pick and Give,5,Pick and Give,True
+399,0,Drop,0,Drop,True
+5727,14,Wiping,14,Wiping,True
+5311,13,Wave,13,Wave,True
+2469,6,Pick and Place,6,Pick and Place,True
+2149,5,Pick and Give,5,Pick and Give,True
+2425,6,Pick and Place,6,Pick and Place,True
+1847,4,Pick & Pour,4,Pick & Pour,True
+3175,7,Push,7,Push,True
+4862,12,Task Completion,12,Task Completion,True
+5656,14,Wiping,14,Wiping,True
+3961,9,Rotate,9,Rotate,True
+5525,13,Wave,13,Wave,True
+3586,8,Receive,8,Receive,True
+3000,7,Push,7,Push,True
+5926,14,Wiping,14,Wiping,True
+647,1,Emergency_calling,1,Emergency_calling,True
+3894,9,Rotate,9,Rotate,True
+2513,6,Pick and Place,6,Pick and Place,True
+129,0,Drop,0,Drop,True
+2258,5,Pick and Give,5,Pick and Give,True
+143,0,Drop,0,Drop,True
+3984,9,Rotate,9,Rotate,True
+8,0,Drop,0,Drop,True
+3222,8,Receive,8,Receive,True
+5690,14,Wiping,14,Wiping,True
+543,1,Emergency_calling,1,Emergency_calling,True
+1099,2,Flip,2,Flip,True
+1761,4,Pick & Pour,4,Pick & Pour,True
+4850,12,Task Completion,12,Task Completion,True
+5506,13,Wave,13,Wave,True
+509,1,Emergency_calling,1,Emergency_calling,True
+3742,9,Rotate,9,Rotate,True
+883,2,Flip,2,Flip,True
+5787,14,Wiping,14,Wiping,True
+3727,9,Rotate,9,Rotate,True
+4571,11,Swipe Right,11,Swipe Right,True
+5124,12,Task Completion,12,Task Completion,True
+2151,5,Pick and Give,5,Pick and Give,True
+461,1,Emergency_calling,1,Emergency_calling,True
+3905,9,Rotate,9,Rotate,True
+2594,6,Pick and Place,6,Pick and Place,True
+5102,12,Task Completion,12,Task Completion,True
+727,1,Emergency_calling,1,Emergency_calling,True
+3446,8,Receive,8,Receive,True
+2434,6,Pick and Place,6,Pick and Place,True
+5766,14,Wiping,14,Wiping,True
+102,0,Drop,0,Drop,True
+4543,11,Swipe Right,11,Swipe Right,True
+3123,7,Push,7,Push,True
+2423,6,Pick and Place,6,Pick and Place,True
+1837,4,Pick & Pour,4,Pick & Pour,True
+4872,12,Task Completion,12,Task Completion,True
+276,0,Drop,0,Drop,True
+1968,4,Pick & Pour,4,Pick & Pour,True
+4961,12,Task Completion,12,Task Completion,True
+5984,14,Wiping,14,Wiping,True
+5391,13,Wave,13,Wave,True
+2731,6,Pick and Place,6,Pick and Place,True
+1818,4,Pick & Pour,4,Pick & Pour,True
+1264,3,Pick,3,Pick,True
+4504,11,Swipe Right,11,Swipe Right,True
+4902,12,Task Completion,12,Task Completion,True
+2922,7,Push,7,Push,True
+5815,14,Wiping,14,Wiping,True
+5397,13,Wave,13,Wave,True
+2144,5,Pick and Give,5,Pick and Give,True
+4470,11,Swipe Right,11,Swipe Right,True
+1607,4,Pick & Pour,4,Pick & Pour,True
+3433,8,Receive,8,Receive,True
+1083,2,Flip,2,Flip,True
+1424,3,Pick,3,Pick,True
+216,0,Drop,0,Drop,True
+4962,12,Task Completion,12,Task Completion,True
+1814,4,Pick & Pour,4,Pick & Pour,True
+456,1,Emergency_calling,1,Emergency_calling,True
+738,1,Emergency_calling,1,Emergency_calling,True
+4423,11,Swipe Right,11,Swipe Right,True
+5395,13,Wave,13,Wave,True
+1916,4,Pick & Pour,4,Pick & Pour,True
+2859,7,Push,7,Push,True
+4057,10,Swipe Left,10,Swipe Left,True
+3881,9,Rotate,9,Rotate,True
+4378,10,Swipe Left,10,Swipe Left,True
+2697,6,Pick and Place,6,Pick and Place,True
+5584,13,Wave,13,Wave,True
+3440,8,Receive,8,Receive,True
+3437,8,Receive,8,Receive,True
+3219,8,Receive,8,Receive,True
+1370,3,Pick,3,Pick,True
+5651,14,Wiping,14,Wiping,True
+2511,6,Pick and Place,6,Pick and Place,True
+2553,6,Pick and Place,6,Pick and Place,True
+3555,8,Receive,8,Receive,True
+1546,3,Pick,3,Pick,True
+4440,11,Swipe Right,11,Swipe Right,True
+2417,6,Pick and Place,6,Pick and Place,True
+3093,7,Push,7,Push,True
+1222,3,Pick,3,Pick,True
+5083,12,Task Completion,12,Task Completion,True
+3184,7,Push,7,Push,True
+3254,8,Receive,8,Receive,True
+2655,6,Pick and Place,6,Pick and Place,True
+4885,12,Task Completion,12,Task Completion,True
+4966,12,Task Completion,12,Task Completion,True
+1255,3,Pick,3,Pick,True
+731,1,Emergency_calling,1,Emergency_calling,True
+4954,12,Task Completion,12,Task Completion,True
+1842,4,Pick & Pour,4,Pick & Pour,True
+2046,5,Pick and Give,5,Pick and Give,True
+3604,9,Rotate,9,Rotate,True
+571,1,Emergency_calling,1,Emergency_calling,True
+1390,3,Pick,3,Pick,True
+4869,12,Task Completion,12,Task Completion,True
+377,0,Drop,0,Drop,True
+3730,9,Rotate,9,Rotate,True
+1013,2,Flip,2,Flip,True
+4317,10,Swipe Left,10,Swipe Left,True
+4871,12,Task Completion,12,Task Completion,True
+3230,8,Receive,8,Receive,True
+988,2,Flip,2,Flip,True
+2420,6,Pick and Place,6,Pick and Place,True
+3010,7,Push,7,Push,True
+5931,14,Wiping,14,Wiping,True
+2998,7,Push,7,Push,True
+5989,14,Wiping,14,Wiping,True
+5928,14,Wiping,14,Wiping,True
+3293,8,Receive,8,Receive,True
+2764,6,Pick and Place,6,Pick and Place,True
+4487,11,Swipe Right,11,Swipe Right,True
+4973,12,Task Completion,12,Task Completion,True
+5345,13,Wave,13,Wave,True
+3490,8,Receive,8,Receive,True
+2009,5,Pick and Give,5,Pick and Give,True
+2343,5,Pick and Give,5,Pick and Give,True
+945,2,Flip,2,Flip,True
+1526,3,Pick,3,Pick,True
+1724,4,Pick & Pour,4,Pick & Pour,True
+617,1,Emergency_calling,1,Emergency_calling,True
+5526,13,Wave,13,Wave,True
+2030,5,Pick and Give,5,Pick and Give,True
+5355,13,Wave,13,Wave,True
+5712,14,Wiping,14,Wiping,True
+2387,5,Pick and Give,5,Pick and Give,True
+4168,10,Swipe Left,10,Swipe Left,True
+347,0,Drop,0,Drop,True
+3418,8,Receive,8,Receive,True
+2002,5,Pick and Give,5,Pick and Give,True
+5379,13,Wave,13,Wave,True
+3376,8,Receive,8,Receive,True
+3186,7,Push,7,Push,True
+3595,8,Receive,8,Receive,True
+2760,6,Pick and Place,6,Pick and Place,True
+859,2,Flip,2,Flip,True
+155,0,Drop,0,Drop,True
+1817,4,Pick & Pour,4,Pick & Pour,True
+3258,8,Receive,8,Receive,True
+4801,12,Task Completion,12,Task Completion,True
+1120,2,Flip,2,Flip,True
+1201,3,Pick,3,Pick,True
+5104,12,Task Completion,12,Task Completion,True
+3988,9,Rotate,9,Rotate,True
+4546,11,Swipe Right,11,Swipe Right,True
+5192,12,Task Completion,12,Task Completion,True
+4558,11,Swipe Right,11,Swipe Right,True
+4696,11,Swipe Right,11,Swipe Right,True
+1359,3,Pick,3,Pick,True
+2063,5,Pick and Give,5,Pick and Give,True
+808,2,Flip,2,Flip,True
+5899,14,Wiping,14,Wiping,True
+5478,13,Wave,13,Wave,True
+5258,13,Wave,13,Wave,True
+2126,5,Pick and Give,5,Pick and Give,True
+4650,11,Swipe Right,11,Swipe Right,True
+1576,3,Pick,3,Pick,True
+3922,9,Rotate,9,Rotate,True
+46,0,Drop,0,Drop,True
+323,0,Drop,0,Drop,True
+3589,8,Receive,8,Receive,True
+1235,3,Pick,3,Pick,True
+2716,6,Pick and Place,6,Pick and Place,True
+1915,4,Pick & Pour,4,Pick & Pour,True
+3609,9,Rotate,9,Rotate,True
+311,0,Drop,0,Drop,True
+639,1,Emergency_calling,1,Emergency_calling,True
+2453,6,Pick and Place,6,Pick and Place,True
+4826,12,Task Completion,12,Task Completion,True
+3009,7,Push,7,Push,True
+3267,8,Receive,8,Receive,True
+3628,9,Rotate,9,Rotate,True
+3557,8,Receive,8,Receive,True
+3812,9,Rotate,9,Rotate,True
+5756,14,Wiping,14,Wiping,True
+4050,10,Swipe Left,10,Swipe Left,True
+5732,14,Wiping,14,Wiping,True
+5163,12,Task Completion,12,Task Completion,True
+1750,4,Pick & Pour,4,Pick & Pour,True
+4336,10,Swipe Left,10,Swipe Left,True
+5922,14,Wiping,14,Wiping,True
+4268,10,Swipe Left,11,Swipe Right,False
+5549,13,Wave,13,Wave,True
+5153,12,Task Completion,12,Task Completion,True
+4922,12,Task Completion,12,Task Completion,True
+864,2,Flip,2,Flip,True
+4577,11,Swipe Right,11,Swipe Right,True
+4908,12,Task Completion,12,Task Completion,True
+2592,6,Pick and Place,6,Pick and Place,True
+1833,4,Pick & Pour,4,Pick & Pour,True
+3463,8,Receive,8,Receive,True
+5189,12,Task Completion,12,Task Completion,True
+4924,12,Task Completion,12,Task Completion,True
+423,1,Emergency_calling,1,Emergency_calling,True
+477,1,Emergency_calling,1,Emergency_calling,True
+2897,7,Push,7,Push,True
+5487,13,Wave,13,Wave,True
+2467,6,Pick and Place,6,Pick and Place,True
+3827,9,Rotate,9,Rotate,True
+5694,14,Wiping,14,Wiping,True
+2114,5,Pick and Give,5,Pick and Give,True
+1338,3,Pick,3,Pick,True
+2569,6,Pick and Place,6,Pick and Place,True
+4729,11,Swipe Right,11,Swipe Right,True
+4261,10,Swipe Left,10,Swipe Left,True
+218,0,Drop,0,Drop,True
+3660,9,Rotate,9,Rotate,True
+3442,8,Receive,8,Receive,True
+3600,9,Rotate,9,Rotate,True
+3257,8,Receive,8,Receive,True
+5751,14,Wiping,14,Wiping,True
+5890,14,Wiping,14,Wiping,True
+1179,2,Flip,2,Flip,True
+1041,2,Flip,2,Flip,True
+20,0,Drop,0,Drop,True
+1330,3,Pick,3,Pick,True
+5722,14,Wiping,14,Wiping,True
+634,1,Emergency_calling,1,Emergency_calling,True
+2082,5,Pick and Give,5,Pick and Give,True
+1472,3,Pick,3,Pick,True
+3853,9,Rotate,9,Rotate,True
+405,1,Emergency_calling,1,Emergency_calling,True
+4754,11,Swipe Right,11,Swipe Right,True
+1432,3,Pick,3,Pick,True
+2014,5,Pick and Give,5,Pick and Give,True
+1926,4,Pick & Pour,4,Pick & Pour,True
+5589,13,Wave,13,Wave,True
+5672,14,Wiping,14,Wiping,True
+4530,11,Swipe Right,11,Swipe Right,True
+3192,7,Push,7,Push,True
+2222,5,Pick and Give,5,Pick and Give,True
+5819,14,Wiping,14,Wiping,True
+2663,6,Pick and Place,6,Pick and Place,True
+5560,13,Wave,13,Wave,True
+1548,3,Pick,3,Pick,True
+583,1,Emergency_calling,1,Emergency_calling,True
+5570,13,Wave,13,Wave,True
+3657,9,Rotate,9,Rotate,True
+3744,9,Rotate,9,Rotate,True
+4452,11,Swipe Right,11,Swipe Right,True
+2266,5,Pick and Give,5,Pick and Give,True
+5267,13,Wave,13,Wave,True
+1436,3,Pick,3,Pick,True
+2815,7,Push,7,Push,True
+916,2,Flip,2,Flip,True
+3545,8,Receive,8,Receive,True
+2248,5,Pick and Give,5,Pick and Give,True
+2070,5,Pick and Give,5,Pick and Give,True
+1016,2,Flip,2,Flip,True
+385,0,Drop,0,Drop,True
+1326,3,Pick,3,Pick,True
+4329,10,Swipe Left,10,Swipe Left,True
+308,0,Drop,0,Drop,True
+4545,11,Swipe Right,11,Swipe Right,True
+5553,13,Wave,13,Wave,True
+841,2,Flip,2,Flip,True
+1321,3,Pick,3,Pick,True
+4369,10,Swipe Left,10,Swipe Left,True
+3158,7,Push,7,Push,True
+3127,7,Push,7,Push,True
+3029,7,Push,7,Push,True
+3072,7,Push,7,Push,True
+4017,10,Swipe Left,10,Swipe Left,True
+2161,5,Pick and Give,5,Pick and Give,True
+3033,7,Push,7,Push,True
+947,2,Flip,2,Flip,True
+5785,14,Wiping,14,Wiping,True
+1704,4,Pick & Pour,4,Pick & Pour,True
+1954,4,Pick & Pour,4,Pick & Pour,True
+4477,11,Swipe Right,11,Swipe Right,True
+3624,9,Rotate,9,Rotate,True
+4411,11,Swipe Right,11,Swipe Right,True
+1001,2,Flip,2,Flip,True
+3798,9,Rotate,9,Rotate,True
+3292,8,Receive,8,Receive,True
+2882,7,Push,7,Push,True
+2049,5,Pick and Give,5,Pick and Give,True
+1442,3,Pick,3,Pick,True
+3882,9,Rotate,9,Rotate,True
+5464,13,Wave,13,Wave,True
+1212,3,Pick,3,Pick,True
+1048,2,Flip,2,Flip,True
+2008,5,Pick and Give,5,Pick and Give,True
+4189,10,Swipe Left,10,Swipe Left,True
+545,1,Emergency_calling,1,Emergency_calling,True
+3516,8,Receive,8,Receive,True
+317,0,Drop,0,Drop,True
+3941,9,Rotate,9,Rotate,True
+4502,11,Swipe Right,11,Swipe Right,True
+2261,5,Pick and Give,5,Pick and Give,True
+5719,14,Wiping,14,Wiping,True
+3876,9,Rotate,9,Rotate,True
+4182,10,Swipe Left,10,Swipe Left,True
+2482,6,Pick and Place,6,Pick and Place,True
+553,1,Emergency_calling,1,Emergency_calling,True
+51,0,Drop,0,Drop,True
+4552,11,Swipe Right,11,Swipe Right,True
+1450,3,Pick,3,Pick,True
+4972,12,Task Completion,12,Task Completion,True
+2597,6,Pick and Place,6,Pick and Place,True
+2604,6,Pick and Place,6,Pick and Place,True
+1224,3,Pick,3,Pick,True
+790,1,Emergency_calling,1,Emergency_calling,True
+4092,10,Swipe Left,10,Swipe Left,True
+1543,3,Pick,3,Pick,True
+4498,11,Swipe Right,11,Swipe Right,True
+1494,3,Pick,3,Pick,True
+1291,3,Pick,3,Pick,True
+1978,4,Pick & Pour,4,Pick & Pour,True
+2864,7,Push,7,Push,True
+3202,8,Receive,8,Receive,True
+5272,13,Wave,13,Wave,True
+4108,10,Swipe Left,10,Swipe Left,True
+59,0,Drop,0,Drop,True
+4519,11,Swipe Right,11,Swipe Right,True
+5754,14,Wiping,14,Wiping,True
+1514,3,Pick,3,Pick,True
+1662,4,Pick & Pour,4,Pick & Pour,True
+2660,6,Pick and Place,6,Pick and Place,True
+2105,5,Pick and Give,5,Pick and Give,True
+1275,3,Pick,3,Pick,True
+2813,7,Push,7,Push,True
+3612,9,Rotate,9,Rotate,True
+914,2,Flip,2,Flip,True
+1738,4,Pick & Pour,4,Pick & Pour,True
+437,1,Emergency_calling,1,Emergency_calling,True
+5615,14,Wiping,14,Wiping,True
+2251,5,Pick and Give,5,Pick and Give,True
+5613,14,Wiping,14,Wiping,True
+4237,10,Swipe Left,10,Swipe Left,True
+1325,3,Pick,3,Pick,True
+1674,4,Pick & Pour,4,Pick & Pour,True
+5721,14,Wiping,14,Wiping,True
+3930,9,Rotate,9,Rotate,True
+5378,13,Wave,13,Wave,True
+4074,10,Swipe Left,10,Swipe Left,True
+5358,13,Wave,13,Wave,True
+2520,6,Pick and Place,6,Pick and Place,True
+1220,3,Pick,3,Pick,True
+1639,4,Pick & Pour,4,Pick & Pour,True
+5035,12,Task Completion,12,Task Completion,True
+1068,2,Flip,2,Flip,True
+3261,8,Receive,8,Receive,True
+5798,14,Wiping,14,Wiping,True
+2383,5,Pick and Give,5,Pick and Give,True
+3588,8,Receive,8,Receive,True
+2204,5,Pick and Give,5,Pick and Give,True
+157,0,Drop,0,Drop,True
+610,1,Emergency_calling,1,Emergency_calling,True
+4091,10,Swipe Left,10,Swipe Left,True
+3295,8,Receive,8,Receive,True
+2108,5,Pick and Give,5,Pick and Give,True
+5869,14,Wiping,14,Wiping,True
+5775,14,Wiping,14,Wiping,True
+4181,10,Swipe Left,10,Swipe Left,True
+2700,6,Pick and Place,6,Pick and Place,True
+26,0,Drop,0,Drop,True
+438,1,Emergency_calling,1,Emergency_calling,True
+5910,14,Wiping,14,Wiping,True
+3977,9,Rotate,9,Rotate,True
+2132,5,Pick and Give,5,Pick and Give,True
+3797,9,Rotate,9,Rotate,True
+4774,11,Swipe Right,11,Swipe Right,True
+4349,10,Swipe Left,10,Swipe Left,True
+745,1,Emergency_calling,1,Emergency_calling,True
+5470,13,Wave,13,Wave,True
+1301,3,Pick,3,Pick,True
+470,1,Emergency_calling,1,Emergency_calling,True
+5309,13,Wave,13,Wave,True
+5610,14,Wiping,14,Wiping,True
+886,2,Flip,2,Flip,True
+3945,9,Rotate,9,Rotate,True
+4816,12,Task Completion,12,Task Completion,True
+4835,12,Task Completion,12,Task Completion,True
+3238,8,Receive,8,Receive,True
+3704,9,Rotate,9,Rotate,True
+3729,9,Rotate,9,Rotate,True
+1027,2,Flip,2,Flip,True
+2150,5,Pick and Give,5,Pick and Give,True
+2345,5,Pick and Give,5,Pick and Give,True
+970,2,Flip,2,Flip,True
+5606,14,Wiping,14,Wiping,True
+1187,2,Flip,2,Flip,True
+1215,3,Pick,3,Pick,True
+78,0,Drop,0,Drop,True
+4020,10,Swipe Left,10,Swipe Left,True
+2208,5,Pick and Give,5,Pick and Give,True
+411,1,Emergency_calling,1,Emergency_calling,True
+3218,8,Receive,8,Receive,True
+139,0,Drop,0,Drop,True
+432,1,Emergency_calling,1,Emergency_calling,True
+1138,2,Flip,2,Flip,True
+3607,9,Rotate,9,Rotate,True
+867,2,Flip,2,Flip,True
+5951,14,Wiping,14,Wiping,True
+2370,5,Pick and Give,5,Pick and Give,True
+1735,4,Pick & Pour,4,Pick & Pour,True
+5363,13,Wave,13,Wave,True
+4958,12,Task Completion,12,Task Completion,True
+1474,3,Pick,3,Pick,True
+5746,14,Wiping,14,Wiping,True
+1648,4,Pick & Pour,4,Pick & Pour,True
+4988,12,Task Completion,12,Task Completion,True
+2475,6,Pick and Place,6,Pick and Place,True
+3108,7,Push,7,Push,True
+2188,5,Pick and Give,5,Pick and Give,True
+2992,7,Push,7,Push,True
+1112,2,Flip,2,Flip,True
+4479,11,Swipe Right,11,Swipe Right,True
+3247,8,Receive,8,Receive,True
+2531,6,Pick and Place,6,Pick and Place,True
+4218,10,Swipe Left,11,Swipe Right,False
+21,0,Drop,0,Drop,True
+4071,10,Swipe Left,10,Swipe Left,True
+880,2,Flip,2,Flip,True
+3956,9,Rotate,9,Rotate,True
+4710,11,Swipe Right,11,Swipe Right,True
+3691,9,Rotate,9,Rotate,True
+2759,6,Pick and Place,6,Pick and Place,True
+3605,9,Rotate,9,Rotate,True
+4281,10,Swipe Left,10,Swipe Left,True
+2636,6,Pick and Place,6,Pick and Place,True
+1528,3,Pick,3,Pick,True
+826,2,Flip,2,Flip,True
+4201,10,Swipe Left,10,Swipe Left,True
+5462,13,Wave,13,Wave,True
+5725,14,Wiping,14,Wiping,True
+3111,7,Push,7,Push,True
+1062,2,Flip,2,Flip,True
+3380,8,Receive,8,Receive,True
+3889,9,Rotate,9,Rotate,True
+608,1,Emergency_calling,1,Emergency_calling,True
+4044,10,Swipe Left,10,Swipe Left,True
+4769,11,Swipe Right,11,Swipe Right,True
+5548,13,Wave,13,Wave,True
+2471,6,Pick and Place,6,Pick and Place,True
+4040,10,Swipe Left,10,Swipe Left,True
+3774,9,Rotate,9,Rotate,True
+1893,4,Pick & Pour,4,Pick & Pour,True
+3999,9,Rotate,9,Rotate,True
+3057,7,Push,7,Push,True
+590,1,Emergency_calling,1,Emergency_calling,True
+2192,5,Pick and Give,5,Pick and Give,True
+1239,3,Pick,3,Pick,True
+2351,5,Pick and Give,5,Pick and Give,True
+2461,6,Pick and Place,6,Pick and Place,True
+1985,4,Pick & Pour,4,Pick & Pour,True
+2875,7,Push,7,Push,True
+2587,6,Pick and Place,6,Pick and Place,True
+3231,8,Receive,8,Receive,True
+5018,12,Task Completion,12,Task Completion,True
+5459,13,Wave,13,Wave,True
+2627,6,Pick and Place,6,Pick and Place,True
+851,2,Flip,2,Flip,True
+4146,10,Swipe Left,10,Swipe Left,True
+5207,13,Wave,13,Wave,True
+4595,11,Swipe Right,11,Swipe Right,True
+1312,3,Pick,3,Pick,True
+4776,11,Swipe Right,11,Swipe Right,True
+2399,5,Pick and Give,5,Pick and Give,True
+5050,12,Task Completion,12,Task Completion,True
+229,0,Drop,0,Drop,True
+800,2,Flip,2,Flip,True
+2429,6,Pick and Place,6,Pick and Place,True
+3844,9,Rotate,9,Rotate,True
+4132,10,Swipe Left,10,Swipe Left,True
+597,1,Emergency_calling,1,Emergency_calling,True
+3139,7,Push,7,Push,True
+581,1,Emergency_calling,1,Emergency_calling,True
+568,1,Emergency_calling,1,Emergency_calling,True
+5338,13,Wave,13,Wave,True
+2451,6,Pick and Place,6,Pick and Place,True
+1114,2,Flip,2,Flip,True
+2203,5,Pick and Give,5,Pick and Give,True
+473,1,Emergency_calling,1,Emergency_calling,True
+4115,10,Swipe Left,10,Swipe Left,True
+697,1,Emergency_calling,1,Emergency_calling,True
+896,2,Flip,2,Flip,True
+1015,2,Flip,2,Flip,True
+825,2,Flip,2,Flip,True
+5920,14,Wiping,14,Wiping,True
+1922,4,Pick & Pour,4,Pick & Pour,True
+5937,14,Wiping,14,Wiping,True
+61,0,Drop,0,Drop,True
+3813,9,Rotate,9,Rotate,True
+2347,5,Pick and Give,5,Pick and Give,True
+4494,11,Swipe Right,11,Swipe Right,True
+1907,4,Pick & Pour,4,Pick & Pour,True
+3819,9,Rotate,9,Rotate,True
+4397,10,Swipe Left,10,Swipe Left,True
+5454,13,Wave,13,Wave,True
+2356,5,Pick and Give,5,Pick and Give,True
+2556,6,Pick and Place,6,Pick and Place,True
+4843,12,Task Completion,12,Task Completion,True
+937,2,Flip,2,Flip,True
+4960,12,Task Completion,12,Task Completion,True
+2255,5,Pick and Give,5,Pick and Give,True
+4707,11,Swipe Right,11,Swipe Right,True
+5491,13,Wave,13,Wave,True
+1059,2,Flip,2,Flip,True
+5208,13,Wave,13,Wave,True
+4462,11,Swipe Right,11,Swipe Right,True
+1767,4,Pick & Pour,4,Pick & Pour,True
+5323,13,Wave,13,Wave,True
+5713,14,Wiping,14,Wiping,True
+5084,12,Task Completion,12,Task Completion,True
+1409,3,Pick,3,Pick,True
+2928,7,Push,7,Push,True
+3305,8,Receive,8,Receive,True
+601,1,Emergency_calling,1,Emergency_calling,True
+2646,6,Pick and Place,6,Pick and Place,True
+3252,8,Receive,8,Receive,True
+909,2,Flip,2,Flip,True
+3525,8,Receive,8,Receive,True
+5468,13,Wave,13,Wave,True
+3077,7,Push,7,Push,True
+1813,4,Pick & Pour,4,Pick & Pour,True
+1642,4,Pick & Pour,4,Pick & Pour,True
+1454,3,Pick,3,Pick,True
+449,1,Emergency_calling,1,Emergency_calling,True
+1289,3,Pick,3,Pick,True
+3679,9,Rotate,9,Rotate,True
+4264,10,Swipe Left,11,Swipe Right,False
+49,0,Drop,0,Drop,True
+3478,8,Receive,8,Receive,True
+3225,8,Receive,8,Receive,True
+3823,9,Rotate,9,Rotate,True
+5805,14,Wiping,14,Wiping,True
+410,1,Emergency_calling,1,Emergency_calling,True
+4731,11,Swipe Right,11,Swipe Right,True
+222,0,Drop,0,Drop,True
+4186,10,Swipe Left,10,Swipe Left,True
+134,0,Drop,0,Drop,True
+5079,12,Task Completion,12,Task Completion,True
+508,1,Emergency_calling,1,Emergency_calling,True
+874,2,Flip,2,Flip,True
+5649,14,Wiping,14,Wiping,True
+5204,13,Wave,13,Wave,True
+2140,5,Pick and Give,5,Pick and Give,True
+2106,5,Pick and Give,5,Pick and Give,True
+4532,11,Swipe Right,11,Swipe Right,True
+1552,3,Pick,3,Pick,True
+782,1,Emergency_calling,1,Emergency_calling,True
+1825,4,Pick & Pour,4,Pick & Pour,True
+4422,11,Swipe Right,11,Swipe Right,True
+4130,10,Swipe Left,10,Swipe Left,True
+5471,13,Wave,13,Wave,True
+2506,6,Pick and Place,6,Pick and Place,True
+5933,14,Wiping,14,Wiping,True
+2311,5,Pick and Give,5,Pick and Give,True
+1730,4,Pick & Pour,4,Pick & Pour,True
+5561,13,Wave,13,Wave,True
+4940,12,Task Completion,12,Task Completion,True
+927,2,Flip,2,Flip,True
+74,0,Drop,0,Drop,True
+4653,11,Swipe Right,11,Swipe Right,True
+1475,3,Pick,3,Pick,True
+3079,7,Push,7,Push,True
+3064,7,Push,7,Push,True
+1895,4,Pick & Pour,4,Pick & Pour,True
+2003,5,Pick and Give,5,Pick and Give,True
+3073,7,Push,7,Push,True
+2836,7,Push,7,Push,True
+3426,8,Receive,8,Receive,True
+2825,7,Push,7,Push,True
+646,1,Emergency_calling,1,Emergency_calling,True
+5023,12,Task Completion,12,Task Completion,True
+732,1,Emergency_calling,1,Emergency_calling,True
+4083,10,Swipe Left,10,Swipe Left,True
+170,0,Drop,0,Drop,True
+5479,13,Wave,13,Wave,True
+5064,12,Task Completion,12,Task Completion,True
+1032,2,Flip,2,Flip,True
+2045,5,Pick and Give,5,Pick and Give,True
+32,0,Drop,0,Drop,True
+528,1,Emergency_calling,1,Emergency_calling,True
+4664,11,Swipe Right,11,Swipe Right,True
+5944,14,Wiping,14,Wiping,True
+417,1,Emergency_calling,1,Emergency_calling,True
+1621,4,Pick & Pour,4,Pick & Pour,True
+2325,5,Pick and Give,5,Pick and Give,True
+2706,6,Pick and Place,6,Pick and Place,True
+3645,9,Rotate,9,Rotate,True
+5219,13,Wave,13,Wave,True
+1533,3,Pick,3,Pick,True
+4063,10,Swipe Left,10,Swipe Left,True
+4376,10,Swipe Left,10,Swipe Left,True
+5907,14,Wiping,14,Wiping,True
+2232,5,Pick and Give,5,Pick and Give,True
+652,1,Emergency_calling,1,Emergency_calling,True
+5136,12,Task Completion,12,Task Completion,True
+4383,10,Swipe Left,10,Swipe Left,True
+3339,8,Receive,8,Receive,True
+5188,12,Task Completion,12,Task Completion,True
+4154,10,Swipe Left,10,Swipe Left,True
+5168,12,Task Completion,12,Task Completion,True
+5,0,Drop,0,Drop,True
+1726,4,Pick & Pour,4,Pick & Pour,True
+5566,13,Wave,13,Wave,True
+2618,6,Pick and Place,6,Pick and Place,True
+4892,12,Task Completion,12,Task Completion,True
+4205,10,Swipe Left,10,Swipe Left,True
+2775,6,Pick and Place,6,Pick and Place,True
+555,1,Emergency_calling,1,Emergency_calling,True
+4320,10,Swipe Left,10,Swipe Left,True
+360,0,Drop,0,Drop,True
+4573,11,Swipe Right,11,Swipe Right,True
+2158,5,Pick and Give,5,Pick and Give,True
+2135,5,Pick and Give,5,Pick and Give,True
+4563,11,Swipe Right,11,Swipe Right,True
+3251,8,Receive,8,Receive,True
+659,1,Emergency_calling,1,Emergency_calling,True
+1852,4,Pick & Pour,4,Pick & Pour,True
+3056,7,Push,7,Push,True
+1108,2,Flip,2,Flip,True
+4979,12,Task Completion,12,Task Completion,True
+5648,14,Wiping,14,Wiping,True
+2428,6,Pick and Place,6,Pick and Place,True
+3104,7,Push,7,Push,True
+4099,10,Swipe Left,10,Swipe Left,True
+5978,14,Wiping,14,Wiping,True
+3610,9,Rotate,9,Rotate,True
+372,0,Drop,0,Drop,True
+2341,5,Pick and Give,5,Pick and Give,True
+4702,11,Swipe Right,11,Swipe Right,True
+4616,11,Swipe Right,11,Swipe Right,True
+1285,3,Pick,3,Pick,True
+319,0,Drop,0,Drop,True
+2189,5,Pick and Give,5,Pick and Give,True
+4459,11,Swipe Right,11,Swipe Right,True
+2589,6,Pick and Place,6,Pick and Place,True
+2942,7,Push,7,Push,True
+3920,9,Rotate,9,Rotate,True
+1336,3,Pick,3,Pick,True
+5830,14,Wiping,14,Wiping,True
+2202,5,Pick and Give,5,Pick and Give,True
+1094,2,Flip,2,Flip,True
+4935,12,Task Completion,12,Task Completion,True
+2071,5,Pick and Give,5,Pick and Give,True
+5175,12,Task Completion,12,Task Completion,True
+3294,8,Receive,8,Receive,True
+4442,11,Swipe Right,11,Swipe Right,True
+818,2,Flip,2,Flip,True
+3102,7,Push,7,Push,True
+3229,8,Receive,8,Receive,True
+212,0,Drop,0,Drop,True
+5871,14,Wiping,14,Wiping,True
+3765,9,Rotate,9,Rotate,True
+1663,4,Pick & Pour,4,Pick & Pour,True
+4444,11,Swipe Right,11,Swipe Right,True
+2993,7,Push,7,Push,True
+4517,11,Swipe Right,11,Swipe Right,True
+1965,4,Pick & Pour,4,Pick & Pour,True
+5959,14,Wiping,14,Wiping,True
+3748,9,Rotate,9,Rotate,True
+4068,10,Swipe Left,10,Swipe Left,True
+3290,8,Receive,8,Receive,True
+1216,3,Pick,3,Pick,True
+285,0,Drop,0,Drop,True
+2773,6,Pick and Place,6,Pick and Place,True
+827,2,Flip,2,Flip,True
+3016,7,Push,7,Push,True
+2995,7,Push,7,Push,True
+5515,13,Wave,13,Wave,True
+4868,12,Task Completion,12,Task Completion,True
+2912,7,Push,7,Push,True
+2275,5,Pick and Give,5,Pick and Give,True
+1507,3,Pick,3,Pick,True
+1521,3,Pick,3,Pick,True
+523,1,Emergency_calling,1,Emergency_calling,True
+63,0,Drop,0,Drop,True
+4123,10,Swipe Left,10,Swipe Left,True
+3244,8,Receive,8,Receive,True
+835,2,Flip,2,Flip,True
+2781,6,Pick and Place,6,Pick and Place,True
+520,1,Emergency_calling,1,Emergency_calling,True
+1609,4,Pick & Pour,4,Pick & Pour,True
+103,0,Drop,0,Drop,True
+5370,13,Wave,13,Wave,True
+4197,10,Swipe Left,10,Swipe Left,True
+4844,12,Task Completion,12,Task Completion,True
+3250,8,Receive,8,Receive,True
+2489,6,Pick and Place,6,Pick and Place,True
+5918,14,Wiping,14,Wiping,True
+650,1,Emergency_calling,1,Emergency_calling,True
+5421,13,Wave,13,Wave,True
+5108,12,Task Completion,12,Task Completion,True
+4203,10,Swipe Left,10,Swipe Left,True
+2551,6,Pick and Place,6,Pick and Place,True
+1096,2,Flip,2,Flip,True
+1290,3,Pick,3,Pick,True
+4122,10,Swipe Left,10,Swipe Left,True
+5268,13,Wave,13,Wave,True
+3899,9,Rotate,9,Rotate,True
+621,1,Emergency_calling,1,Emergency_calling,True
+101,0,Drop,0,Drop,True
+1908,4,Pick & Pour,4,Pick & Pour,True
+2080,5,Pick and Give,5,Pick and Give,True
+463,1,Emergency_calling,1,Emergency_calling,True
+2739,6,Pick and Place,6,Pick and Place,True
+1417,3,Pick,3,Pick,True
+3911,9,Rotate,9,Rotate,True
+3076,7,Push,7,Push,True
+3601,9,Rotate,9,Rotate,True
+4353,10,Swipe Left,10,Swipe Left,True
+792,1,Emergency_calling,1,Emergency_calling,True
+4788,11,Swipe Right,11,Swipe Right,True
+5334,13,Wave,13,Wave,True
+1462,3,Pick,3,Pick,True
+3359,8,Receive,8,Receive,True
+1649,4,Pick & Pour,4,Pick & Pour,True
+2375,5,Pick and Give,5,Pick and Give,True
+1805,4,Pick & Pour,4,Pick & Pour,True
+5780,14,Wiping,14,Wiping,True
+5319,13,Wave,13,Wave,True
+2382,5,Pick and Give,5,Pick and Give,True
+3487,8,Receive,8,Receive,True
+3858,9,Rotate,9,Rotate,True
+3653,9,Rotate,9,Rotate,True
+4451,11,Swipe Right,11,Swipe Right,True
+3522,8,Receive,8,Receive,True
+3707,9,Rotate,9,Rotate,True
+4371,10,Swipe Left,10,Swipe Left,True
+1188,2,Flip,2,Flip,True
+5042,12,Task Completion,12,Task Completion,True
+3550,8,Receive,8,Receive,True
+4538,11,Swipe Right,11,Swipe Right,True
+1626,4,Pick & Pour,4,Pick & Pour,True
+4135,10,Swipe Left,10,Swipe Left,True
+4900,12,Task Completion,12,Task Completion,True
+2068,5,Pick and Give,5,Pick and Give,True
+5185,12,Task Completion,12,Task Completion,True
+3527,8,Receive,8,Receive,True
+5123,12,Task Completion,12,Task Completion,True
+4273,10,Swipe Left,10,Swipe Left,True
+1495,3,Pick,3,Pick,True
+2666,6,Pick and Place,6,Pick and Place,True
+1111,2,Flip,2,Flip,True
+2233,5,Pick and Give,5,Pick and Give,True
+3779,9,Rotate,9,Rotate,True
+1641,4,Pick & Pour,4,Pick & Pour,True
+3400,8,Receive,8,Receive,True
+5434,13,Wave,13,Wave,True
+5063,12,Task Completion,12,Task Completion,True
+2729,6,Pick and Place,6,Pick and Place,True
+1473,3,Pick,3,Pick,True
+159,0,Drop,0,Drop,True
+3860,9,Rotate,9,Rotate,True
+4431,11,Swipe Right,11,Swipe Right,True
+1256,3,Pick,3,Pick,True
+1919,4,Pick & Pour,4,Pick & Pour,True
+3369,8,Receive,8,Receive,True
+785,1,Emergency_calling,1,Emergency_calling,True
+537,1,Emergency_calling,1,Emergency_calling,True
+4845,12,Task Completion,12,Task Completion,True
+4274,10,Swipe Left,10,Swipe Left,True
+5632,14,Wiping,14,Wiping,True
+2946,7,Push,7,Push,True
+4283,10,Swipe Left,10,Swipe Left,True
+3613,9,Rotate,9,Rotate,True
+4534,11,Swipe Right,11,Swipe Right,True
+4772,11,Swipe Right,11,Swipe Right,True
+2052,5,Pick and Give,5,Pick and Give,True
+3482,8,Receive,8,Receive,True
+5405,13,Wave,13,Wave,True
+5383,13,Wave,13,Wave,True
+5279,13,Wave,13,Wave,True
+2256,5,Pick and Give,5,Pick and Give,True
+412,1,Emergency_calling,1,Emergency_calling,True
+2368,5,Pick and Give,5,Pick and Give,True
+5945,14,Wiping,14,Wiping,True
+1580,3,Pick,3,Pick,True
+97,0,Drop,0,Drop,True
+3351,8,Receive,8,Receive,True
+525,1,Emergency_calling,1,Emergency_calling,True
+695,1,Emergency_calling,1,Emergency_calling,True
+2576,6,Pick and Place,6,Pick and Place,True
+1347,3,Pick,3,Pick,True
+5958,14,Wiping,14,Wiping,True
+3934,9,Rotate,9,Rotate,True
+1278,3,Pick,3,Pick,True
+153,0,Drop,0,Drop,True
+2983,7,Push,7,Push,True
+4762,11,Swipe Right,11,Swipe Right,True
+2500,6,Pick and Place,6,Pick and Place,True
+307,0,Drop,0,Drop,True
+2214,5,Pick and Give,5,Pick and Give,True
+569,1,Emergency_calling,1,Emergency_calling,True
+678,1,Emergency_calling,1,Emergency_calling,True
+3969,9,Rotate,9,Rotate,True
+1987,4,Pick & Pour,4,Pick & Pour,True
+1456,3,Pick,3,Pick,True
+2881,7,Push,7,Push,True
+2795,6,Pick and Place,6,Pick and Place,True
+2492,6,Pick and Place,6,Pick and Place,True
+505,1,Emergency_calling,1,Emergency_calling,True
+5343,13,Wave,13,Wave,True
+5473,13,Wave,13,Wave,True
+5896,14,Wiping,14,Wiping,True
+3912,9,Rotate,9,Rotate,True
+3148,7,Push,7,Push,True
+5295,13,Wave,13,Wave,True
+2658,6,Pick and Place,6,Pick and Place,True
+3331,8,Receive,8,Receive,True
+5332,13,Wave,13,Wave,True
+2730,6,Pick and Place,6,Pick and Place,True
+5894,14,Wiping,14,Wiping,True
+4178,10,Swipe Left,10,Swipe Left,True
+1912,4,Pick & Pour,4,Pick & Pour,True
+2558,6,Pick and Place,6,Pick and Place,True
+390,0,Drop,0,Drop,True
+1049,2,Flip,2,Flip,True
+316,0,Drop,0,Drop,True
+164,0,Drop,0,Drop,True
+1184,2,Flip,2,Flip,True
+5867,14,Wiping,14,Wiping,True
+83,0,Drop,0,Drop,True
+2468,6,Pick and Place,6,Pick and Place,True
+1300,3,Pick,3,Pick,True
+4722,11,Swipe Right,11,Swipe Right,True
+2136,5,Pick and Give,5,Pick and Give,True
+4943,12,Task Completion,12,Task Completion,True
+4884,12,Task Completion,12,Task Completion,True
+5375,13,Wave,13,Wave,True
+1824,4,Pick & Pour,4,Pick & Pour,True
+123,0,Drop,0,Drop,True
+1772,4,Pick & Pour,4,Pick & Pour,True
+799,1,Emergency_calling,1,Emergency_calling,True
+1363,3,Pick,3,Pick,True
+3722,9,Rotate,9,Rotate,True
+3563,8,Receive,8,Receive,True
+1666,4,Pick & Pour,4,Pick & Pour,True
+4463,11,Swipe Right,11,Swipe Right,True
+4506,11,Swipe Right,11,Swipe Right,True
+4235,10,Swipe Left,10,Swipe Left,True
+5270,13,Wave,13,Wave,True
+2125,5,Pick and Give,5,Pick and Give,True
+3962,9,Rotate,9,Rotate,True
+4220,10,Swipe Left,10,Swipe Left,True
+2846,7,Push,7,Push,True
+5960,14,Wiping,14,Wiping,True
+4756,11,Swipe Right,11,Swipe Right,True
+2568,6,Pick and Place,6,Pick and Place,True
+106,0,Drop,0,Drop,True
+4877,12,Task Completion,12,Task Completion,True
+729,1,Emergency_calling,1,Emergency_calling,True
+2923,7,Push,7,Push,True
+2104,5,Pick and Give,5,Pick and Give,True
+4797,11,Swipe Right,11,Swipe Right,True
+56,0,Drop,0,Drop,True
+4288,10,Swipe Left,10,Swipe Left,True
+3849,9,Rotate,9,Rotate,True
+4194,10,Swipe Left,10,Swipe Left,True
+1618,4,Pick & Pour,4,Pick & Pour,True
+2371,5,Pick and Give,5,Pick and Give,True
+2857,7,Push,7,Push,True
+1276,3,Pick,3,Pick,True
+5835,14,Wiping,14,Wiping,True
+1134,2,Flip,2,Flip,True
+3040,7,Push,7,Push,True
+4525,11,Swipe Right,11,Swipe Right,True
+267,0,Drop,0,Drop,True
+104,0,Drop,0,Drop,True
+2019,5,Pick and Give,5,Pick and Give,True
+2635,6,Pick and Place,6,Pick and Place,True
+3928,9,Rotate,9,Rotate,True
+4553,11,Swipe Right,11,Swipe Right,True
+4679,11,Swipe Right,11,Swipe Right,True
+780,1,Emergency_calling,1,Emergency_calling,True
+1506,3,Pick,3,Pick,True
+5689,14,Wiping,14,Wiping,True
+2533,6,Pick and Place,6,Pick and Place,True
+633,1,Emergency_calling,1,Emergency_calling,True
+2344,5,Pick and Give,5,Pick and Give,True
+4723,11,Swipe Right,11,Swipe Right,True
+2709,6,Pick and Place,6,Pick and Place,True
+2338,5,Pick and Give,5,Pick and Give,True
+1786,4,Pick & Pour,4,Pick & Pour,True
+3280,8,Receive,8,Receive,True
+3427,8,Receive,8,Receive,True
+3927,9,Rotate,9,Rotate,True
+4045,10,Swipe Left,10,Swipe Left,True
+3466,8,Receive,8,Receive,True
+3039,7,Push,7,Push,True
+5701,14,Wiping,14,Wiping,True
+1866,4,Pick & Pour,4,Pick & Pour,True
+5840,14,Wiping,14,Wiping,True
+3352,8,Receive,8,Receive,True
+4377,10,Swipe Left,10,Swipe Left,True
+3334,8,Receive,8,Receive,True
+2332,5,Pick and Give,5,Pick and Give,True
+1532,3,Pick,3,Pick,True
+5210,13,Wave,13,Wave,True
+3543,8,Receive,8,Receive,True
+2543,6,Pick and Place,6,Pick and Place,True
+3508,8,Receive,8,Receive,True
+4000,10,Swipe Left,10,Swipe Left,True
+5661,14,Wiping,14,Wiping,True
+3732,9,Rotate,9,Rotate,True
+47,0,Drop,0,Drop,True
+2318,5,Pick and Give,5,Pick and Give,True
+5193,12,Task Completion,12,Task Completion,True
+3731,9,Rotate,9,Rotate,True
+740,1,Emergency_calling,1,Emergency_calling,True
+1044,2,Flip,2,Flip,True
+5417,13,Wave,13,Wave,True
+4941,12,Task Completion,12,Task Completion,True
+2249,5,Pick and Give,5,Pick and Give,True
+292,0,Drop,0,Drop,True
+5092,12,Task Completion,12,Task Completion,True
+1799,4,Pick & Pour,4,Pick & Pour,True
+615,1,Emergency_calling,1,Emergency_calling,True
+150,0,Drop,0,Drop,True
+4399,10,Swipe Left,10,Swipe Left,True
+3395,8,Receive,8,Receive,True
+2690,6,Pick and Place,6,Pick and Place,True
+3312,8,Receive,8,Receive,True
+4564,11,Swipe Right,11,Swipe Right,True
+5431,13,Wave,13,Wave,True
+632,1,Emergency_calling,1,Emergency_calling,True
+4136,10,Swipe Left,10,Swipe Left,True
+5533,13,Wave,13,Wave,True
+257,0,Drop,0,Drop,True
+1178,2,Flip,2,Flip,True
+480,1,Emergency_calling,1,Emergency_calling,True
+1810,4,Pick & Pour,4,Pick & Pour,True
+4805,12,Task Completion,12,Task Completion,True
+3584,8,Receive,8,Receive,True
+4224,10,Swipe Left,11,Swipe Right,False
+4437,11,Swipe Right,11,Swipe Right,True
+4915,12,Task Completion,12,Task Completion,True
+3135,7,Push,7,Push,True
+4420,11,Swipe Right,11,Swipe Right,True
+1012,2,Flip,2,Flip,True
+3966,9,Rotate,9,Rotate,True
+5659,14,Wiping,14,Wiping,True
+1525,3,Pick,3,Pick,True
+1777,4,Pick & Pour,4,Pick & Pour,True
+1933,4,Pick & Pour,4,Pick & Pour,True
+1211,3,Pick,3,Pick,True
+4025,10,Swipe Left,10,Swipe Left,True
+3921,9,Rotate,9,Rotate,True
+5888,14,Wiping,14,Wiping,True
+4095,10,Swipe Left,10,Swipe Left,True
+4464,11,Swipe Right,11,Swipe Right,True
+3982,9,Rotate,9,Rotate,True
+2934,7,Push,7,Push,True
+5386,13,Wave,13,Wave,True
+2955,7,Push,7,Push,True
+5755,14,Wiping,14,Wiping,True
+4190,10,Swipe Left,10,Swipe Left,True
+724,1,Emergency_calling,1,Emergency_calling,True
+5346,13,Wave,13,Wave,True
+2563,6,Pick and Place,6,Pick and Place,True
+5495,13,Wave,13,Wave,True
+151,0,Drop,0,Drop,True
+3276,8,Receive,8,Receive,True
+1089,2,Flip,2,Flip,True
+4933,12,Task Completion,12,Task Completion,True
+4441,11,Swipe Right,11,Swipe Right,True
+183,0,Drop,0,Drop,True
+3043,7,Push,7,Push,True
+207,0,Drop,0,Drop,True
+4995,12,Task Completion,12,Task Completion,True
+2756,6,Pick and Place,6,Pick and Place,True
+1411,3,Pick,3,Pick,True
+1214,3,Pick,3,Pick,True
+2271,5,Pick and Give,5,Pick and Give,True
+2523,6,Pick and Place,6,Pick and Place,True
+120,0,Drop,0,Drop,True
+975,2,Flip,2,Flip,True
+3580,8,Receive,8,Receive,True
+30,0,Drop,0,Drop,True
+1159,2,Flip,2,Flip,True
+589,1,Emergency_calling,1,Emergency_calling,True
+5322,13,Wave,13,Wave,True
+5682,14,Wiping,14,Wiping,True
+202,0,Drop,0,Drop,True
+1191,2,Flip,2,Flip,True
+1139,2,Flip,2,Flip,True
+3140,7,Push,7,Push,True
+4829,12,Task Completion,12,Task Completion,True
+50,0,Drop,0,Drop,True
+1259,3,Pick,3,Pick,True
+1079,2,Flip,2,Flip,True
+4041,10,Swipe Left,10,Swipe Left,True
+4490,11,Swipe Right,11,Swipe Right,True
+2596,6,Pick and Place,6,Pick and Place,True
+5101,12,Task Completion,12,Task Completion,True
+297,0,Drop,0,Drop,True
+1733,4,Pick & Pour,4,Pick & Pour,True
+4837,12,Task Completion,12,Task Completion,True
+2874,7,Push,7,Push,True
+3499,8,Receive,8,Receive,True
+443,1,Emergency_calling,1,Emergency_calling,True
+2122,5,Pick and Give,5,Pick and Give,True
+396,0,Drop,0,Drop,True
+5330,13,Wave,13,Wave,True
+371,0,Drop,0,Drop,True
+1962,4,Pick & Pour,4,Pick & Pour,True
+4594,11,Swipe Right,11,Swipe Right,True
+2637,6,Pick and Place,6,Pick and Place,True
+1568,3,Pick,3,Pick,True
+5212,13,Wave,13,Wave,True
+4172,10,Swipe Left,10,Swipe Left,True
+2588,6,Pick and Place,6,Pick and Place,True
+1538,3,Pick,3,Pick,True
+923,2,Flip,2,Flip,True
+1670,4,Pick & Pour,4,Pick & Pour,True
+274,0,Drop,0,Drop,True
+3739,9,Rotate,9,Rotate,True
+298,0,Drop,0,Drop,True
+5361,13,Wave,13,Wave,True
+1697,4,Pick & Pour,4,Pick & Pour,True
+4226,10,Swipe Left,10,Swipe Left,True
+4179,10,Swipe Left,10,Swipe Left,True
+4853,12,Task Completion,12,Task Completion,True
+2876,7,Push,7,Push,True
+3780,9,Rotate,9,Rotate,True
+2113,5,Pick and Give,5,Pick and Give,True
+2389,5,Pick and Give,5,Pick and Give,True
+2099,5,Pick and Give,5,Pick and Give,True
+4428,11,Swipe Right,11,Swipe Right,True
+5138,12,Task Completion,12,Task Completion,True
+4398,10,Swipe Left,10,Swipe Left,True
+1901,4,Pick & Pour,4,Pick & Pour,True
+3325,8,Receive,8,Receive,True
+3092,7,Push,7,Push,True
+3281,8,Receive,8,Receive,True
+4298,10,Swipe Left,10,Swipe Left,True
+4061,10,Swipe Left,10,Swipe Left,True
+5273,13,Wave,13,Wave,True
+361,0,Drop,0,Drop,True
+2154,5,Pick and Give,5,Pick and Give,True
+4632,11,Swipe Right,11,Swipe Right,True
+3917,9,Rotate,9,Rotate,True
+700,1,Emergency_calling,1,Emergency_calling,True
+4239,10,Swipe Left,10,Swipe Left,True
+1504,3,Pick,3,Pick,True
+1759,4,Pick & Pour,4,Pick & Pour,True
+4131,10,Swipe Left,10,Swipe Left,True
+3686,9,Rotate,9,Rotate,True
+725,1,Emergency_calling,1,Emergency_calling,True
+1479,3,Pick,3,Pick,True
+2820,7,Push,7,Push,True
+2373,5,Pick and Give,5,Pick and Give,True
+3115,7,Push,7,Push,True
+2353,5,Pick and Give,5,Pick and Give,True
+5590,13,Wave,13,Wave,True
+2282,5,Pick and Give,5,Pick and Give,True
+5936,14,Wiping,14,Wiping,True
+365,0,Drop,0,Drop,True
+1766,4,Pick & Pour,4,Pick & Pour,True
+4548,11,Swipe Right,11,Swipe Right,True
+1558,3,Pick,3,Pick,True
+2986,7,Push,7,Push,True
+3103,7,Push,7,Push,True
+3500,8,Receive,8,Receive,True
+2278,5,Pick and Give,5,Pick and Give,True
+76,0,Drop,0,Drop,True
+3309,8,Receive,8,Receive,True
+2164,5,Pick and Give,5,Pick and Give,True
+2393,5,Pick and Give,5,Pick and Give,True
+4219,10,Swipe Left,11,Swipe Right,False
+4046,10,Swipe Left,10,Swipe Left,True
+12,0,Drop,0,Drop,True
+4852,12,Task Completion,12,Task Completion,True
+1593,3,Pick,3,Pick,True
+5988,14,Wiping,14,Wiping,True
+4434,11,Swipe Right,11,Swipe Right,True
+4698,11,Swipe Right,11,Swipe Right,True
+953,2,Flip,2,Flip,True
+2092,5,Pick and Give,5,Pick and Give,True
+344,0,Drop,0,Drop,True
+2741,6,Pick and Place,6,Pick and Place,True
+5537,13,Wave,13,Wave,True
+4175,10,Swipe Left,10,Swipe Left,True
+4905,12,Task Completion,12,Task Completion,True
+1819,4,Pick & Pour,4,Pick & Pour,True
+2771,6,Pick and Place,6,Pick and Place,True
+4971,12,Task Completion,12,Task Completion,True
+1076,2,Flip,2,Flip,True
+4928,12,Task Completion,12,Task Completion,True
+746,1,Emergency_calling,1,Emergency_calling,True
+3220,8,Receive,8,Receive,True
+289,0,Drop,0,Drop,True
+5793,14,Wiping,14,Wiping,True
+3465,8,Receive,8,Receive,True
+5665,14,Wiping,14,Wiping,True
+2740,6,Pick and Place,6,Pick and Place,True
+5883,14,Wiping,14,Wiping,True
+2241,5,Pick and Give,5,Pick and Give,True
+1031,2,Flip,2,Flip,True
+259,0,Drop,0,Drop,True
+541,1,Emergency_calling,1,Emergency_calling,True
+1296,3,Pick,3,Pick,True
+1366,3,Pick,3,Pick,True
+24,0,Drop,0,Drop,True
+1153,2,Flip,2,Flip,True
+1065,2,Flip,2,Flip,True
+3207,8,Receive,8,Receive,True
+3647,9,Rotate,9,Rotate,True
+1433,3,Pick,3,Pick,True
+5455,13,Wave,13,Wave,True
+3591,8,Receive,8,Receive,True
+4787,11,Swipe Right,11,Swipe Right,True
+5748,14,Wiping,14,Wiping,True
+2676,6,Pick and Place,6,Pick and Place,True
+2462,6,Pick and Place,6,Pick and Place,True
+759,1,Emergency_calling,1,Emergency_calling,True
+612,1,Emergency_calling,1,Emergency_calling,True
+2392,5,Pick and Give,5,Pick and Give,True
+2250,5,Pick and Give,5,Pick and Give,True
+3919,9,Rotate,9,Rotate,True
+2335,5,Pick and Give,5,Pick and Give,True
+602,1,Emergency_calling,1,Emergency_calling,True
+1243,3,Pick,3,Pick,True
+2269,5,Pick and Give,5,Pick and Give,True
+995,2,Flip,2,Flip,True
+860,2,Flip,2,Flip,True
+3215,8,Receive,8,Receive,True
+3734,9,Rotate,9,Rotate,True
+5146,12,Task Completion,12,Task Completion,True
+3766,9,Rotate,9,Rotate,True
+2175,5,Pick and Give,5,Pick and Give,True
+5128,12,Task Completion,12,Task Completion,True
+3818,9,Rotate,9,Rotate,True
+736,1,Emergency_calling,1,Emergency_calling,True
+137,0,Drop,0,Drop,True
+2247,5,Pick and Give,5,Pick and Give,True
+5673,14,Wiping,14,Wiping,True
+260,0,Drop,0,Drop,True
+2967,7,Push,7,Push,True
+938,2,Flip,2,Flip,True
+2139,5,Pick and Give,5,Pick and Give,True
+3259,8,Receive,8,Receive,True
+1314,3,Pick,3,Pick,True
+4231,10,Swipe Left,10,Swipe Left,True
+5654,14,Wiping,14,Wiping,True
+1471,3,Pick,3,Pick,True
+4989,12,Task Completion,12,Task Completion,True
+494,1,Emergency_calling,1,Emergency_calling,True
+3269,8,Receive,8,Receive,True
+2958,7,Push,7,Push,True
+2554,6,Pick and Place,6,Pick and Place,True
+824,2,Flip,2,Flip,True
+5072,12,Task Completion,12,Task Completion,True
+2201,5,Pick and Give,5,Pick and Give,True
+5304,13,Wave,13,Wave,True
+2120,5,Pick and Give,5,Pick and Give,True
+1154,2,Flip,2,Flip,True
+5514,13,Wave,13,Wave,True
+5049,12,Task Completion,12,Task Completion,True
+587,1,Emergency_calling,1,Emergency_calling,True
+1295,3,Pick,3,Pick,True
+1595,3,Pick,3,Pick,True
+4626,11,Swipe Right,11,Swipe Right,True
+5360,13,Wave,13,Wave,True
+5269,13,Wave,13,Wave,True
+1173,2,Flip,2,Flip,True
+2699,6,Pick and Place,6,Pick and Place,True
+2317,5,Pick and Give,5,Pick and Give,True
+2394,5,Pick and Give,5,Pick and Give,True
+1681,4,Pick & Pour,4,Pick & Pour,True
+1879,4,Pick & Pour,4,Pick & Pour,True
+4619,11,Swipe Right,10,Swipe Left,False
+5287,13,Wave,13,Wave,True
+5934,14,Wiping,14,Wiping,True
+4010,10,Swipe Left,10,Swipe Left,True
+1628,4,Pick & Pour,4,Pick & Pour,True
+983,2,Flip,2,Flip,True
+3271,8,Receive,8,Receive,True
+5622,14,Wiping,14,Wiping,True
+1793,4,Pick & Pour,4,Pick & Pour,True
+5619,14,Wiping,14,Wiping,True
+5870,14,Wiping,14,Wiping,True
+5640,14,Wiping,14,Wiping,True
+4609,11,Swipe Right,11,Swipe Right,True
+1174,2,Flip,2,Flip,True
+4152,10,Swipe Left,10,Swipe Left,True
+1945,4,Pick & Pour,4,Pick & Pour,True
+572,1,Emergency_calling,1,Emergency_calling,True
+948,2,Flip,2,Flip,True
+4340,10,Swipe Left,10,Swipe Left,True
+87,0,Drop,0,Drop,True
+130,0,Drop,0,Drop,True
+3760,9,Rotate,9,Rotate,True
+5841,14,Wiping,14,Wiping,True
+3283,8,Receive,8,Receive,True
+1622,4,Pick & Pour,4,Pick & Pour,True
+548,1,Emergency_calling,1,Emergency_calling,True
+3635,9,Rotate,9,Rotate,True
+3674,9,Rotate,9,Rotate,True
+2980,7,Push,7,Push,True
+5777,14,Wiping,14,Wiping,True
+4341,10,Swipe Left,10,Swipe Left,True
+2444,6,Pick and Place,6,Pick and Place,True
+4103,10,Swipe Left,10,Swipe Left,True
+2544,6,Pick and Place,6,Pick and Place,True
+3663,9,Rotate,9,Rotate,True
+5706,14,Wiping,14,Wiping,True
+2726,6,Pick and Place,6,Pick and Place,True
+4254,10,Swipe Left,10,Swipe Left,True
+16,0,Drop,0,Drop,True
+5371,13,Wave,13,Wave,True
+3484,8,Receive,8,Receive,True
+1884,4,Pick & Pour,4,Pick & Pour,True
+1401,3,Pick,3,Pick,True
+3951,9,Rotate,9,Rotate,True
+1081,2,Flip,2,Flip,True
+2624,6,Pick and Place,6,Pick and Place,True
+66,0,Drop,0,Drop,True
+584,1,Emergency_calling,1,Emergency_calling,True
+2415,6,Pick and Place,6,Pick and Place,True
+5117,12,Task Completion,12,Task Completion,True
+3838,9,Rotate,9,Rotate,True
+1792,4,Pick & Pour,4,Pick & Pour,True
+836,2,Flip,2,Flip,True
+3891,9,Rotate,9,Rotate,True
+4614,11,Swipe Right,11,Swipe Right,True
+3364,8,Receive,8,Receive,True
+4024,10,Swipe Left,10,Swipe Left,True
+3068,7,Push,7,Push,True
+3736,9,Rotate,9,Rotate,True
+221,0,Drop,0,Drop,True
+460,1,Emergency_calling,1,Emergency_calling,True
+5857,14,Wiping,14,Wiping,True
+4747,11,Swipe Right,11,Swipe Right,True
+2145,5,Pick and Give,5,Pick and Give,True
+3939,9,Rotate,9,Rotate,True
+4997,12,Task Completion,12,Task Completion,True
+1236,3,Pick,3,Pick,True
+146,0,Drop,0,Drop,True
+1942,4,Pick & Pour,4,Pick & Pour,True
+3501,8,Receive,8,Receive,True
+2167,5,Pick and Give,5,Pick and Give,True
+2246,5,Pick and Give,5,Pick and Give,True
+113,0,Drop,0,Drop,True
+1850,4,Pick & Pour,4,Pick & Pour,True
+5702,14,Wiping,14,Wiping,True
+1294,3,Pick,3,Pick,True
+5956,14,Wiping,14,Wiping,True
+340,0,Drop,0,Drop,True
+5655,14,Wiping,14,Wiping,True
+681,1,Emergency_calling,1,Emergency_calling,True
+1067,2,Flip,2,Flip,True
+831,2,Flip,2,Flip,True
+4661,11,Swipe Right,11,Swipe Right,True
+1340,3,Pick,3,Pick,True
+535,1,Emergency_calling,1,Emergency_calling,True
+2339,5,Pick and Give,5,Pick and Give,True
+2883,7,Push,7,Push,True
+1909,4,Pick & Pour,4,Pick & Pour,True
+5670,14,Wiping,14,Wiping,True
+225,0,Drop,0,Drop,True
+2673,6,Pick and Place,6,Pick and Place,True
+1876,4,Pick & Pour,4,Pick & Pour,True
+926,2,Flip,2,Flip,True
+1331,3,Pick,3,Pick,True
+1452,3,Pick,3,Pick,True
+53,0,Drop,0,Drop,True
+5022,12,Task Completion,12,Task Completion,True
+1147,2,Flip,2,Flip,True
+3,0,Drop,0,Drop,True
+1364,3,Pick,3,Pick,True
+4166,10,Swipe Left,10,Swipe Left,True
+956,2,Flip,2,Flip,True
+5312,13,Wave,13,Wave,True
+2944,7,Push,7,Push,True
+3506,8,Receive,8,Receive,True
+302,0,Drop,0,Drop,True
+4105,10,Swipe Left,10,Swipe Left,True
+5947,14,Wiping,14,Wiping,True
+5327,13,Wave,13,Wave,True
+560,1,Emergency_calling,1,Emergency_calling,True
+3712,9,Rotate,9,Rotate,True
+805,2,Flip,2,Flip,True
+5738,14,Wiping,14,Wiping,True
+5011,12,Task Completion,12,Task Completion,True
+288,0,Drop,0,Drop,True
+1329,3,Pick,3,Pick,True
+2277,5,Pick and Give,5,Pick and Give,True
+3296,8,Receive,8,Receive,True
+4362,10,Swipe Left,10,Swipe Left,True
+1863,4,Pick & Pour,4,Pick & Pour,True
+2788,6,Pick and Place,6,Pick and Place,True
+4286,10,Swipe Left,10,Swipe Left,True
+1322,3,Pick,3,Pick,True
+5194,12,Task Completion,12,Task Completion,True
+1559,3,Pick,3,Pick,True
+5438,13,Wave,13,Wave,True
+1193,2,Flip,2,Flip,True
+2354,5,Pick and Give,5,Pick and Give,True
+5877,14,Wiping,14,Wiping,True
+4032,10,Swipe Left,10,Swipe Left,True
+36,0,Drop,0,Drop,True
+466,1,Emergency_calling,1,Emergency_calling,True
+3839,9,Rotate,9,Rotate,True
+5541,13,Wave,13,Wave,True
+4492,11,Swipe Right,11,Swipe Right,True
+2268,5,Pick and Give,5,Pick and Give,True
+3720,9,Rotate,9,Rotate,True
+2178,5,Pick and Give,5,Pick and Give,True
+2455,6,Pick and Place,6,Pick and Place,True
+713,1,Emergency_calling,1,Emergency_calling,True
+2086,5,Pick and Give,5,Pick and Give,True
+3680,9,Rotate,9,Rotate,True
+5260,13,Wave,13,Wave,True
+2160,5,Pick and Give,5,Pick and Give,True
+1288,3,Pick,3,Pick,True
+3778,9,Rotate,9,Rotate,True
+529,1,Emergency_calling,1,Emergency_calling,True
+1964,4,Pick & Pour,4,Pick & Pour,True
+2457,6,Pick and Place,6,Pick and Place,True
+5016,12,Task Completion,12,Task Completion,True
+1857,4,Pick & Pour,4,Pick & Pour,True
+5164,12,Task Completion,12,Task Completion,True
+5435,13,Wave,13,Wave,True
+3134,7,Push,7,Push,True
+4128,10,Swipe Left,10,Swipe Left,True
+4466,11,Swipe Right,11,Swipe Right,True
+3762,9,Rotate,9,Rotate,True
+5213,13,Wave,13,Wave,True
+2198,5,Pick and Give,5,Pick and Give,True
+247,0,Drop,0,Drop,True
+4815,12,Task Completion,12,Task Completion,True
+1821,4,Pick & Pour,4,Pick & Pour,True
+5399,13,Wave,13,Wave,True
+235,0,Drop,0,Drop,True
+2304,5,Pick and Give,5,Pick and Give,True
+4379,10,Swipe Left,10,Swipe Left,True
+2628,6,Pick and Place,6,Pick and Place,True
+5802,14,Wiping,14,Wiping,True
+1337,3,Pick,3,Pick,True
+4257,10,Swipe Left,10,Swipe Left,True
+4244,10,Swipe Left,10,Swipe Left,True
+483,1,Emergency_calling,1,Emergency_calling,True
+5321,13,Wave,13,Wave,True
+1109,2,Flip,2,Flip,True
+2143,5,Pick and Give,5,Pick and Give,True
+1339,3,Pick,3,Pick,True
+2814,7,Push,7,Push,True
+5198,12,Task Completion,12,Task Completion,True
+1287,3,Pick,3,Pick,True
+3575,8,Receive,8,Receive,True
+1535,3,Pick,3,Pick,True
+4401,11,Swipe Right,11,Swipe Right,True
+3240,8,Receive,8,Receive,True
+1923,4,Pick & Pour,4,Pick & Pour,True
+5625,14,Wiping,14,Wiping,True
+209,0,Drop,0,Drop,True
+3492,8,Receive,8,Receive,True
+1446,3,Pick,3,Pick,True
+3677,9,Rotate,9,Rotate,True
+3879,9,Rotate,9,Rotate,True
+5484,13,Wave,13,Wave,True
+1571,3,Pick,3,Pick,True
+3291,8,Receive,8,Receive,True
+658,1,Emergency_calling,1,Emergency_calling,True
+496,1,Emergency_calling,1,Emergency_calling,True
+4646,11,Swipe Right,11,Swipe Right,True
+1981,4,Pick & Pour,4,Pick & Pour,True
+4795,11,Swipe Right,11,Swipe Right,True
+3496,8,Receive,8,Receive,True
+5161,12,Task Completion,12,Task Completion,True
+3142,7,Push,7,Push,True
+5410,13,Wave,13,Wave,True
+2509,6,Pick and Place,6,Pick and Place,True
+2892,7,Push,7,Push,True
+2951,7,Push,7,Push,True
+4393,10,Swipe Left,10,Swipe Left,True
+4183,10,Swipe Left,10,Swipe Left,True
+2017,5,Pick and Give,5,Pick and Give,True
+5091,12,Task Completion,12,Task Completion,True
+3633,9,Rotate,9,Rotate,True
+4794,11,Swipe Right,11,Swipe Right,True
+1634,4,Pick & Pour,4,Pick & Pour,True
+2723,6,Pick and Place,6,Pick and Place,True
+614,1,Emergency_calling,1,Emergency_calling,True
+1461,3,Pick,3,Pick,True
+1303,3,Pick,3,Pick,True
+4436,11,Swipe Right,11,Swipe Right,True
+3279,8,Receive,8,Receive,True
+5056,12,Task Completion,12,Task Completion,True
+2782,6,Pick and Place,6,Pick and Place,True
+2702,6,Pick and Place,6,Pick and Place,True
+5975,14,Wiping,14,Wiping,True
+675,1,Emergency_calling,1,Emergency_calling,True
+4507,11,Swipe Right,11,Swipe Right,True
+2977,7,Push,7,Push,True
+4562,11,Swipe Right,11,Swipe Right,True
+4913,12,Task Completion,12,Task Completion,True
+977,2,Flip,2,Flip,True
+281,0,Drop,0,Drop,True
+3493,8,Receive,8,Receive,True
+1834,4,Pick & Pour,4,Pick & Pour,True
+1447,3,Pick,3,Pick,True
+3562,8,Receive,8,Receive,True
+4082,10,Swipe Left,10,Swipe Left,True
+5250,13,Wave,13,Wave,True
+2265,5,Pick and Give,5,Pick and Give,True
+4088,10,Swipe Left,10,Swipe Left,True
+1519,3,Pick,3,Pick,True
+5520,13,Wave,13,Wave,True
+2439,6,Pick and Place,6,Pick and Place,True
+2004,5,Pick and Give,5,Pick and Give,True
+5009,12,Task Completion,12,Task Completion,True
+5998,14,Wiping,14,Wiping,True
+4721,11,Swipe Right,11,Swipe Right,True
+4779,11,Swipe Right,11,Swipe Right,True
+2959,7,Push,7,Push,True
+2769,6,Pick and Place,6,Pick and Place,True
+3972,9,Rotate,9,Rotate,True
+4668,11,Swipe Right,11,Swipe Right,True
+279,0,Drop,0,Drop,True
+519,1,Emergency_calling,1,Emergency_calling,True
+1596,3,Pick,3,Pick,True
+814,2,Flip,2,Flip,True
+2464,6,Pick and Place,6,Pick and Place,True
+3036,7,Push,7,Push,True
+2757,6,Pick and Place,6,Pick and Place,True
+592,1,Emergency_calling,1,Emergency_calling,True
+1518,3,Pick,3,Pick,True
+932,2,Flip,2,Flip,True
+2953,7,Push,7,Push,True
+3926,9,Rotate,9,Rotate,True
+1911,4,Pick & Pour,4,Pick & Pour,True
+688,1,Emergency_calling,1,Emergency_calling,True
+665,1,Emergency_calling,1,Emergency_calling,True
+4919,12,Task Completion,12,Task Completion,True
+4555,11,Swipe Right,11,Swipe Right,True
+1771,4,Pick & Pour,4,Pick & Pour,True
+5028,12,Task Completion,12,Task Completion,True
+1831,4,Pick & Pour,4,Pick & Pour,True
+77,0,Drop,0,Drop,True
+2852,7,Push,7,Push,True
+5014,12,Task Completion,12,Task Completion,True
+3321,8,Receive,8,Receive,True
+1891,4,Pick & Pour,4,Pick & Pour,True
+1734,4,Pick & Pour,4,Pick & Pour,True
+2064,5,Pick and Give,5,Pick and Give,True
+3159,7,Push,7,Push,True
+2841,7,Push,7,Push,True
+5889,14,Wiping,14,Wiping,True
+3561,8,Receive,8,Receive,True
+4355,10,Swipe Left,10,Swipe Left,True
+2789,6,Pick and Place,6,Pick and Place,True
+935,2,Flip,2,Flip,True
+1423,3,Pick,3,Pick,True
+1774,4,Pick & Pour,4,Pick & Pour,True
+954,2,Flip,2,Flip,True
+3022,7,Push,7,Push,True
+716,1,Emergency_calling,1,Emergency_calling,True
+4503,11,Swipe Right,11,Swipe Right,True
+1064,2,Flip,2,Flip,True
+5782,14,Wiping,14,Wiping,True
+1152,2,Flip,2,Flip,True
+4112,10,Swipe Left,10,Swipe Left,True
+3975,9,Rotate,9,Rotate,True
+5148,12,Task Completion,12,Task Completion,True
+3910,9,Rotate,9,Rotate,True
+1073,2,Flip,2,Flip,True
+465,1,Emergency_calling,1,Emergency_calling,True
+4969,12,Task Completion,12,Task Completion,True
+3630,9,Rotate,9,Rotate,True
+5110,12,Task Completion,12,Task Completion,True
+5141,12,Task Completion,12,Task Completion,True
+1871,4,Pick & Pour,4,Pick & Pour,True
+1870,4,Pick & Pour,4,Pick & Pour,True
+3378,8,Receive,8,Receive,True
+2499,6,Pick and Place,6,Pick and Place,True
+4087,10,Swipe Left,10,Swipe Left,True
+3120,7,Push,7,Push,True
+5424,13,Wave,13,Wave,True
+3606,9,Rotate,9,Rotate,True
+2421,6,Pick and Place,6,Pick and Place,True
+4733,11,Swipe Right,11,Swipe Right,True
+445,1,Emergency_calling,1,Emergency_calling,True
+3182,7,Push,7,Push,True
+2147,5,Pick and Give,5,Pick and Give,True
+1865,4,Pick & Pour,4,Pick & Pour,True
+4686,11,Swipe Right,11,Swipe Right,True
+1140,2,Flip,2,Flip,True
+62,0,Drop,0,Drop,True
+95,0,Drop,0,Drop,True
+1630,4,Pick & Pour,4,Pick & Pour,True
+2121,5,Pick and Give,5,Pick and Give,True
+4157,10,Swipe Left,10,Swipe Left,True
+2524,6,Pick and Place,6,Pick and Place,True
+2074,5,Pick and Give,5,Pick and Give,True
+4184,10,Swipe Left,10,Swipe Left,True
+2299,5,Pick and Give,5,Pick and Give,True
+2651,6,Pick and Place,6,Pick and Place,True
+5339,13,Wave,13,Wave,True
+1223,3,Pick,3,Pick,True
+2720,6,Pick and Place,6,Pick and Place,True
+4036,10,Swipe Left,10,Swipe Left,True
+3414,8,Receive,8,Receive,True
+3113,7,Push,7,Push,True
+5698,14,Wiping,14,Wiping,True
+5107,12,Task Completion,12,Task Completion,True
+4541,11,Swipe Right,11,Swipe Right,True
+1669,4,Pick & Pour,4,Pick & Pour,True
+3479,8,Receive,8,Receive,True
+2,0,Drop,0,Drop,True
+966,2,Flip,2,Flip,True
+1127,2,Flip,2,Flip,True
+1996,4,Pick & Pour,4,Pick & Pour,True
+2856,7,Push,7,Push,True
+1407,3,Pick,3,Pick,True
+844,2,Flip,2,Flip,True
+4896,12,Task Completion,12,Task Completion,True
+3485,8,Receive,8,Receive,True
+4886,12,Task Completion,12,Task Completion,True
+1858,4,Pick & Pour,4,Pick & Pour,True
+869,2,Flip,2,Flip,True
+3756,9,Rotate,9,Rotate,True
+616,1,Emergency_calling,1,Emergency_calling,True
+5705,14,Wiping,14,Wiping,True
+3306,8,Receive,8,Receive,True
+4315,10,Swipe Left,10,Swipe Left,True
+3950,9,Rotate,9,Rotate,True
+2834,7,Push,7,Push,True
+2097,5,Pick and Give,5,Pick and Give,True
+1984,4,Pick & Pour,4,Pick & Pour,True
+1382,3,Pick,3,Pick,True
+1341,3,Pick,3,Pick,True
+4746,11,Swipe Right,11,Swipe Right,True
+4881,12,Task Completion,12,Task Completion,True
+3341,8,Receive,8,Receive,True
+2059,5,Pick and Give,5,Pick and Give,True
+5401,13,Wave,13,Wave,True
+3201,8,Receive,8,Receive,True
+3133,7,Push,7,Push,True
+2200,5,Pick and Give,5,Pick and Give,True
+5837,14,Wiping,14,Wiping,True
+200,0,Drop,0,Drop,True
+4730,11,Swipe Right,11,Swipe Right,True
+722,1,Emergency_calling,1,Emergency_calling,True
+4090,10,Swipe Left,10,Swipe Left,True
+294,0,Drop,0,Drop,True
+5288,13,Wave,13,Wave,True
+126,0,Drop,0,Drop,True
+5893,14,Wiping,14,Wiping,True
+2507,6,Pick and Place,6,Pick and Place,True
+4387,10,Swipe Left,10,Swipe Left,True
+2305,5,Pick and Give,5,Pick and Give,True
+5446,13,Wave,13,Wave,True
+2053,5,Pick and Give,5,Pick and Give,True
+9,0,Drop,0,Drop,True
+3873,9,Rotate,9,Rotate,True
+2185,5,Pick and Give,5,Pick and Give,True
+1578,3,Pick,3,Pick,True
+1680,4,Pick & Pour,4,Pick & Pour,True
+2945,7,Push,7,Push,True
+5850,14,Wiping,14,Wiping,True
+5938,14,Wiping,14,Wiping,True
+5844,14,Wiping,14,Wiping,True
+5535,13,Wave,13,Wave,True
+4113,10,Swipe Left,10,Swipe Left,True
+3763,9,Rotate,9,Rotate,True
+1832,4,Pick & Pour,4,Pick & Pour,True
+1022,2,Flip,2,Flip,True
+671,1,Emergency_calling,1,Emergency_calling,True
+320,0,Drop,0,Drop,True
+433,1,Emergency_calling,1,Emergency_calling,True
+1827,4,Pick & Pour,4,Pick & Pour,True
+903,2,Flip,2,Flip,True
+5264,13,Wave,13,Wave,True
+750,1,Emergency_calling,1,Emergency_calling,True
+714,1,Emergency_calling,1,Emergency_calling,True
+829,2,Flip,2,Flip,True
+4352,10,Swipe Left,10,Swipe Left,True
+2879,7,Push,7,Push,True
+230,0,Drop,0,Drop,True
+3355,8,Receive,8,Receive,True
+5795,14,Wiping,14,Wiping,True
+3877,9,Rotate,9,Rotate,True
+2181,5,Pick and Give,5,Pick and Give,True
+5518,13,Wave,13,Wave,True
+2487,6,Pick and Place,6,Pick and Place,True
+4027,10,Swipe Left,10,Swipe Left,True
+4551,11,Swipe Right,11,Swipe Right,True
+2162,5,Pick and Give,5,Pick and Give,True
+3857,9,Rotate,9,Rotate,True
+4014,10,Swipe Left,10,Swipe Left,True
+3206,8,Receive,8,Receive,True
+4004,10,Swipe Left,10,Swipe Left,True
+1584,3,Pick,3,Pick,True
+5125,12,Task Completion,12,Task Completion,True
+4424,11,Swipe Right,11,Swipe Right,True
+1638,4,Pick & Pour,4,Pick & Pour,True
+2728,6,Pick and Place,6,Pick and Place,True
+1854,4,Pick & Pour,4,Pick & Pour,True
+4334,10,Swipe Left,10,Swipe Left,True
+4598,11,Swipe Right,11,Swipe Right,True
+4688,11,Swipe Right,11,Swipe Right,True
+1689,4,Pick & Pour,4,Pick & Pour,True
+2800,7,Push,7,Push,True
+955,2,Flip,2,Flip,True
+3285,8,Receive,8,Receive,True
+4372,10,Swipe Left,10,Swipe Left,True
+3167,7,Push,7,Push,True
+5968,14,Wiping,14,Wiping,True
+1784,4,Pick & Pour,4,Pick & Pour,True
+99,0,Drop,0,Drop,True
+1835,4,Pick & Pour,4,Pick & Pour,True
+2280,5,Pick and Give,5,Pick and Give,True
+1950,4,Pick & Pour,4,Pick & Pour,True
+2094,5,Pick and Give,5,Pick and Give,True
+507,1,Emergency_calling,1,Emergency_calling,True
+809,2,Flip,2,Flip,True
+1582,3,Pick,3,Pick,True
+341,0,Drop,0,Drop,True
+393,0,Drop,0,Drop,True
+845,2,Flip,2,Flip,True
+3708,9,Rotate,9,Rotate,True
+1205,3,Pick,3,Pick,True
+1302,3,Pick,3,Pick,True
+4806,12,Task Completion,12,Task Completion,True
+1948,4,Pick & Pour,4,Pick & Pour,True
+1092,2,Flip,2,Flip,True
+635,1,Emergency_calling,1,Emergency_calling,True
+2606,6,Pick and Place,6,Pick and Place,True
+5097,12,Task Completion,12,Task Completion,True
+2324,5,Pick and Give,5,Pick and Give,True
+5852,14,Wiping,14,Wiping,True
+2703,6,Pick and Place,6,Pick and Place,True
+627,1,Emergency_calling,1,Emergency_calling,True
+3460,8,Receive,8,Receive,True
+1971,4,Pick & Pour,4,Pick & Pour,True
+2778,6,Pick and Place,6,Pick and Place,True
+3445,8,Receive,8,Receive,True
+4528,11,Swipe Right,11,Swipe Right,True
+4471,11,Swipe Right,11,Swipe Right,True
+2419,6,Pick and Place,6,Pick and Place,True
+186,0,Drop,0,Drop,True
+4749,11,Swipe Right,11,Swipe Right,True
+2236,5,Pick and Give,5,Pick and Give,True
+2176,5,Pick and Give,5,Pick and Give,True
+5833,14,Wiping,14,Wiping,True
+3370,8,Receive,8,Receive,True
+5118,12,Task Completion,12,Task Completion,True
+2015,5,Pick and Give,5,Pick and Give,True
+3800,9,Rotate,9,Rotate,True
+3513,8,Receive,8,Receive,True
+510,1,Emergency_calling,1,Emergency_calling,True
+2562,6,Pick and Place,6,Pick and Place,True
+5720,14,Wiping,14,Wiping,True
+552,1,Emergency_calling,1,Emergency_calling,True
+3067,7,Push,7,Push,True
+3990,9,Rotate,9,Rotate,True
+1672,4,Pick & Pour,4,Pick & Pour,True
+1712,4,Pick & Pour,4,Pick & Pour,True
+5082,12,Task Completion,12,Task Completion,True
+1053,2,Flip,2,Flip,True
+1151,2,Flip,2,Flip,True
+4160,10,Swipe Left,10,Swipe Left,True
+4249,10,Swipe Left,10,Swipe Left,True
+462,1,Emergency_calling,1,Emergency_calling,True
+4511,11,Swipe Right,11,Swipe Right,True
+5419,13,Wave,13,Wave,True
+5301,13,Wave,13,Wave,True
+5226,13,Wave,13,Wave,True
+5911,14,Wiping,14,Wiping,True
+3683,9,Rotate,9,Rotate,True
+3825,9,Rotate,9,Rotate,True
+4604,11,Swipe Right,11,Swipe Right,True
+144,0,Drop,0,Drop,True
+5494,13,Wave,13,Wave,True
+5509,13,Wave,13,Wave,True
+1498,3,Pick,3,Pick,True
+4089,10,Swipe Left,10,Swipe Left,True
+3177,7,Push,7,Push,True
+282,0,Drop,0,Drop,True
+2349,5,Pick and Give,5,Pick and Give,True
+1355,3,Pick,3,Pick,True
+4185,10,Swipe Left,10,Swipe Left,True
+558,1,Emergency_calling,1,Emergency_calling,True
+2708,6,Pick and Place,6,Pick and Place,True
+3552,8,Receive,8,Receive,True
+1169,2,Flip,2,Flip,True
+2515,6,Pick and Place,6,Pick and Place,True
+345,0,Drop,0,Drop,True
+1608,4,Pick & Pour,4,Pick & Pour,True
+3114,7,Push,7,Push,True
+4367,10,Swipe Left,10,Swipe Left,True
+2608,6,Pick and Place,6,Pick and Place,True
+4107,10,Swipe Left,10,Swipe Left,True
+4765,11,Swipe Right,11,Swipe Right,True
+165,0,Drop,0,Drop,True
+4209,10,Swipe Left,10,Swipe Left,True
+620,1,Emergency_calling,1,Emergency_calling,True
+5412,13,Wave,13,Wave,True
+1616,4,Pick & Pour,4,Pick & Pour,True
+5966,14,Wiping,14,Wiping,True
+4819,12,Task Completion,12,Task Completion,True
+4569,11,Swipe Right,11,Swipe Right,True
+1542,3,Pick,3,Pick,True
+5784,14,Wiping,14,Wiping,True
+4457,11,Swipe Right,11,Swipe Right,True
+1383,3,Pick,3,Pick,True
+4559,11,Swipe Right,11,Swipe Right,True
+2894,7,Push,7,Push,True
+1957,4,Pick & Pour,4,Pick & Pour,True
+2211,5,Pick and Give,5,Pick and Give,True
+2432,6,Pick and Place,6,Pick and Place,True
+3614,9,Rotate,9,Rotate,True
+1272,3,Pick,3,Pick,True
+3627,9,Rotate,9,Rotate,True
+2849,7,Push,7,Push,True
+1136,2,Flip,2,Flip,True
+3023,7,Push,7,Push,True
+490,1,Emergency_calling,1,Emergency_calling,True
+5679,14,Wiping,14,Wiping,True
+4234,10,Swipe Left,10,Swipe Left,True
+1534,3,Pick,3,Pick,True
+3521,8,Receive,8,Receive,True
+3688,9,Rotate,9,Rotate,True
+4899,12,Task Completion,12,Task Completion,True
+5166,12,Task Completion,12,Task Completion,True
+1204,3,Pick,3,Pick,True
+5699,14,Wiping,14,Wiping,True
+1489,3,Pick,3,Pick,True
+2545,6,Pick and Place,6,Pick and Place,True
+768,1,Emergency_calling,1,Emergency_calling,True
+5683,14,Wiping,14,Wiping,True
+5556,13,Wave,13,Wave,True
+3971,9,Rotate,9,Rotate,True
+5485,13,Wave,13,Wave,True
+2384,5,Pick and Give,5,Pick and Give,True
+2641,6,Pick and Place,6,Pick and Place,True
+2906,7,Push,7,Push,True
+3985,9,Rotate,9,Rotate,True
+5502,13,Wave,13,Wave,True
+1071,2,Flip,2,Flip,True
+2546,6,Pick and Place,6,Pick and Place,True
+2548,6,Pick and Place,6,Pick and Place,True
+1478,3,Pick,3,Pick,True
+1627,4,Pick & Pour,4,Pick & Pour,True
+5770,14,Wiping,14,Wiping,True
+1484,3,Pick,3,Pick,True
+2510,6,Pick and Place,6,Pick and Place,True
+440,1,Emergency_calling,1,Emergency_calling,True
+426,1,Emergency_calling,1,Emergency_calling,True
+3695,9,Rotate,9,Rotate,True
+3974,9,Rotate,9,Rotate,True
+1066,2,Flip,2,Flip,True
+2742,6,Pick and Place,6,Pick and Place,True
+2190,5,Pick and Give,5,Pick and Give,True
+4685,11,Swipe Right,11,Swipe Right,True
+1868,4,Pick & Pour,4,Pick & Pour,True
+152,0,Drop,0,Drop,True
+3263,8,Receive,8,Receive,True
+441,1,Emergency_calling,1,Emergency_calling,True
+60,0,Drop,0,Drop,True
+3788,9,Rotate,9,Rotate,True
+4952,12,Task Completion,12,Task Completion,True
+1905,4,Pick & Pour,4,Pick & Pour,True
+1800,4,Pick & Pour,4,Pick & Pour,True
+2055,5,Pick and Give,5,Pick and Give,True
+3031,7,Push,7,Push,True
+1144,2,Flip,2,Flip,True
+985,2,Flip,2,Flip,True
+2348,5,Pick and Give,5,Pick and Give,True
+457,1,Emergency_calling,1,Emergency_calling,True
+5821,14,Wiping,14,Wiping,True
+3118,7,Push,7,Push,True
+5997,14,Wiping,14,Wiping,True
+3470,8,Receive,8,Receive,True
+5062,12,Task Completion,12,Task Completion,True
+5657,14,Wiping,14,Wiping,True
+578,1,Emergency_calling,1,Emergency_calling,True
+2367,5,Pick and Give,5,Pick and Give,True
+4738,11,Swipe Right,11,Swipe Right,True
+1345,3,Pick,3,Pick,True
+538,1,Emergency_calling,1,Emergency_calling,True
+4741,11,Swipe Right,11,Swipe Right,True
+3461,8,Receive,8,Receive,True
+2184,5,Pick and Give,5,Pick and Give,True
+4435,11,Swipe Right,11,Swipe Right,True
+2612,6,Pick and Place,6,Pick and Place,True
+2362,5,Pick and Give,5,Pick and Give,True
+5057,12,Task Completion,12,Task Completion,True
+2805,7,Push,7,Push,True
+2743,6,Pick and Place,6,Pick and Place,True
+3214,8,Receive,8,Receive,True
+1055,2,Flip,2,Flip,True
+760,1,Emergency_calling,1,Emergency_calling,True
+1840,4,Pick & Pour,4,Pick & Pour,True
+5486,13,Wave,13,Wave,True
+2662,6,Pick and Place,6,Pick and Place,True
+1160,2,Flip,2,Flip,True
+2754,6,Pick and Place,6,Pick and Place,True
+4033,10,Swipe Left,10,Swipe Left,True
+5184,12,Task Completion,12,Task Completion,True
+5456,13,Wave,13,Wave,True
+788,1,Emergency_calling,1,Emergency_calling,True
+2572,6,Pick and Place,6,Pick and Place,True
+5779,14,Wiping,14,Wiping,True
+57,0,Drop,0,Drop,True
+5220,13,Wave,13,Wave,True
+922,2,Flip,2,Flip,True
+1729,4,Pick & Pour,4,Pick & Pour,True
+1334,3,Pick,3,Pick,True
+5676,14,Wiping,14,Wiping,True
+4930,12,Task Completion,12,Task Completion,True
+41,0,Drop,0,Drop,True
+4176,10,Swipe Left,10,Swipe Left,True
+1130,2,Flip,2,Flip,True
+643,1,Emergency_calling,1,Emergency_calling,True
+11,0,Drop,0,Drop,True
+5296,13,Wave,13,Wave,True
+4335,10,Swipe Left,10,Swipe Left,True
+3004,7,Push,7,Push,True
+1706,4,Pick & Pour,4,Pick & Pour,True
+1589,3,Pick,3,Pick,True
+5448,13,Wave,13,Wave,True
+1864,4,Pick & Pour,4,Pick & Pour,True
+4846,12,Task Completion,12,Task Completion,True
+4277,10,Swipe Left,10,Swipe Left,True
+1202,3,Pick,3,Pick,True
+5244,13,Wave,13,Wave,True
+2534,6,Pick and Place,6,Pick and Place,True
+641,1,Emergency_calling,1,Emergency_calling,True
+2034,5,Pick and Give,5,Pick and Give,True
+3559,8,Receive,8,Receive,True
+4535,11,Swipe Right,11,Swipe Right,True
+3834,9,Rotate,9,Rotate,True
+4588,11,Swipe Right,11,Swipe Right,True
+3773,9,Rotate,9,Rotate,True
+1690,4,Pick & Pour,4,Pick & Pour,True
+2433,6,Pick and Place,6,Pick and Place,True
+2498,6,Pick and Place,6,Pick and Place,True
+2872,7,Push,7,Push,True
+5904,14,Wiping,14,Wiping,True
+5362,13,Wave,13,Wave,True
+1293,3,Pick,3,Pick,True
+737,1,Emergency_calling,1,Emergency_calling,True
+3954,9,Rotate,9,Rotate,True
+4052,10,Swipe Left,10,Swipe Left,True
+3473,8,Receive,8,Receive,True
+1487,3,Pick,3,Pick,True
+3097,7,Push,7,Push,True
+2152,5,Pick and Give,5,Pick and Give,True
+1349,3,Pick,3,Pick,True
+2073,5,Pick and Give,5,Pick and Give,True
+4143,10,Swipe Left,10,Swipe Left,True
+2770,6,Pick and Place,6,Pick and Place,True
+1232,3,Pick,3,Pick,True
+2862,7,Push,7,Push,True
+4258,10,Swipe Left,11,Swipe Right,False
+3973,9,Rotate,9,Rotate,True
+4302,10,Swipe Left,10,Swipe Left,True
+3112,7,Push,7,Push,True
+4677,11,Swipe Right,11,Swipe Right,True
+3055,7,Push,7,Push,True
+5039,12,Task Completion,12,Task Completion,True
+4467,11,Swipe Right,11,Swipe Right,True
+4198,10,Swipe Left,10,Swipe Left,True
+3131,7,Push,7,Push,True
+1947,4,Pick & Pour,4,Pick & Pour,True
+1075,2,Flip,2,Flip,True
+5955,14,Wiping,14,Wiping,True
+4699,11,Swipe Right,11,Swipe Right,True
+5152,12,Task Completion,12,Task Completion,True
+3914,9,Rotate,9,Rotate,True
+1743,4,Pick & Pour,4,Pick & Pour,True
+942,2,Flip,2,Flip,True
+2904,7,Push,7,Push,True
+331,0,Drop,0,Drop,True
+2435,6,Pick and Place,6,Pick and Place,True
+3012,7,Push,7,Push,True
+904,2,Flip,2,Flip,True
+4848,12,Task Completion,12,Task Completion,True
+256,0,Drop,0,Drop,True
+1230,3,Pick,3,Pick,True
+2638,6,Pick and Place,6,Pick and Place,True
+4216,10,Swipe Left,11,Swipe Right,False
+2776,6,Pick and Place,6,Pick and Place,True
+2972,7,Push,7,Push,True
+5862,14,Wiping,14,Wiping,True
+5991,14,Wiping,14,Wiping,True
+950,2,Flip,2,Flip,True
+992,2,Flip,2,Flip,True
+830,2,Flip,2,Flip,True
+4578,11,Swipe Right,11,Swipe Right,True
+5547,13,Wave,13,Wave,True
+3865,9,Rotate,9,Rotate,True
+2319,5,Pick and Give,5,Pick and Give,True
+5105,12,Task Completion,12,Task Completion,True
+2342,5,Pick and Give,5,Pick and Give,True
+2281,5,Pick and Give,5,Pick and Give,True
+4332,10,Swipe Left,10,Swipe Left,True
+402,1,Emergency_calling,1,Emergency_calling,True
+1149,2,Flip,2,Flip,True
+1696,4,Pick & Pour,4,Pick & Pour,True
+1034,2,Flip,2,Flip,True
+4898,12,Task Completion,12,Task Completion,True
+5905,14,Wiping,14,Wiping,True
+3481,8,Receive,8,Receive,True
+1631,4,Pick & Pour,4,Pick & Pour,True
+2792,6,Pick and Place,6,Pick and Place,True
+1625,4,Pick & Pour,4,Pick & Pour,True
+4508,11,Swipe Right,11,Swipe Right,True
+4925,12,Task Completion,12,Task Completion,True
+5159,12,Task Completion,12,Task Completion,True
+705,1,Emergency_calling,1,Emergency_calling,True
+588,1,Emergency_calling,1,Emergency_calling,True
+3832,9,Rotate,9,Rotate,True
+4366,10,Swipe Left,10,Swipe Left,True
+3467,8,Receive,8,Receive,True
+4807,12,Task Completion,12,Task Completion,True
+749,1,Emergency_calling,1,Emergency_calling,True
+5384,13,Wave,13,Wave,True
+2656,6,Pick and Place,6,Pick and Place,True
+1591,3,Pick,3,Pick,True
+4763,11,Swipe Right,11,Swipe Right,True
+2243,5,Pick and Give,5,Pick and Give,True
+3892,9,Rotate,9,Rotate,True
+993,2,Flip,2,Flip,True
+5652,14,Wiping,14,Wiping,True
+674,1,Emergency_calling,1,Emergency_calling,True
+5761,14,Wiping,14,Wiping,True
+580,1,Emergency_calling,1,Emergency_calling,True
+3227,8,Receive,8,Receive,True
+1635,4,Pick & Pour,4,Pick & Pour,True
+5629,14,Wiping,14,Wiping,True
+5481,13,Wave,13,Wave,True
+4067,10,Swipe Left,10,Swipe Left,True
+692,1,Emergency_calling,1,Emergency_calling,True
+626,1,Emergency_calling,1,Emergency_calling,True
+5675,14,Wiping,14,Wiping,True
+493,1,Emergency_calling,1,Emergency_calling,True
+1715,4,Pick & Pour,4,Pick & Pour,True
+1513,3,Pick,3,Pick,True
+1938,4,Pick & Pour,4,Pick & Pour,True
+4412,11,Swipe Right,11,Swipe Right,True
+1093,2,Flip,2,Flip,True
+917,2,Flip,2,Flip,True
+5693,14,Wiping,14,Wiping,True
+1927,4,Pick & Pour,4,Pick & Pour,True
+3344,8,Receive,8,Receive,True
+1128,2,Flip,2,Flip,True
+4294,10,Swipe Left,10,Swipe Left,True
+4414,11,Swipe Right,11,Swipe Right,True
+4523,11,Swipe Right,11,Swipe Right,True
+2037,5,Pick and Give,5,Pick and Give,True
+958,2,Flip,2,Flip,True
+677,1,Emergency_calling,1,Emergency_calling,True
+5813,14,Wiping,14,Wiping,True
+5047,12,Task Completion,12,Task Completion,True
+5516,13,Wave,13,Wave,True
+2465,6,Pick and Place,6,Pick and Place,True
+3194,7,Push,7,Push,True
+127,0,Drop,0,Drop,True
+2607,6,Pick and Place,6,Pick and Place,True
+1496,3,Pick,3,Pick,True
+1166,2,Flip,2,Flip,True
+5743,14,Wiping,14,Wiping,True
+4229,10,Swipe Left,10,Swipe Left,True
+5646,14,Wiping,14,Wiping,True
+4690,11,Swipe Right,11,Swipe Right,True
+4814,12,Task Completion,12,Task Completion,True
+5251,13,Wave,13,Wave,True
+1804,4,Pick & Pour,4,Pick & Pour,True
+3365,8,Receive,8,Receive,True
+1524,3,Pick,3,Pick,True
+5726,14,Wiping,14,Wiping,True
+1869,4,Pick & Pour,4,Pick & Pour,True
+2413,6,Pick and Place,6,Pick and Place,True
+549,1,Emergency_calling,1,Emergency_calling,True
+1695,4,Pick & Pour,4,Pick & Pour,True
+4359,10,Swipe Left,10,Swipe Left,True
+3706,9,Rotate,9,Rotate,True
+1400,3,Pick,3,Pick,True
+4350,10,Swipe Left,10,Swipe Left,True
+989,2,Flip,2,Flip,True
+4333,10,Swipe Left,10,Swipe Left,True
+4055,10,Swipe Left,10,Swipe Left,True
+664,1,Emergency_calling,1,Emergency_calling,True
+4945,12,Task Completion,12,Task Completion,True
+2860,7,Push,7,Push,True
+4711,11,Swipe Right,11,Swipe Right,True
+832,2,Flip,2,Flip,True
+3913,9,Rotate,9,Rotate,True
+4402,11,Swipe Right,11,Swipe Right,True
+1960,4,Pick & Pour,4,Pick & Pour,True
+1685,4,Pick & Pour,4,Pick & Pour,True
+1102,2,Flip,2,Flip,True
+5643,14,Wiping,14,Wiping,True
+1105,2,Flip,2,Flip,True
+2683,6,Pick and Place,6,Pick and Place,True
+255,0,Drop,0,Drop,True
+1980,4,Pick & Pour,4,Pick & Pour,True
+190,0,Drop,0,Drop,True
+2477,6,Pick and Place,6,Pick and Place,True
+3417,8,Receive,8,Receive,True
+741,1,Emergency_calling,1,Emergency_calling,True
+3011,7,Push,7,Push,True
+309,0,Drop,0,Drop,True
+2480,6,Pick and Place,6,Pick and Place,True
+5842,14,Wiping,14,Wiping,True
+2885,7,Push,7,Push,True
+1457,3,Pick,3,Pick,True
+5380,13,Wave,13,Wave,True
+1851,4,Pick & Pour,4,Pick & Pour,True
+4159,10,Swipe Left,10,Swipe Left,True
+3163,7,Push,7,Push,True
+2869,7,Push,7,Push,True
+5979,14,Wiping,14,Wiping,True
+4120,10,Swipe Left,10,Swipe Left,True
+128,0,Drop,0,Drop,True
+865,2,Flip,2,Flip,True
+2898,7,Push,7,Push,True
+4169,10,Swipe Left,10,Swipe Left,True
+4825,12,Task Completion,12,Task Completion,True
+1973,4,Pick & Pour,4,Pick & Pour,True
+5829,14,Wiping,14,Wiping,True
+4054,10,Swipe Left,10,Swipe Left,True
+2115,5,Pick and Give,5,Pick and Give,True
+2940,7,Push,7,Push,True
+2057,5,Pick and Give,5,Pick and Give,True
+5783,14,Wiping,14,Wiping,True
+2445,6,Pick and Place,6,Pick and Place,True
+346,0,Drop,0,Drop,True
+1414,3,Pick,3,Pick,True
+1599,3,Pick,3,Pick,True
+2574,6,Pick and Place,6,Pick and Place,True
+939,2,Flip,2,Flip,True
+395,0,Drop,0,Drop,True
+890,2,Flip,2,Flip,True
+2903,7,Push,7,Push,True
+4990,12,Task Completion,12,Task Completion,True
+3317,8,Receive,8,Receive,True
+5970,14,Wiping,14,Wiping,True
+902,2,Flip,2,Flip,True
+5452,13,Wave,13,Wave,True
+5447,13,Wave,13,Wave,True
+163,0,Drop,0,Drop,True
+1668,4,Pick & Pour,4,Pick & Pour,True
+5061,12,Task Completion,12,Task Completion,True
+214,0,Drop,0,Drop,True
+2267,5,Pick and Give,5,Pick and Give,True
+3397,8,Receive,8,Receive,True
+1460,3,Pick,3,Pick,True
+4141,10,Swipe Left,10,Swipe Left,True
+5876,14,Wiping,14,Wiping,True
+2060,5,Pick and Give,5,Pick and Give,True
+4047,10,Swipe Left,10,Swipe Left,True
+3187,7,Push,7,Push,True
+35,0,Drop,0,Drop,True
+645,1,Emergency_calling,1,Emergency_calling,True
+5965,14,Wiping,14,Wiping,True
+1002,2,Flip,2,Flip,True
+5539,13,Wave,13,Wave,True
+4582,11,Swipe Right,11,Swipe Right,True
+4580,11,Swipe Right,11,Swipe Right,True
+1376,3,Pick,3,Pick,True
+1511,3,Pick,3,Pick,True
+5986,14,Wiping,14,Wiping,True
+4354,10,Swipe Left,10,Swipe Left,True
+5406,13,Wave,13,Wave,True
+3558,8,Receive,8,Receive,True
+5089,12,Task Completion,12,Task Completion,True
+5030,12,Task Completion,12,Task Completion,True
+5858,14,Wiping,14,Wiping,True
+428,1,Emergency_calling,1,Emergency_calling,True
+5635,14,Wiping,14,Wiping,True
+2218,5,Pick and Give,5,Pick and Give,True
+1043,2,Flip,2,Flip,True
+4834,12,Task Completion,12,Task Completion,True
+3176,7,Push,7,Push,True
+3776,9,Rotate,9,Rotate,True
+2504,6,Pick and Place,6,Pick and Place,True
+655,1,Emergency_calling,1,Emergency_calling,True
+2578,6,Pick and Place,6,Pick and Place,True
+4811,12,Task Completion,12,Task Completion,True
+2932,7,Push,7,Push,True
+3785,9,Rotate,9,Rotate,True
+4097,10,Swipe Left,10,Swipe Left,True
+3375,8,Receive,8,Receive,True
+44,0,Drop,0,Drop,True
+771,1,Emergency_calling,1,Emergency_calling,True
+2804,7,Push,7,Push,True
+1940,4,Pick & Pour,4,Pick & Pour,True
+3346,8,Receive,8,Receive,True
+243,0,Drop,0,Drop,True
+781,1,Emergency_calling,1,Emergency_calling,True
+1274,3,Pick,3,Pick,True
+753,1,Emergency_calling,1,Emergency_calling,True
+2385,5,Pick and Give,5,Pick and Give,True
+2336,5,Pick and Give,5,Pick and Give,True
+1955,4,Pick & Pour,4,Pick & Pour,True
+623,1,Emergency_calling,1,Emergency_calling,True
+5874,14,Wiping,14,Wiping,True
+147,0,Drop,0,Drop,True
+4476,11,Swipe Right,11,Swipe Right,True
+1200,3,Pick,3,Pick,True
+4263,10,Swipe Left,11,Swipe Right,False
+5276,13,Wave,13,Wave,True
+4748,11,Swipe Right,11,Swipe Right,True
+5002,12,Task Completion,12,Task Completion,True
+29,0,Drop,0,Drop,True
+2582,6,Pick and Place,6,Pick and Place,True
+910,2,Flip,2,Flip,True
+4202,10,Swipe Left,10,Swipe Left,True
+4579,11,Swipe Right,11,Swipe Right,True
+1493,3,Pick,3,Pick,True
+2340,5,Pick and Give,5,Pick and Give,True
+5671,14,Wiping,14,Wiping,True
+4497,11,Swipe Right,11,Swipe Right,True
+3650,9,Rotate,9,Rotate,True
+5224,13,Wave,13,Wave,True
+5382,13,Wave,13,Wave,True
+861,2,Flip,2,Flip,True
+4991,12,Task Completion,12,Task Completion,True
+1378,3,Pick,3,Pick,True
+1360,3,Pick,3,Pick,True
+2891,7,Push,7,Push,True
+3693,9,Rotate,9,Rotate,True
+1233,3,Pick,3,Pick,True
+4327,10,Swipe Left,10,Swipe Left,True
+3532,8,Receive,8,Receive,True
+1836,4,Pick & Pour,4,Pick & Pour,True
+4358,10,Swipe Left,10,Swipe Left,True
+3568,8,Receive,8,Receive,True
+3137,7,Push,7,Push,True
+1117,2,Flip,2,Flip,True
+1807,4,Pick & Pour,4,Pick & Pour,True
+367,0,Drop,0,Drop,True
+3581,8,Receive,8,Receive,True
+4284,10,Swipe Left,10,Swipe Left,True
+4669,11,Swipe Right,11,Swipe Right,True
+2300,5,Pick and Give,5,Pick and Give,True
+2276,5,Pick and Give,5,Pick and Give,True
+3953,9,Rotate,9,Rotate,True
+5392,13,Wave,13,Wave,True
+4956,12,Task Completion,12,Task Completion,True
+5522,13,Wave,13,Wave,True
+4764,11,Swipe Right,11,Swipe Right,True
+451,1,Emergency_calling,1,Emergency_calling,True
+2031,5,Pick and Give,5,Pick and Give,True
+3136,7,Push,7,Push,True
+2418,6,Pick and Place,6,Pick and Place,True
+2316,5,Pick and Give,5,Pick and Give,True
+5681,14,Wiping,14,Wiping,True
+591,1,Emergency_calling,1,Emergency_calling,True
+5542,13,Wave,13,Wave,True
+2177,5,Pick and Give,5,Pick and Give,True
+4454,11,Swipe Right,11,Swipe Right,True
+389,0,Drop,0,Drop,True
+1133,2,Flip,2,Flip,True
+329,0,Drop,0,Drop,True
+4133,10,Swipe Left,10,Swipe Left,True
+1904,4,Pick & Pour,4,Pick & Pour,True
+3615,9,Rotate,9,Rotate,True
+969,2,Flip,2,Flip,True
+3718,9,Rotate,9,Rotate,True
+3070,7,Push,7,Push,True
+2935,7,Push,7,Push,True
+4602,11,Swipe Right,11,Swipe Right,True
+1600,4,Pick & Pour,4,Pick & Pour,True
+112,0,Drop,0,Drop,True
+5396,13,Wave,13,Wave,True
+1773,4,Pick & Pour,4,Pick & Pour,True
+5814,14,Wiping,14,Wiping,True
+4384,10,Swipe Left,10,Swipe Left,True
+179,0,Drop,0,Drop,True
+3622,9,Rotate,9,Rotate,True
+5214,13,Wave,13,Wave,True
+3152,7,Push,7,Push,True
+1859,4,Pick & Pour,4,Pick & Pour,True
+2735,6,Pick and Place,6,Pick and Place,True
+206,0,Drop,0,Drop,True
+2634,6,Pick and Place,6,Pick and Place,True
+3415,8,Receive,8,Receive,True
+2727,6,Pick and Place,6,Pick and Place,True
+1270,3,Pick,3,Pick,True
+4697,11,Swipe Right,11,Swipe Right,True
+1030,2,Flip,2,Flip,True
+1429,3,Pick,3,Pick,True
+4657,11,Swipe Right,11,Swipe Right,True
+5241,13,Wave,13,Wave,True
+5235,13,Wave,13,Wave,True
+3666,9,Rotate,9,Rotate,True
+786,1,Emergency_calling,1,Emergency_calling,True
+4456,11,Swipe Right,11,Swipe Right,True
+2650,6,Pick and Place,6,Pick and Place,True
+1529,3,Pick,3,Pick,True
+3228,8,Receive,8,Receive,True
+3185,7,Push,7,Push,True
+857,2,Flip,2,Flip,True
+2012,5,Pick and Give,5,Pick and Give,True
+1910,4,Pick & Pour,4,Pick & Pour,True
+3443,8,Receive,8,Receive,True
+3909,9,Rotate,9,Rotate,True
+5228,13,Wave,13,Wave,True
+2388,5,Pick and Give,5,Pick and Give,True
+1739,4,Pick & Pour,4,Pick & Pour,True
+2308,5,Pick and Give,5,Pick and Give,True
+3890,9,Rotate,9,Rotate,True
+2609,6,Pick and Place,6,Pick and Place,True
+1078,2,Flip,2,Flip,True
+4188,10,Swipe Left,10,Swipe Left,True
+5411,13,Wave,13,Wave,True
+2890,7,Push,7,Push,True
+4687,11,Swipe Right,11,Swipe Right,True
+1410,3,Pick,3,Pick,True
+4659,11,Swipe Right,11,Swipe Right,True
+489,1,Emergency_calling,1,Emergency_calling,True
+3697,9,Rotate,9,Rotate,True
+237,0,Drop,0,Drop,True
+3658,9,Rotate,9,Rotate,True
+1469,3,Pick,3,Pick,True
+4192,10,Swipe Left,10,Swipe Left,True
+324,0,Drop,0,Drop,True
+585,1,Emergency_calling,1,Emergency_calling,True
+4077,10,Swipe Left,10,Swipe Left,True
+1780,4,Pick & Pour,4,Pick & Pour,True
+3578,8,Receive,8,Receive,True
+2622,6,Pick and Place,6,Pick and Place,True
+971,2,Flip,2,Flip,True
+5760,14,Wiping,14,Wiping,True
+3266,8,Receive,8,Receive,True
+4066,10,Swipe Left,10,Swipe Left,True
+4493,11,Swipe Right,11,Swipe Right,True
+4415,11,Swipe Right,11,Swipe Right,True
+5261,13,Wave,13,Wave,True
+2274,5,Pick and Give,5,Pick and Give,True
+3681,9,Rotate,9,Rotate,True
+5794,14,Wiping,14,Wiping,True
+3528,8,Receive,8,Receive,True
+5229,13,Wave,13,Wave,True
+4305,10,Swipe Left,10,Swipe Left,True
+4802,12,Task Completion,12,Task Completion,True
+1741,4,Pick & Pour,4,Pick & Pour,True
+1932,4,Pick & Pour,4,Pick & Pour,True
+4290,10,Swipe Left,10,Swipe Left,True
+355,0,Drop,0,Drop,True
+4416,11,Swipe Right,11,Swipe Right,True
+4029,10,Swipe Left,10,Swipe Left,True
+4713,11,Swipe Right,11,Swipe Right,True
+3089,7,Push,7,Push,True
+169,0,Drop,0,Drop,True
+1164,2,Flip,2,Flip,True
+5624,14,Wiping,14,Wiping,True
+2987,7,Push,7,Push,True
+2547,6,Pick and Place,6,Pick and Place,True
+1165,2,Flip,2,Flip,True
+4639,11,Swipe Right,11,Swipe Right,True
+2516,6,Pick and Place,6,Pick and Place,True
+3836,9,Rotate,9,Rotate,True
+3665,9,Rotate,9,Rotate,True
+5769,14,Wiping,14,Wiping,True
+2659,6,Pick and Place,6,Pick and Place,True
+5216,13,Wave,13,Wave,True
+3146,7,Push,7,Push,True
+2718,6,Pick and Place,6,Pick and Place,True
+3226,8,Receive,8,Receive,True
+4950,12,Task Completion,12,Task Completion,True
+1958,4,Pick & Pour,4,Pick & Pour,True
+1316,3,Pick,3,Pick,True
+5423,13,Wave,13,Wave,True
+1801,4,Pick & Pour,4,Pick & Pour,True
+5237,13,Wave,13,Wave,True
+249,0,Drop,0,Drop,True
+2931,7,Push,7,Push,True
+5846,14,Wiping,14,Wiping,True
+2087,5,Pick and Give,5,Pick and Give,True
+353,0,Drop,0,Drop,True
+469,1,Emergency_calling,1,Emergency_calling,True
+366,0,Drop,0,Drop,True
+4689,11,Swipe Right,11,Swipe Right,True
+1241,3,Pick,3,Pick,True
+5015,12,Task Completion,12,Task Completion,True
+3129,7,Push,7,Push,True
+1823,4,Pick & Pour,4,Pick & Pour,True
+5449,13,Wave,13,Wave,True
+5121,12,Task Completion,12,Task Completion,True
+2076,5,Pick and Give,5,Pick and Give,True
+3514,8,Receive,8,Receive,True
+4406,11,Swipe Right,11,Swipe Right,True
+3661,9,Rotate,9,Rotate,True
+3384,8,Receive,8,Receive,True
+4537,11,Swipe Right,11,Swipe Right,True
+2819,7,Push,7,Push,True
+421,1,Emergency_calling,1,Emergency_calling,True
+5611,14,Wiping,14,Wiping,True
+4631,11,Swipe Right,11,Swipe Right,True
+2290,5,Pick and Give,5,Pick and Give,True
+3937,9,Rotate,9,Rotate,True
+497,1,Emergency_calling,1,Emergency_calling,True
+2880,7,Push,7,Push,True
+5744,14,Wiping,14,Wiping,True
+5884,14,Wiping,14,Wiping,True
+3288,8,Receive,8,Receive,True
+5626,14,Wiping,14,Wiping,True
+1604,4,Pick & Pour,4,Pick & Pour,True
+3547,8,Receive,8,Receive,True
+4155,10,Swipe Left,10,Swipe Left,True
+250,0,Drop,0,Drop,True
+446,1,Emergency_calling,1,Emergency_calling,True
+4695,11,Swipe Right,11,Swipe Right,True
+1281,3,Pick,3,Pick,True
+565,1,Emergency_calling,1,Emergency_calling,True
+4752,11,Swipe Right,11,Swipe Right,True
+3716,9,Rotate,9,Rotate,True
+3769,9,Rotate,9,Rotate,True
+1991,4,Pick & Pour,4,Pick & Pour,True
+5394,13,Wave,13,Wave,True
+518,1,Emergency_calling,1,Emergency_calling,True
+3183,7,Push,7,Push,True
+1077,2,Flip,2,Flip,True
+5007,12,Task Completion,12,Task Completion,True
+4570,11,Swipe Right,11,Swipe Right,True
+4051,10,Swipe Left,10,Swipe Left,True
+3726,9,Rotate,9,Rotate,True
+5131,12,Task Completion,12,Task Completion,True
+1319,3,Pick,3,Pick,True
+3662,9,Rotate,9,Rotate,True
+3329,8,Receive,8,Receive,True
+278,0,Drop,0,Drop,True
+1606,4,Pick & Pour,4,Pick & Pour,True
+4656,11,Swipe Right,11,Swipe Right,True
+3753,9,Rotate,9,Rotate,True
+5752,14,Wiping,14,Wiping,True
+3454,8,Receive,8,Receive,True
+3830,9,Rotate,9,Rotate,True
+2884,7,Push,7,Push,True
+3021,7,Push,7,Push,True
+3526,8,Receive,8,Receive,True
+2750,6,Pick and Place,6,Pick and Place,True
+4373,10,Swipe Left,10,Swipe Left,True
+5328,13,Wave,13,Wave,True
+5239,13,Wave,13,Wave,True
+4364,10,Swipe Left,10,Swipe Left,True
+1118,2,Flip,2,Flip,True
+4391,10,Swipe Left,10,Swipe Left,True
+744,1,Emergency_calling,1,Emergency_calling,True
+2746,6,Pick and Place,6,Pick and Place,True
+3594,8,Receive,8,Receive,True
+1435,3,Pick,3,Pick,True
+2484,6,Pick and Place,6,Pick and Place,True
+1903,4,Pick & Pour,4,Pick & Pour,True
+3078,7,Push,7,Push,True
+5066,12,Task Completion,12,Task Completion,True
+1375,3,Pick,3,Pick,True
+2443,6,Pick and Place,6,Pick and Place,True
+5113,12,Task Completion,12,Task Completion,True
+5348,13,Wave,13,Wave,True
+1861,4,Pick & Pour,4,Pick & Pour,True
+2584,6,Pick and Place,6,Pick and Place,True
+1208,3,Pick,3,Pick,True
+52,0,Drop,0,Drop,True
+5147,12,Task Completion,12,Task Completion,True
+5215,13,Wave,13,Wave,True
+5645,14,Wiping,14,Wiping,True
+3248,8,Receive,8,Receive,True
+2298,5,Pick and Give,5,Pick and Give,True
+5895,14,Wiping,14,Wiping,True
+3126,7,Push,7,Push,True
+1686,4,Pick & Pour,4,Pick & Pour,True
+450,1,Emergency_calling,1,Emergency_calling,True
+5545,13,Wave,13,Wave,True
+4732,11,Swipe Right,11,Swipe Right,True
+5306,13,Wave,13,Wave,True
+2573,6,Pick and Place,6,Pick and Place,True
+4847,12,Task Completion,12,Task Completion,True
+5240,13,Wave,13,Wave,True
+636,1,Emergency_calling,1,Emergency_calling,True
+5573,13,Wave,13,Wave,True
+2142,5,Pick and Give,5,Pick and Give,True
+1132,2,Flip,2,Flip,True
+4250,10,Swipe Left,10,Swipe Left,True
+322,0,Drop,0,Drop,True
+226,0,Drop,0,Drop,True
+166,0,Drop,0,Drop,True
+5994,14,Wiping,14,Wiping,True
+3090,7,Push,7,Push,True
+4610,11,Swipe Right,11,Swipe Right,True
+4708,11,Swipe Right,11,Swipe Right,True
+3402,8,Receive,8,Receive,True
+3842,9,Rotate,9,Rotate,True
+4693,11,Swipe Right,11,Swipe Right,True
+710,1,Emergency_calling,1,Emergency_calling,True
+2961,7,Push,7,Push,True
+3901,9,Rotate,9,Rotate,True
+2452,6,Pick and Place,6,Pick and Place,True
+690,1,Emergency_calling,1,Emergency_calling,True
+4635,11,Swipe Right,11,Swipe Right,True
+4813,12,Task Completion,12,Task Completion,True
+706,1,Emergency_calling,1,Emergency_calling,True
+5234,13,Wave,13,Wave,True
+4022,10,Swipe Left,10,Swipe Left,True
+286,0,Drop,0,Drop,True
+1757,4,Pick & Pour,4,Pick & Pour,True
+5913,14,Wiping,14,Wiping,True
+3560,8,Receive,8,Receive,True
+4934,12,Task Completion,12,Task Completion,True
+2530,6,Pick and Place,6,Pick and Place,True
+1886,4,Pick & Pour,4,Pick & Pour,True
+1520,3,Pick,3,Pick,True
+4191,10,Swipe Left,10,Swipe Left,True
+5377,13,Wave,13,Wave,True
+1265,3,Pick,3,Pick,True
+3286,8,Receive,8,Receive,True
+5609,14,Wiping,14,Wiping,True
+5892,14,Wiping,14,Wiping,True
+2163,5,Pick and Give,5,Pick and Give,True
+31,0,Drop,0,Drop,True
+4304,10,Swipe Left,10,Swipe Left,True
+1037,2,Flip,2,Flip,True
+4280,10,Swipe Left,10,Swipe Left,True
+254,0,Drop,0,Drop,True
+2733,6,Pick and Place,6,Pick and Place,True
+1873,4,Pick & Pour,4,Pick & Pour,True
+3161,7,Push,7,Push,True
+1517,3,Pick,3,Pick,True
+188,0,Drop,0,Drop,True
+2259,5,Pick and Give,5,Pick and Give,True
+2213,5,Pick and Give,5,Pick and Give,True
+415,1,Emergency_calling,1,Emergency_calling,True
+4410,11,Swipe Right,11,Swipe Right,True
+3802,9,Rotate,9,Rotate,True
+4171,10,Swipe Left,10,Swipe Left,True
+3444,8,Receive,8,Receive,True
+4994,12,Task Completion,12,Task Completion,True
+380,0,Drop,0,Drop,True
+5647,14,Wiping,14,Wiping,True
+2936,7,Push,7,Push,True
+3242,8,Receive,8,Receive,True
+2991,7,Push,7,Push,True
+2321,5,Pick and Give,5,Pick and Give,True
+3421,8,Receive,8,Receive,True
+5499,13,Wave,13,Wave,True
+1481,3,Pick,3,Pick,True
+3517,8,Receive,8,Receive,True
+5032,12,Task Completion,12,Task Completion,True
+2620,6,Pick and Place,6,Pick and Place,True
+5552,13,Wave,13,Wave,True
+431,1,Emergency_calling,1,Emergency_calling,True
+5562,13,Wave,13,Wave,True
+5767,14,Wiping,14,Wiping,True
+422,1,Emergency_calling,1,Emergency_calling,True
+3117,7,Push,7,Push,True
+1547,3,Pick,3,Pick,True
+5700,14,Wiping,14,Wiping,True
+3979,9,Rotate,9,Rotate,True
+3188,7,Push,7,Push,True
+667,1,Emergency_calling,1,Emergency_calling,True
+5243,13,Wave,13,Wave,True
+5860,14,Wiping,14,Wiping,True
+4817,12,Task Completion,12,Task Completion,True
+624,1,Emergency_calling,1,Emergency_calling,True
+4001,10,Swipe Left,10,Swipe Left,True
+707,1,Emergency_calling,1,Emergency_calling,True
+2707,6,Pick and Place,6,Pick and Place,True
+2396,5,Pick and Give,5,Pick and Give,True
+3366,8,Receive,8,Receive,True
+863,2,Flip,2,Flip,True
+1492,3,Pick,3,Pick,True
+3786,9,Rotate,9,Rotate,True
+3896,9,Rotate,9,Rotate,True
+4084,10,Swipe Left,10,Swipe Left,True
+3350,8,Receive,8,Receive,True
+3413,8,Receive,8,Receive,True
+838,2,Flip,2,Flip,True
+1045,2,Flip,2,Flip,True
+893,2,Flip,2,Flip,True
+1020,2,Flip,2,Flip,True
+1505,3,Pick,3,Pick,True
+4838,12,Task Completion,12,Task Completion,True
+4757,11,Swipe Right,11,Swipe Right,True
+1979,4,Pick & Pour,4,Pick & Pour,True
+246,0,Drop,0,Drop,True
+5293,13,Wave,13,Wave,True
+2847,7,Push,7,Push,True
+2217,5,Pick and Give,5,Pick and Give,True
+203,0,Drop,0,Drop,True
+1768,4,Pick & Pour,4,Pick & Pour,True
+1468,3,Pick,3,Pick,True
+4518,11,Swipe Right,11,Swipe Right,True
+3743,9,Rotate,9,Rotate,True
+2013,5,Pick and Give,5,Pick and Give,True
+839,2,Flip,2,Flip,True
+487,1,Emergency_calling,1,Emergency_calling,True
+481,1,Emergency_calling,1,Emergency_calling,True
+544,1,Emergency_calling,1,Emergency_calling,True
+2787,6,Pick and Place,6,Pick and Place,True
+1523,3,Pick,3,Pick,True
+2956,7,Push,7,Push,True
+2950,7,Push,7,Push,True
+5165,12,Task Completion,12,Task Completion,True
+1190,2,Flip,2,Flip,True
+4727,11,Swipe Right,11,Swipe Right,True
+1176,2,Flip,2,Flip,True
+693,1,Emergency_calling,1,Emergency_calling,True
+2303,5,Pick and Give,5,Pick and Give,True
+4809,12,Task Completion,12,Task Completion,True
+2698,6,Pick and Place,6,Pick and Place,True
+5546,13,Wave,13,Wave,True
+3311,8,Receive,8,Receive,True
+2970,7,Push,7,Push,True
+1086,2,Flip,2,Flip,True
+5728,14,Wiping,14,Wiping,True
+2969,7,Push,7,Push,True
+2022,5,Pick and Give,5,Pick and Give,True
+5407,13,Wave,13,Wave,True
+4984,12,Task Completion,12,Task Completion,True
+5540,13,Wave,13,Wave,True
+557,1,Emergency_calling,1,Emergency_calling,True
+901,2,Flip,2,Flip,True
+5308,13,Wave,13,Wave,True
+3151,7,Push,7,Push,True
+3208,8,Receive,8,Receive,True
+2112,5,Pick and Give,5,Pick and Give,True
+873,2,Flip,2,Flip,True
+4515,11,Swipe Right,11,Swipe Right,True
+2110,5,Pick and Give,5,Pick and Give,True
+5139,12,Task Completion,12,Task Completion,True
+3037,7,Push,7,Push,True
+5849,14,Wiping,14,Wiping,True
+5800,14,Wiping,14,Wiping,True
+2293,5,Pick and Give,5,Pick and Give,True
+1005,2,Flip,2,Flip,True
+2619,6,Pick and Place,6,Pick and Place,True
+5209,13,Wave,13,Wave,True
+1838,4,Pick & Pour,4,Pick & Pour,True
+5252,13,Wave,13,Wave,True
+5703,14,Wiping,14,Wiping,True
+3631,9,Rotate,9,Rotate,True
+4888,12,Task Completion,12,Task Completion,True
+3833,9,Rotate,9,Rotate,True
+3959,9,Rotate,9,Rotate,True
+4241,10,Swipe Left,10,Swipe Left,True
+764,1,Emergency_calling,1,Emergency_calling,True
+2642,6,Pick and Place,6,Pick and Place,True
+5799,14,Wiping,14,Wiping,True
+5065,12,Task Completion,12,Task Completion,True
+3278,8,Receive,8,Receive,True
+1640,4,Pick & Pour,4,Pick & Pour,True
+4158,10,Swipe Left,10,Swipe Left,True
+4461,11,Swipe Right,11,Swipe Right,True
+2870,7,Push,7,Push,True
+5565,13,Wave,13,Wave,True
+3507,8,Receive,8,Receive,True
+1213,3,Pick,3,Pick,True
+1587,3,Pick,3,Pick,True
+4566,11,Swipe Right,11,Swipe Right,True
+5176,12,Task Completion,12,Task Completion,True
+3268,8,Receive,8,Receive,True
+3886,9,Rotate,9,Rotate,True
+816,2,Flip,2,Flip,True
+2216,5,Pick and Give,5,Pick and Give,True
+1688,4,Pick & Pour,4,Pick & Pour,True
+5996,14,Wiping,14,Wiping,True
+4700,11,Swipe Right,11,Swipe Right,True
+5019,12,Task Completion,12,Task Completion,True
+921,2,Flip,2,Flip,True
+13,0,Drop,0,Drop,True
+1397,3,Pick,3,Pick,True
+4245,10,Swipe Left,10,Swipe Left,True
+2625,6,Pick and Place,6,Pick and Place,True
+2231,5,Pick and Give,5,Pick and Give,True
+1280,3,Pick,3,Pick,True
+5053,12,Task Completion,12,Task Completion,True
+1418,3,Pick,3,Pick,True
+3256,8,Receive,8,Receive,True
+3529,8,Receive,8,Receive,True
+1683,4,Pick & Pour,4,Pick & Pour,True
+1434,3,Pick,3,Pick,True
+3236,8,Receive,8,Receive,True
+3749,9,Rotate,9,Rotate,True
+3888,9,Rotate,9,Rotate,True
+951,2,Flip,2,Flip,True
+14,0,Drop,0,Drop,True
+5749,14,Wiping,14,Wiping,True
+359,0,Drop,0,Drop,True
+4427,11,Swipe Right,11,Swipe Right,True
+2623,6,Pick and Place,6,Pick and Place,True
+1775,4,Pick & Pour,4,Pick & Pour,True
+1676,4,Pick & Pour,4,Pick & Pour,True
+3075,7,Push,7,Push,True
+4348,10,Swipe Left,10,Swipe Left,True
+5838,14,Wiping,14,Wiping,True
+4781,11,Swipe Right,11,Swipe Right,True
+1369,3,Pick,3,Pick,True
+5422,13,Wave,13,Wave,True
+5353,13,Wave,13,Wave,True
+858,2,Flip,2,Flip,True
+872,2,Flip,2,Flip,True
+3046,7,Push,7,Push,True
+5583,13,Wave,13,Wave,True
+3746,9,Rotate,9,Rotate,True
+4637,11,Swipe Right,11,Swipe Right,True
+1042,2,Flip,2,Flip,True
+964,2,Flip,2,Flip,True
+2096,5,Pick and Give,5,Pick and Give,True
+1579,3,Pick,3,Pick,True
+2929,7,Push,7,Push,True
+2850,7,Push,7,Push,True
+802,2,Flip,2,Flip,True
+5924,14,Wiping,14,Wiping,True
+1195,2,Flip,2,Flip,True
+1307,3,Pick,3,Pick,True
+3491,8,Receive,8,Receive,True
+907,2,Flip,2,Flip,True
+5820,14,Wiping,14,Wiping,True
+2239,5,Pick and Give,5,Pick and Give,True
+299,0,Drop,0,Drop,True
+1700,4,Pick & Pour,4,Pick & Pour,True
+7,0,Drop,0,Drop,True
+1261,3,Pick,3,Pick,True
+2215,5,Pick and Give,5,Pick and Give,True
+1148,2,Flip,2,Flip,True
+4607,11,Swipe Right,11,Swipe Right,True
+1035,2,Flip,2,Flip,True
+4959,12,Task Completion,12,Task Completion,True
+4343,10,Swipe Left,10,Swipe Left,True
+4413,11,Swipe Right,11,Swipe Right,True
+1393,3,Pick,3,Pick,True
+1751,4,Pick & Pour,4,Pick & Pour,True
+3424,8,Receive,8,Receive,True
+5432,13,Wave,13,Wave,True
+4395,10,Swipe Left,10,Swipe Left,True
+4606,11,Swipe Right,11,Swipe Right,True
+3330,8,Receive,8,Receive,True
+4483,11,Swipe Right,11,Swipe Right,True
+2848,7,Push,7,Push,True
+1014,2,Flip,2,Flip,True
+5020,12,Task Completion,12,Task Completion,True
+1874,4,Pick & Pour,4,Pick & Pour,True
+2446,6,Pick and Place,6,Pick and Place,True
+1664,4,Pick & Pour,4,Pick & Pour,True
+379,0,Drop,0,Drop,True
+2989,7,Push,7,Push,True
+73,0,Drop,0,Drop,True
+2631,6,Pick and Place,6,Pick and Place,True
+177,0,Drop,0,Drop,True
+354,0,Drop,0,Drop,True
+351,0,Drop,0,Drop,True
+1740,4,Pick & Pour,4,Pick & Pour,True
+315,0,Drop,0,Drop,True
+3740,9,Rotate,9,Rotate,True
+2981,7,Push,7,Push,True
+3002,7,Push,7,Push,True
+2083,5,Pick and Give,5,Pick and Give,True
+1413,3,Pick,3,Pick,True
+4876,12,Task Completion,12,Task Completion,True
+3621,9,Rotate,9,Rotate,True
+1455,3,Pick,3,Pick,True
+3316,8,Receive,8,Receive,True
+1581,3,Pick,3,Pick,True
+5757,14,Wiping,14,Wiping,True
+28,0,Drop,0,Drop,True
+4396,10,Swipe Left,10,Swipe Left,True
+1752,4,Pick & Pour,4,Pick & Pour,True
+2346,5,Pick and Give,5,Pick and Give,True
+5472,13,Wave,13,Wave,True
+3592,8,Receive,8,Receive,True
+5660,14,Wiping,14,Wiping,True
+4208,10,Swipe Left,10,Swipe Left,True
+2865,7,Push,7,Push,True
+1315,3,Pick,3,Pick,True
+1762,4,Pick & Pour,4,Pick & Pour,True
+4568,11,Swipe Right,11,Swipe Right,True
+4007,10,Swipe Left,10,Swipe Left,True
+960,2,Flip,2,Flip,True
+4912,12,Task Completion,12,Task Completion,True
+3124,7,Push,7,Push,True
+4821,12,Task Completion,12,Task Completion,True
+4863,12,Task Completion,12,Task Completion,True
+196,0,Drop,0,Drop,True
+199,0,Drop,0,Drop,True
+3198,7,Push,7,Push,True
+2527,6,Pick and Place,6,Pick and Place,True
+5122,12,Task Completion,12,Task Completion,True
+5642,14,Wiping,14,Wiping,True
+2212,5,Pick and Give,5,Pick and Give,True
+94,0,Drop,0,Drop,True
+5939,14,Wiping,14,Wiping,True
+3282,8,Receive,8,Receive,True
+4706,11,Swipe Right,11,Swipe Right,True
+5976,14,Wiping,14,Wiping,True
+3121,7,Push,7,Push,True
+1727,4,Pick & Pour,4,Pick & Pour,True
+2024,5,Pick and Give,5,Pick and Give,True
+5088,12,Task Completion,12,Task Completion,True
+258,0,Drop,0,Drop,True
+3150,7,Push,7,Push,True
+684,1,Emergency_calling,1,Emergency_calling,True
+817,2,Flip,2,Flip,True
+3626,9,Rotate,9,Rotate,True
+3868,9,Rotate,9,Rotate,True
+1671,4,Pick & Pour,4,Pick & Pour,True
+4526,11,Swipe Right,11,Swipe Right,True
+4887,12,Task Completion,12,Task Completion,True
+2629,6,Pick and Place,6,Pick and Place,True
+5511,13,Wave,13,Wave,True
+2056,5,Pick and Give,5,Pick and Give,True
+2207,5,Pick and Give,5,Pick and Give,True
+3933,9,Rotate,9,Rotate,True
+4319,10,Swipe Left,10,Swipe Left,True
+201,0,Drop,0,Drop,True
+2223,5,Pick and Give,5,Pick and Give,True
+5834,14,Wiping,14,Wiping,True
+2652,6,Pick and Place,6,Pick and Place,True
+702,1,Emergency_calling,1,Emergency_calling,True
+5352,13,Wave,13,Wave,True
+3174,7,Push,7,Push,True
+5921,14,Wiping,14,Wiping,True
+3298,8,Receive,8,Receive,True
+3051,7,Push,7,Push,True
+1554,3,Pick,3,Pick,True
+1131,2,Flip,2,Flip,True
+5031,12,Task Completion,12,Task Completion,True
+733,1,Emergency_calling,1,Emergency_calling,True
+3864,9,Rotate,9,Rotate,True
+1719,4,Pick & Pour,4,Pick & Pour,True
+124,0,Drop,0,Drop,True
+4777,11,Swipe Right,11,Swipe Right,True
+534,1,Emergency_calling,1,Emergency_calling,True
+1678,4,Pick & Pour,4,Pick & Pour,True
+4620,11,Swipe Right,10,Swipe Left,False
+5891,14,Wiping,14,Wiping,True
+5044,12,Task Completion,12,Task Completion,True
+1420,3,Pick,3,Pick,True
+1644,4,Pick & Pour,4,Pick & Pour,True
+5818,14,Wiping,14,Wiping,True
+5604,14,Wiping,14,Wiping,True
+3464,8,Receive,8,Receive,True
+1541,3,Pick,3,Pick,True
+672,1,Emergency_calling,1,Emergency_calling,True
+358,0,Drop,0,Drop,True
+717,1,Emergency_calling,1,Emergency_calling,True
+4921,12,Task Completion,12,Task Completion,True
+1242,3,Pick,3,Pick,True
+4271,10,Swipe Left,10,Swipe Left,True
+3515,8,Receive,8,Receive,True
+4673,11,Swipe Right,11,Swipe Right,True
+4446,11,Swipe Right,11,Swipe Right,True
+3903,9,Rotate,9,Rotate,True
+5320,13,Wave,13,Wave,True
+3648,9,Rotate,9,Rotate,True
+3374,8,Receive,8,Receive,True
+3714,9,Rotate,9,Rotate,True
+3144,7,Push,7,Push,True
+1540,3,Pick,3,Pick,True
+4162,10,Swipe Left,10,Swipe Left,True
+2264,5,Pick and Give,5,Pick and Give,True
+2595,6,Pick and Place,6,Pick and Place,True
+1226,3,Pick,3,Pick,True
+515,1,Emergency_calling,1,Emergency_calling,True
+3843,9,Rotate,9,Rotate,True
+342,0,Drop,0,Drop,True
+1765,4,Pick & Pour,4,Pick & Pour,True
+1036,2,Flip,2,Flip,True
+1172,2,Flip,2,Flip,True
+117,0,Drop,0,Drop,True
+69,0,Drop,0,Drop,True
+2913,7,Push,7,Push,True
+5543,13,Wave,13,Wave,True
+2493,6,Pick and Place,6,Pick and Place,True
+4725,11,Swipe Right,11,Swipe Right,True
+5070,12,Task Completion,12,Task Completion,True
+479,1,Emergency_calling,1,Emergency_calling,True
+4612,11,Swipe Right,11,Swipe Right,True
+1862,4,Pick & Pour,4,Pick & Pour,True
+1684,4,Pick & Pour,4,Pick & Pour,True
+4485,11,Swipe Right,11,Swipe Right,True
+5437,13,Wave,13,Wave,True
+5759,14,Wiping,14,Wiping,True
+5897,14,Wiping,14,Wiping,True
+778,1,Emergency_calling,1,Emergency_calling,True
+1145,2,Flip,2,Flip,True
+1720,4,Pick & Pour,4,Pick & Pour,True
+3537,8,Receive,8,Receive,True
+5232,13,Wave,13,Wave,True
+295,0,Drop,0,Drop,True
+3143,7,Push,7,Push,True
+5627,14,Wiping,14,Wiping,True
+4890,12,Task Completion,12,Task Completion,True
+5781,14,Wiping,14,Wiping,True
+1888,4,Pick & Pour,4,Pick & Pour,True
+2400,6,Pick and Place,6,Pick and Place,True
+3625,9,Rotate,9,Rotate,True
+3169,7,Push,7,Push,True
+5616,14,Wiping,14,Wiping,True
+1590,3,Pick,3,Pick,True
+2326,5,Pick and Give,5,Pick and Give,True
+982,2,Flip,2,Flip,True
+4251,10,Swipe Left,10,Swipe Left,True
+136,0,Drop,0,Drop,True
+761,1,Emergency_calling,1,Emergency_calling,True
+5873,14,Wiping,14,Wiping,True
+2678,6,Pick and Place,6,Pick and Place,True
+5608,14,Wiping,14,Wiping,True
+752,1,Emergency_calling,1,Emergency_calling,True
+1994,4,Pick & Pour,4,Pick & Pour,True
+1797,4,Pick & Pour,4,Pick & Pour,True
+3287,8,Receive,8,Receive,True
+4394,10,Swipe Left,10,Swipe Left,True
+4167,10,Swipe Left,10,Swipe Left,True
+434,1,Emergency_calling,1,Emergency_calling,True
+593,1,Emergency_calling,1,Emergency_calling,True
+5843,14,Wiping,14,Wiping,True
+427,1,Emergency_calling,1,Emergency_calling,True
+1110,2,Flip,2,Flip,True
+521,1,Emergency_calling,1,Emergency_calling,True
+4556,11,Swipe Right,11,Swipe Right,True
+5513,13,Wave,13,Wave,True
+1352,3,Pick,3,Pick,True
+5376,13,Wave,13,Wave,True
+4325,10,Swipe Left,10,Swipe Left,True
+709,1,Emergency_calling,1,Emergency_calling,True
+3566,8,Receive,8,Receive,True
+1791,4,Pick & Pour,4,Pick & Pour,True
+425,1,Emergency_calling,1,Emergency_calling,True
+4544,11,Swipe Right,11,Swipe Right,True
+5045,12,Task Completion,12,Task Completion,True
+2684,6,Pick and Place,6,Pick and Place,True
+2495,6,Pick and Place,6,Pick and Place,True
+892,2,Flip,2,Flip,True
+4520,11,Swipe Right,11,Swipe Right,True
+3897,9,Rotate,9,Rotate,True
+304,0,Drop,0,Drop,True
+195,0,Drop,0,Drop,True
+940,2,Flip,2,Flip,True
+3669,9,Rotate,9,Rotate,True
+108,0,Drop,0,Drop,True
+5569,13,Wave,13,Wave,True
+4911,12,Task Completion,12,Task Completion,True
+3809,9,Rotate,9,Rotate,True
+5631,14,Wiping,14,Wiping,True
+1545,3,Pick,3,Pick,True
+5497,13,Wave,13,Wave,True
+4735,11,Swipe Right,11,Swipe Right,True
+2174,5,Pick and Give,5,Pick and Give,True
+3497,8,Receive,8,Receive,True
+4291,10,Swipe Left,10,Swipe Left,True
+2780,6,Pick and Place,6,Pick and Place,True
+2801,7,Push,7,Push,True
+5051,12,Task Completion,12,Task Completion,True
+3243,8,Receive,8,Receive,True
+1180,2,Flip,2,Flip,True
+197,0,Drop,0,Drop,True
+2404,6,Pick and Place,6,Pick and Place,True
+4031,10,Swipe Left,10,Swipe Left,True
+586,1,Emergency_calling,1,Emergency_calling,True
+2474,6,Pick and Place,6,Pick and Place,True
+4596,11,Swipe Right,11,Swipe Right,True
+2486,6,Pick and Place,6,Pick and Place,True
+3315,8,Receive,8,Receive,True
+213,0,Drop,0,Drop,True
+2320,5,Pick and Give,5,Pick and Give,True
+4276,10,Swipe Left,10,Swipe Left,True
+2908,7,Push,7,Push,True
+5591,13,Wave,13,Wave,True
+2058,5,Pick and Give,5,Pick and Give,True
+1647,4,Pick & Pour,4,Pick & Pour,True
+3883,9,Rotate,9,Rotate,True
+3015,7,Push,7,Push,True
+3439,8,Receive,8,Receive,True
+2376,5,Pick and Give,5,Pick and Give,True
+4592,11,Swipe Right,11,Swipe Right,True
+4307,10,Swipe Left,10,Swipe Left,True
+2172,5,Pick and Give,5,Pick and Give,True
+3728,9,Rotate,9,Rotate,True
+4822,12,Task Completion,12,Task Completion,True
+1025,2,Flip,2,Flip,True
+4839,12,Task Completion,12,Task Completion,True
+1403,3,Pick,3,Pick,True
+2988,7,Push,7,Push,True
+1967,4,Pick & Pour,4,Pick & Pour,True
+3132,7,Push,7,Push,True
+2537,6,Pick and Place,6,Pick and Place,True
+2006,5,Pick and Give,5,Pick and Give,True
+1515,3,Pick,3,Pick,True
+4058,10,Swipe Left,10,Swipe Left,True
+1788,4,Pick & Pour,4,Pick & Pour,True
+2472,6,Pick and Place,6,Pick and Place,True
+2357,5,Pick and Give,5,Pick and Give,True
+2283,5,Pick and Give,5,Pick and Give,True
+4717,11,Swipe Right,11,Swipe Right,True
+3318,8,Receive,8,Receive,True
+531,1,Emergency_calling,1,Emergency_calling,True
+5594,13,Wave,13,Wave,True
+2036,5,Pick and Give,5,Pick and Give,True
+2591,6,Pick and Place,6,Pick and Place,True
+135,0,Drop,0,Drop,True
+961,2,Flip,2,Flip,True
+576,1,Emergency_calling,1,Emergency_calling,True
+2166,5,Pick and Give,5,Pick and Give,True
+4831,12,Task Completion,12,Task Completion,True
+3783,9,Rotate,9,Rotate,True
+3249,8,Receive,8,Receive,True
+3382,8,Receive,8,Receive,True
+4759,11,Swipe Right,11,Swipe Right,True
+5181,12,Task Completion,12,Task Completion,True
+5303,13,Wave,13,Wave,True
+495,1,Emergency_calling,1,Emergency_calling,True
+899,2,Flip,2,Flip,True
+4499,11,Swipe Right,11,Swipe Right,True
+394,0,Drop,0,Drop,True
+2694,6,Pick and Place,6,Pick and Place,True
+4070,10,Swipe Left,10,Swipe Left,True
+4073,10,Swipe Left,10,Swipe Left,True
+5697,14,Wiping,14,Wiping,True
+5886,14,Wiping,14,Wiping,True
+1764,4,Pick & Pour,4,Pick & Pour,True
+5142,12,Task Completion,12,Task Completion,True
+2901,7,Push,7,Push,True
+1698,4,Pick & Pour,4,Pick & Pour,True
+1069,2,Flip,2,Flip,True
+82,0,Drop,0,Drop,True
+219,0,Drop,0,Drop,True
+1755,4,Pick & Pour,4,Pick & Pour,True
+1437,3,Pick,3,Pick,True
+5469,13,Wave,13,Wave,True
+656,1,Emergency_calling,1,Emergency_calling,True
+4527,11,Swipe Right,11,Swipe Right,True
+3322,8,Receive,8,Receive,True
+4755,11,Swipe Right,11,Swipe Right,True
+4259,10,Swipe Left,11,Swipe Right,False
+4148,10,Swipe Left,10,Swipe Left,True
+1601,4,Pick & Pour,4,Pick & Pour,True
+5197,12,Task Completion,12,Task Completion,True
+3771,9,Rotate,9,Rotate,True
+755,1,Emergency_calling,1,Emergency_calling,True
+3393,8,Receive,8,Receive,True
+3620,9,Rotate,9,Rotate,True
+270,0,Drop,0,Drop,True
+1770,4,Pick & Pour,4,Pick & Pour,True
+2219,5,Pick and Give,5,Pick and Give,True
+5315,13,Wave,13,Wave,True
+870,2,Flip,2,Flip,True
+2713,6,Pick and Place,6,Pick and Place,True
+3871,9,Rotate,9,Rotate,True
+2138,5,Pick and Give,5,Pick and Give,True
+1240,3,Pick,3,Pick,True
+2035,5,Pick and Give,5,Pick and Give,True
+661,1,Emergency_calling,1,Emergency_calling,True
+4858,12,Task Completion,12,Task Completion,True
+4674,11,Swipe Right,11,Swipe Right,True
+262,0,Drop,0,Drop,True
+631,1,Emergency_calling,1,Emergency_calling,True
+540,1,Emergency_calling,1,Emergency_calling,True
+3831,9,Rotate,9,Rotate,True
+4998,12,Task Completion,12,Task Completion,True
+866,2,Flip,2,Flip,True
+3327,8,Receive,8,Receive,True
+1928,4,Pick & Pour,4,Pick & Pour,True
+5290,13,Wave,13,Wave,True
+5909,14,Wiping,14,Wiping,True
+796,1,Emergency_calling,1,Emergency_calling,True
+5774,14,Wiping,14,Wiping,True
+3085,7,Push,7,Push,True
+5764,14,Wiping,14,Wiping,True
+3069,7,Push,7,Push,True
+2704,6,Pick and Place,6,Pick and Place,True
+491,1,Emergency_calling,1,Emergency_calling,True
+2714,6,Pick and Place,6,Pick and Place,True
+1017,2,Flip,2,Flip,True
+5739,14,Wiping,14,Wiping,True
+4346,10,Swipe Left,10,Swipe Left,True
+4380,10,Swipe Left,10,Swipe Left,True
+1088,2,Flip,2,Flip,True
+2028,5,Pick and Give,5,Pick and Give,True
+928,2,Flip,2,Flip,True
+4753,11,Swipe Right,11,Swipe Right,True
+4767,11,Swipe Right,11,Swipe Right,True
+5005,12,Task Completion,12,Task Completion,True
+3656,9,Rotate,9,Rotate,True
+2411,6,Pick and Place,6,Pick and Place,True
+5227,13,Wave,13,Wave,True
+1100,2,Flip,2,Flip,True
+2405,6,Pick and Place,6,Pick and Place,True
+1262,3,Pick,3,Pick,True
+204,0,Drop,0,Drop,True
+2557,6,Pick and Place,6,Pick and Place,True
+1550,3,Pick,3,Pick,True
+1298,3,Pick,3,Pick,True
+2528,6,Pick and Place,6,Pick and Place,True
+897,2,Flip,2,Flip,True
+5519,13,Wave,13,Wave,True
+3885,9,Rotate,9,Rotate,True
+979,2,Flip,2,Flip,True
+5908,14,Wiping,14,Wiping,True
+3196,7,Push,7,Push,True
+842,2,Flip,2,Flip,True
+1808,4,Pick & Pour,4,Pick & Pour,True
+105,0,Drop,0,Drop,True
+3451,8,Receive,8,Receive,True
+173,0,Drop,0,Drop,True
+162,0,Drop,0,Drop,True
+4682,11,Swipe Right,11,Swipe Right,True
+3145,7,Push,7,Push,True
+182,0,Drop,0,Drop,True
+5364,13,Wave,13,Wave,True
+2485,6,Pick and Place,6,Pick and Place,True
+5901,14,Wiping,14,Wiping,True
+5336,13,Wave,13,Wave,True
+5816,14,Wiping,14,Wiping,True
+5680,14,Wiping,14,Wiping,True
+2050,5,Pick and Give,5,Pick and Give,True
+4489,11,Swipe Right,11,Swipe Right,True
+2066,5,Pick and Give,5,Pick and Give,True
+1537,3,Pick,3,Pick,True
+3274,8,Receive,8,Receive,True
+1781,4,Pick & Pour,4,Pick & Pour,True
+1499,3,Pick,3,Pick,True
+840,2,Flip,2,Flip,True
+3385,8,Receive,8,Receive,True
+3870,9,Rotate,9,Rotate,True
+5946,14,Wiping,14,Wiping,True
+3155,7,Push,7,Push,True
+268,0,Drop,0,Drop,True
+2369,5,Pick and Give,5,Pick and Give,True
+1711,4,Pick & Pour,4,Pick & Pour,True
+5054,12,Task Completion,12,Task Completion,True
+2260,5,Pick and Give,5,Pick and Give,True
+2797,6,Pick and Place,6,Pick and Place,True
+86,0,Drop,0,Drop,True
+5415,13,Wave,13,Wave,True
+2840,7,Push,7,Push,True
+4093,10,Swipe Left,10,Swipe Left,True
+968,2,Flip,2,Flip,True
+2920,7,Push,7,Push,True
+2312,5,Pick and Give,5,Pick and Give,True
+1673,4,Pick & Pour,4,Pick & Pour,True
+5586,13,Wave,13,Wave,True
+1845,4,Pick & Pour,4,Pick & Pour,True
+5277,13,Wave,13,Wave,True
+17,0,Drop,0,Drop,True
+5001,12,Task Completion,12,Task Completion,True
+4694,11,Swipe Right,11,Swipe Right,True
+414,1,Emergency_calling,1,Emergency_calling,True
+3425,8,Receive,8,Receive,True
+2103,5,Pick and Give,5,Pick and Give,True
+291,0,Drop,0,Drop,True
+2529,6,Pick and Place,6,Pick and Place,True
+3128,7,Push,7,Push,True
+5388,13,Wave,13,Wave,True
+251,0,Drop,0,Drop,True
+1084,2,Flip,2,Flip,True
+2736,6,Pick and Place,6,Pick and Place,True
+4785,11,Swipe Right,11,Swipe Right,True
+4243,10,Swipe Left,10,Swipe Left,True
+4228,10,Swipe Left,10,Swipe Left,True
+4842,12,Task Completion,12,Task Completion,True
+2681,6,Pick and Place,6,Pick and Place,True
+4585,11,Swipe Right,11,Swipe Right,True
+5747,14,Wiping,14,Wiping,True
+766,1,Emergency_calling,1,Emergency_calling,True
+472,1,Emergency_calling,1,Emergency_calling,True
+2719,6,Pick and Place,6,Pick and Place,True
+2682,6,Pick and Place,6,Pick and Place,True
+2734,6,Pick and Place,6,Pick and Place,True
+1758,4,Pick & Pour,4,Pick & Pour,True
+4,0,Drop,0,Drop,True
+2997,7,Push,7,Push,True
+3976,9,Rotate,9,Rotate,True
+3035,7,Push,7,Push,True
+4295,10,Swipe Left,10,Swipe Left,True
+4796,11,Swipe Right,11,Swipe Right,True
+4855,12,Task Completion,12,Task Completion,True
+205,0,Drop,0,Drop,True
+3721,9,Rotate,9,Rotate,True
+3811,9,Rotate,9,Rotate,True
+868,2,Flip,2,Flip,True
+2621,6,Pick and Place,6,Pick and Place,True
+2790,6,Pick and Place,6,Pick and Place,True
+5033,12,Task Completion,12,Task Completion,True
+4481,11,Swipe Right,11,Swipe Right,True
+4316,10,Swipe Left,10,Swipe Left,True
+5599,13,Wave,13,Wave,True
+1583,3,Pick,3,Pick,True
+1332,3,Pick,3,Pick,True
+4883,12,Task Completion,12,Task Completion,True
+4153,10,Swipe Left,10,Swipe Left,True
+3724,9,Rotate,9,Rotate,True
+564,1,Emergency_calling,1,Emergency_calling,True
+4247,10,Swipe Left,10,Swipe Left,True
+1010,2,Flip,2,Flip,True
+4965,12,Task Completion,12,Task Completion,True
+1992,4,Pick & Pour,4,Pick & Pour,True
+5957,14,Wiping,14,Wiping,True
+266,0,Drop,0,Drop,True
+3546,8,Receive,8,Receive,True
+4313,10,Swipe Left,10,Swipe Left,True
+1194,2,Flip,2,Flip,True
+1311,3,Pick,3,Pick,True
+1024,2,Flip,2,Flip,True
+2043,5,Pick and Give,5,Pick and Give,True
+3301,8,Receive,8,Receive,True
+2744,6,Pick and Place,6,Pick and Place,True
+25,0,Drop,0,Drop,True
+1142,2,Flip,2,Flip,True
+1661,4,Pick & Pour,4,Pick & Pour,True
+3640,9,Rotate,9,Rotate,True
+1998,4,Pick & Pour,4,Pick & Pour,True
+3058,7,Push,7,Push,True
+3060,7,Push,7,Push,True
+5403,13,Wave,13,Wave,True
+3673,9,Rotate,9,Rotate,True
+3307,8,Receive,8,Receive,True
+1999,4,Pick & Pour,4,Pick & Pour,True
+5140,12,Task Completion,12,Task Completion,True
+5885,14,Wiping,14,Wiping,True
+4111,10,Swipe Left,10,Swipe Left,True
+607,1,Emergency_calling,1,Emergency_calling,True
+5280,13,Wave,13,Wave,True
+742,1,Emergency_calling,1,Emergency_calling,True
+3302,8,Receive,8,Receive,True
+2263,5,Pick and Give,5,Pick and Give,True
+5333,13,Wave,13,Wave,True
+3017,7,Push,7,Push,True
+5426,13,Wave,13,Wave,True
+3223,8,Receive,8,Receive,True
+5512,13,Wave,13,Wave,True
+211,0,Drop,0,Drop,True
+5430,13,Wave,13,Wave,True
+3050,7,Push,7,Push,True
+1654,4,Pick & Pour,4,Pick & Pour,True
+1387,3,Pick,3,Pick,True
+5865,14,Wiping,14,Wiping,True
+3957,9,Rotate,9,Rotate,True
+4308,10,Swipe Left,10,Swipe Left,True
+3641,9,Rotate,9,Rotate,True
+2828,7,Push,7,Push,True
+4418,11,Swipe Right,11,Swipe Right,True
+42,0,Drop,0,Drop,True
+3596,8,Receive,8,Receive,True
+3410,8,Receive,8,Receive,True
+3854,9,Rotate,9,Rotate,True
+2414,6,Pick and Place,6,Pick and Place,True
+5674,14,Wiping,14,Wiping,True
+4895,12,Task Completion,12,Task Completion,True
+4417,11,Swipe Right,11,Swipe Right,True
+1135,2,Flip,2,Flip,True
+1115,2,Flip,2,Flip,True
+5145,12,Task Completion,12,Task Completion,True
+5458,13,Wave,13,Wave,True
+5099,12,Task Completion,12,Task Completion,True
+524,1,Emergency_calling,1,Emergency_calling,True
+5906,14,Wiping,14,Wiping,True
+5255,13,Wave,13,Wave,True
+1323,3,Pick,3,Pick,True
+3943,9,Rotate,9,Rotate,True
+2391,5,Pick and Give,5,Pick and Give,True
+1789,4,Pick & Pour,4,Pick & Pour,True
+349,0,Drop,0,Drop,True
+1177,2,Flip,2,Flip,True
+2441,6,Pick and Place,6,Pick and Place,True
+673,1,Emergency_calling,1,Emergency_calling,True
+2909,7,Push,7,Push,True
+3577,8,Receive,8,Receive,True
+1702,4,Pick & Pour,4,Pick & Pour,True
+3755,9,Rotate,9,Rotate,True
+2737,6,Pick and Place,6,Pick and Place,True
+3209,8,Receive,8,Receive,True
+4624,11,Swipe Right,11,Swipe Right,True
+498,1,Emergency_calling,1,Emergency_calling,True
+5930,14,Wiping,14,Wiping,True
+22,0,Drop,0,Drop,True
+2101,5,Pick and Give,5,Pick and Give,True
+3787,9,Rotate,9,Rotate,True
+1975,4,Pick & Pour,4,Pick & Pour,True
+5778,14,Wiping,14,Wiping,True
+5792,14,Wiping,14,Wiping,True
+2794,6,Pick and Place,6,Pick and Place,True
+210,0,Drop,0,Drop,True
+1167,2,Flip,2,Flip,True
+2235,5,Pick and Give,5,Pick and Give,True
+1522,3,Pick,3,Pick,True
+3667,9,Rotate,9,Rotate,True
+708,1,Emergency_calling,1,Emergency_calling,True
+5482,13,Wave,13,Wave,True
+4432,11,Swipe Right,11,Swipe Right,True
+107,0,Drop,0,Drop,True
+657,1,Emergency_calling,1,Emergency_calling,True
+2577,6,Pick and Place,6,Pick and Place,True
+5667,14,Wiping,14,Wiping,True
+1986,4,Pick & Pour,4,Pick & Pour,True
+579,1,Emergency_calling,1,Emergency_calling,True
+559,1,Emergency_calling,1,Emergency_calling,True
+1763,4,Pick & Pour,4,Pick & Pour,True
+2985,7,Push,7,Push,True
+4987,12,Task Completion,12,Task Completion,True
+3597,8,Receive,8,Receive,True
+2242,5,Pick and Give,5,Pick and Give,True
+3459,8,Receive,8,Receive,True
+1598,3,Pick,3,Pick,True
+350,0,Drop,0,Drop,True
+5398,13,Wave,13,Wave,True
+1439,3,Pick,3,Pick,True
+1567,3,Pick,3,Pick,True
+5963,14,Wiping,14,Wiping,True
+1122,2,Flip,2,Flip,True
+2310,5,Pick and Give,5,Pick and Give,True
+5695,14,Wiping,14,Wiping,True
+1189,2,Flip,2,Flip,True
+5067,12,Task Completion,12,Task Completion,True
+1217,3,Pick,3,Pick,True
+4223,10,Swipe Left,10,Swipe Left,True
+4827,12,Task Completion,12,Task Completion,True
+3471,8,Receive,8,Receive,True
+2438,6,Pick and Place,6,Pick and Place,True
+2407,6,Pick and Place,6,Pick and Place,True
+4505,11,Swipe Right,11,Swipe Right,True
+4285,10,Swipe Left,10,Swipe Left,True
+5808,14,Wiping,14,Wiping,True
+2802,7,Push,7,Push,True
+997,2,Flip,2,Flip,True
+4147,10,Swipe Left,10,Swipe Left,True
+504,1,Emergency_calling,1,Emergency_calling,True
+5372,13,Wave,13,Wave,True
+5971,14,Wiping,14,Wiping,True
+363,0,Drop,0,Drop,True
+58,0,Drop,0,Drop,True
+4385,10,Swipe Left,10,Swipe Left,True
+88,0,Drop,0,Drop,True
+4671,11,Swipe Right,11,Swipe Right,True
+174,0,Drop,0,Drop,True
+3652,9,Rotate,9,Rotate,True
+1021,2,Flip,2,Flip,True
+232,0,Drop,0,Drop,True
+1556,3,Pick,3,Pick,True
+721,1,Emergency_calling,1,Emergency_calling,True
+1260,3,Pick,3,Pick,True
+2196,5,Pick and Give,5,Pick and Give,True
+4079,10,Swipe Left,10,Swipe Left,True
+3902,9,Rotate,9,Rotate,True
+1776,4,Pick & Pour,4,Pick & Pour,True
+4818,12,Task Completion,12,Task Completion,True
+1465,3,Pick,3,Pick,True
+4742,11,Swipe Right,11,Swipe Right,True
+1129,2,Flip,2,Flip,True
+609,1,Emergency_calling,1,Emergency_calling,True
+3997,9,Rotate,9,Rotate,True
+972,2,Flip,2,Flip,True
+3845,9,Rotate,9,Rotate,True
+1029,2,Flip,2,Flip,True
+3357,8,Receive,8,Receive,True
+4049,10,Swipe Left,10,Swipe Left,True
+5853,14,Wiping,14,Wiping,True
+2390,5,Pick and Give,5,Pick and Give,True
+5134,12,Task Completion,12,Task Completion,True
+4521,11,Swipe Right,11,Swipe Right,True
+5221,13,Wave,13,Wave,True
+877,2,Flip,2,Flip,True
+1723,4,Pick & Pour,4,Pick & Pour,True
+3428,8,Receive,8,Receive,True
+3915,9,Rotate,9,Rotate,True
+3389,8,Receive,8,Receive,True
+1645,4,Pick & Pour,4,Pick & Pour,True
+2779,6,Pick and Place,6,Pick and Place,True
+98,0,Drop,0,Drop,True
+3655,9,Rotate,9,Rotate,True
+2463,6,Pick and Place,6,Pick and Place,True
+4248,10,Swipe Left,10,Swipe Left,True
+1629,4,Pick & Pour,4,Pick & Pour,True
+5585,13,Wave,13,Wave,True
+3895,9,Rotate,9,Rotate,True
+4142,10,Swipe Left,10,Swipe Left,True
+3938,9,Rotate,9,Rotate,True
+0,0,Drop,0,Drop,True
+5493,13,Wave,13,Wave,True
+822,2,Flip,2,Flip,True
+4468,11,Swipe Right,11,Swipe Right,True
+4455,11,Swipe Right,11,Swipe Right,True
+4138,10,Swipe Left,10,Swipe Left,True
+1430,3,Pick,3,Pick,True
+4761,11,Swipe Right,11,Swipe Right,True
+3837,9,Rotate,9,Rotate,True
+4002,10,Swipe Left,10,Swipe Left,True
+3332,8,Receive,8,Receive,True
+3059,7,Push,7,Push,True
+4951,12,Task Completion,12,Task Completion,True
+698,1,Emergency_calling,1,Emergency_calling,True
+711,1,Emergency_calling,1,Emergency_calling,True
+653,1,Emergency_calling,1,Emergency_calling,True
+2670,6,Pick and Place,6,Pick and Place,True
+2497,6,Pick and Place,6,Pick and Place,True
+2440,6,Pick and Place,6,Pick and Place,True
+5524,13,Wave,13,Wave,True
+5400,13,Wave,13,Wave,True
+1709,4,Pick & Pour,4,Pick & Pour,True
+3411,8,Receive,8,Receive,True
+1527,3,Pick,3,Pick,True
+3745,9,Rotate,9,Rotate,True
+668,1,Emergency_calling,1,Emergency_calling,True
+4790,11,Swipe Right,11,Swipe Right,True
+4833,12,Task Completion,12,Task Completion,True
+4279,10,Swipe Left,10,Swipe Left,True
+3154,7,Push,7,Push,True
+5788,14,Wiping,14,Wiping,True
+325,0,Drop,0,Drop,True
+5359,13,Wave,13,Wave,True
+2667,6,Pick and Place,6,Pick and Place,True
+1963,4,Pick & Pour,4,Pick & Pour,True
+946,2,Flip,2,Flip,True
+3373,8,Receive,8,Receive,True
+1990,4,Pick & Pour,4,Pick & Pour,True
+5593,13,Wave,13,Wave,True
+5027,12,Task Completion,12,Task Completion,True
+3880,9,Rotate,9,Rotate,True
+3125,7,Push,7,Push,True
+5836,14,Wiping,14,Wiping,True
+3541,8,Receive,8,Receive,True
+4648,11,Swipe Right,11,Swipe Right,True
+2408,6,Pick and Place,6,Pick and Place,True
+2372,5,Pick and Give,5,Pick and Give,True
+4937,12,Task Completion,12,Task Completion,True
+3049,7,Push,7,Push,True
+5036,12,Task Completion,12,Task Completion,True
+3110,7,Push,7,Push,True
+4968,12,Task Completion,12,Task Completion,True
+4086,10,Swipe Left,10,Swipe Left,True
+5929,14,Wiping,14,Wiping,True
+3603,9,Rotate,9,Rotate,True
+5349,13,Wave,13,Wave,True
+272,0,Drop,0,Drop,True
+1385,3,Pick,3,Pick,True
+5967,14,Wiping,14,Wiping,True
+239,0,Drop,0,Drop,True
+5271,13,Wave,13,Wave,True
+1956,4,Pick & Pour,4,Pick & Pour,True
+3026,7,Push,7,Push,True
+2610,6,Pick and Place,6,Pick and Place,True
+2187,5,Pick and Give,5,Pick and Give,True
+2999,7,Push,7,Push,True
+2639,6,Pick and Place,6,Pick and Place,True
+5551,13,Wave,13,Wave,True
+4980,12,Task Completion,12,Task Completion,True
+1250,3,Pick,3,Pick,True
+1297,3,Pick,3,Pick,True
+5373,13,Wave,13,Wave,True
+3447,8,Receive,8,Receive,True
+4303,10,Swipe Left,10,Swipe Left,True
+5441,13,Wave,13,Wave,True
+5183,12,Task Completion,12,Task Completion,True
+3629,9,Rotate,9,Rotate,True
+5550,13,Wave,13,Wave,True
+920,2,Flip,2,Flip,True
+5633,14,Wiping,14,Wiping,True
+406,1,Emergency_calling,1,Emergency_calling,True
+1358,3,Pick,3,Pick,True
+2965,7,Push,7,Push,True
+3197,7,Push,7,Push,True
+271,0,Drop,0,Drop,True
+5008,12,Task Completion,12,Task Completion,True
+1448,3,Pick,3,Pick,True
+4005,10,Swipe Left,10,Swipe Left,True
+3213,8,Receive,8,Receive,True
+1253,3,Pick,3,Pick,True
+5385,13,Wave,13,Wave,True
+3099,7,Push,7,Push,True
+378,0,Drop,0,Drop,True
+4265,10,Swipe Left,10,Swipe Left,True
+5733,14,Wiping,14,Wiping,True
+296,0,Drop,0,Drop,True
+4491,11,Swipe Right,11,Swipe Right,True
+2717,6,Pick and Place,6,Pick and Place,True
+193,0,Drop,0,Drop,True
+2585,6,Pick and Place,6,Pick and Place,True
+4744,11,Swipe Right,11,Swipe Right,True
+4009,10,Swipe Left,10,Swipe Left,True
+2001,5,Pick and Give,5,Pick and Give,True
+476,1,Emergency_calling,1,Emergency_calling,True
+3119,7,Push,7,Push,True
+4643,11,Swipe Right,11,Swipe Right,True
+3299,8,Receive,8,Receive,True
+418,1,Emergency_calling,1,Emergency_calling,True
+2786,6,Pick and Place,6,Pick and Place,True
+4296,10,Swipe Left,10,Swipe Left,True
+1426,3,Pick,3,Pick,True
+4008,10,Swipe Left,10,Swipe Left,True
+3476,8,Receive,8,Receive,True
+775,1,Emergency_calling,1,Emergency_calling,True
+2907,7,Push,7,Push,True
+5420,13,Wave,13,Wave,True
+4482,11,Swipe Right,11,Swipe Right,True
+4891,12,Task Completion,12,Task Completion,True
+4880,12,Task Completion,12,Task Completion,True
+1026,2,Flip,2,Flip,True
+2614,6,Pick and Place,6,Pick and Place,True
+1126,2,Flip,2,Flip,True
+3377,8,Receive,8,Receive,True
+2948,7,Push,7,Push,True
+488,1,Emergency_calling,1,Emergency_calling,True
+1544,3,Pick,3,Pick,True
+4784,11,Swipe Right,11,Swipe Right,True
+424,1,Emergency_calling,1,Emergency_calling,True
+812,2,Flip,2,Flip,True
+158,0,Drop,0,Drop,True
+5602,14,Wiping,14,Wiping,True
+5823,14,Wiping,14,Wiping,True
+4429,11,Swipe Right,11,Swipe Right,True
+3757,9,Rotate,9,Rotate,True
+5465,13,Wave,13,Wave,True
+2930,7,Push,7,Push,True
+333,0,Drop,0,Drop,True
+3754,9,Rotate,9,Rotate,True
+1877,4,Pick & Pour,4,Pick & Pour,True
+3495,8,Receive,8,Receive,True
+2077,5,Pick and Give,5,Pick and Give,True
+1597,3,Pick,3,Pick,True
+850,2,Flip,2,Flip,True
+4053,10,Swipe Left,10,Swipe Left,True
+5242,13,Wave,13,Wave,True
+2427,6,Pick and Place,6,Pick and Place,True
+4013,10,Swipe Left,10,Swipe Left,True
+638,1,Emergency_calling,1,Emergency_calling,True
+879,2,Flip,2,Flip,True
+184,0,Drop,0,Drop,True
+4124,10,Swipe Left,10,Swipe Left,True
+2153,5,Pick and Give,5,Pick and Give,True
+5157,12,Task Completion,12,Task Completion,True
+1357,3,Pick,3,Pick,True
+4381,10,Swipe Left,10,Swipe Left,True
+5505,13,Wave,13,Wave,True
+854,2,Flip,2,Flip,True
+2921,7,Push,7,Push,True
+2039,5,Pick and Give,5,Pick and Give,True
+4043,10,Swipe Left,10,Swipe Left,True
+511,1,Emergency_calling,1,Emergency_calling,True
+5318,13,Wave,13,Wave,True
+4119,10,Swipe Left,10,Swipe Left,True
+1502,3,Pick,3,Pick,True
+905,2,Flip,2,Flip,True
+3841,9,Rotate,9,Rotate,True
+5133,12,Task Completion,12,Task Completion,True
+4536,11,Swipe Right,11,Swipe Right,True
+699,1,Emergency_calling,1,Emergency_calling,True
+5577,13,Wave,13,Wave,True
+4078,10,Swipe Left,10,Swipe Left,True
+5058,12,Task Completion,12,Task Completion,True
+723,1,Emergency_calling,1,Emergency_calling,True
+4306,10,Swipe Left,10,Swipe Left,True
+1613,4,Pick & Pour,4,Pick & Pour,True
+5126,12,Task Completion,12,Task Completion,True
+2377,5,Pick and Give,5,Pick and Give,True
+3587,8,Receive,8,Receive,True
+4193,10,Swipe Left,10,Swipe Left,True
+2954,7,Push,7,Push,True
+3684,9,Rotate,9,Rotate,True
+4917,12,Task Completion,12,Task Completion,True
+401,1,Emergency_calling,1,Emergency_calling,True
+3576,8,Receive,8,Receive,True
+1406,3,Pick,3,Pick,True
+5856,14,Wiping,14,Wiping,True
+4627,11,Swipe Right,11,Swipe Right,True
+2412,6,Pick and Place,6,Pick and Place,True
+1563,3,Pick,3,Pick,True
+1052,2,Flip,2,Flip,True
+2974,7,Push,7,Push,True
+5103,12,Task Completion,12,Task Completion,True
+240,0,Drop,0,Drop,True
+748,1,Emergency_calling,1,Emergency_calling,True
+55,0,Drop,0,Drop,True
+1575,3,Pick,3,Pick,True
+1551,3,Pick,3,Pick,True
+5987,14,Wiping,14,Wiping,True
+4221,10,Swipe Left,10,Swipe Left,True
+3904,9,Rotate,9,Rotate,True
+4593,11,Swipe Right,11,Swipe Right,True
+116,0,Drop,0,Drop,True
+3237,8,Receive,8,Receive,True
+1887,4,Pick & Pour,4,Pick & Pour,True
+5025,12,Task Completion,12,Task Completion,True
+1725,4,Pick & Pour,4,Pick & Pour,True
+4121,10,Swipe Left,10,Swipe Left,True
+550,1,Emergency_calling,1,Emergency_calling,True
+3689,9,Rotate,9,Rotate,True
+1605,4,Pick & Pour,4,Pick & Pour,True
+1249,3,Pick,3,Pick,True
+4246,10,Swipe Left,10,Swipe Left,True
+1555,3,Pick,3,Pick,True
+1335,3,Pick,3,Pick,True
+5211,13,Wave,13,Wave,True
+2522,6,Pick and Place,6,Pick and Place,True
+4751,11,Swipe Right,11,Swipe Right,True
+4629,11,Swipe Right,11,Swipe Right,True
+474,1,Emergency_calling,1,Emergency_calling,True
+640,1,Emergency_calling,1,Emergency_calling,True
+3713,9,Rotate,9,Rotate,True
+2460,6,Pick and Place,6,Pick and Place,True
+3277,8,Receive,8,Receive,True
+1894,4,Pick & Pour,4,Pick & Pour,True
+3480,8,Receive,8,Receive,True
+5762,14,Wiping,14,Wiping,True
+2483,6,Pick and Place,6,Pick and Place,True
+4867,12,Task Completion,12,Task Completion,True
+2238,5,Pick and Give,5,Pick and Give,True
+3692,9,Rotate,9,Rotate,True
+3262,8,Receive,8,Receive,True
+4469,11,Swipe Right,11,Swipe Right,True
+85,0,Drop,0,Drop,True
+4081,10,Swipe Left,10,Swipe Left,True
+2996,7,Push,7,Push,True
+2102,5,Pick and Give,5,Pick and Give,True
+3170,7,Push,7,Push,True
+891,2,Flip,2,Flip,True
+3878,9,Rotate,9,Rotate,True
+2364,5,Pick and Give,5,Pick and Give,True
+2561,6,Pick and Place,6,Pick and Place,True
+1705,4,Pick & Pour,4,Pick & Pour,True
+5201,13,Wave,13,Wave,True
+4981,12,Task Completion,12,Task Completion,True
+3638,9,Rotate,9,Rotate,True
+5046,12,Task Completion,12,Task Completion,True
+3007,7,Push,7,Push,True
+3084,7,Push,7,Push,True
+1072,2,Flip,2,Flip,True
+5572,13,Wave,13,Wave,True
+719,1,Emergency_calling,1,Emergency_calling,True
+5205,13,Wave,13,Wave,True
+3994,9,Rotate,9,Rotate,True
+5202,13,Wave,13,Wave,True
+5445,13,Wave,13,Wave,True
+5253,13,Wave,13,Wave,True
+5940,14,Wiping,14,Wiping,True
+2395,5,Pick and Give,5,Pick and Give,True
+2010,5,Pick and Give,5,Pick and Give,True
+5765,14,Wiping,14,Wiping,True
+1238,3,Pick,3,Pick,True
+5111,12,Task Completion,12,Task Completion,True
+5980,14,Wiping,14,Wiping,True
+856,2,Flip,2,Flip,True
+1282,3,Pick,3,Pick,True
+4572,11,Swipe Right,11,Swipe Right,True
+364,0,Drop,0,Drop,True
+1553,3,Pick,3,Pick,True
+435,1,Emergency_calling,1,Emergency_calling,True
+3362,8,Receive,8,Receive,True
+846,2,Flip,2,Flip,True
+4771,11,Swipe Right,11,Swipe Right,True
+1395,3,Pick,3,Pick,True
+1157,2,Flip,2,Flip,True
+436,1,Emergency_calling,1,Emergency_calling,True
+2448,6,Pick and Place,6,Pick and Place,True
+2403,6,Pick and Place,6,Pick and Place,True
+596,1,Emergency_calling,1,Emergency_calling,True
+2491,6,Pick and Place,6,Pick and Place,True
+2867,7,Push,7,Push,True
+5919,14,Wiping,14,Wiping,True
+2525,6,Pick and Place,6,Pick and Place,True
+5598,13,Wave,13,Wave,True
+2171,5,Pick and Give,5,Pick and Give,True
+4701,11,Swipe Right,11,Swipe Right,True
+2179,5,Pick and Give,5,Pick and Give,True
+4936,12,Task Completion,12,Task Completion,True
+5977,14,Wiping,14,Wiping,True
+3488,8,Receive,8,Receive,True
+1917,4,Pick & Pour,4,Pick & Pour,True
+906,2,Flip,2,Flip,True
+3052,7,Push,7,Push,True
+5368,13,Wave,13,Wave,True
+1982,4,Pick & Pour,4,Pick & Pour,True
+1039,2,Flip,2,Flip,True
+1972,4,Pick & Pour,4,Pick & Pour,True
+5707,14,Wiping,14,Wiping,True
+5875,14,Wiping,14,Wiping,True
+5806,14,Wiping,14,Wiping,True
+1379,3,Pick,3,Pick,True
+3599,8,Receive,8,Receive,True
+4909,12,Task Completion,12,Task Completion,True
+5335,13,Wave,13,Wave,True
+3931,9,Rotate,9,Rotate,True
+5510,13,Wave,13,Wave,True
+4703,11,Swipe Right,11,Swipe Right,True
+2647,6,Pick and Place,6,Pick and Place,True
+3924,9,Rotate,9,Rotate,True
+3399,8,Receive,8,Receive,True
+217,0,Drop,0,Drop,True
+1995,4,Pick & Pour,4,Pick & Pour,True
+5195,12,Task Completion,12,Task Completion,True
+981,2,Flip,2,Flip,True
+3554,8,Receive,8,Receive,True
+5137,12,Task Completion,12,Task Completion,True
+5004,12,Task Completion,12,Task Completion,True
+5233,13,Wave,13,Wave,True
+4195,10,Swipe Left,10,Swipe Left,True
+1371,3,Pick,3,Pick,True
+660,1,Emergency_calling,1,Emergency_calling,True
+4684,11,Swipe Right,11,Swipe Right,True
+3272,8,Receive,8,Receive,True
+2837,7,Push,7,Push,True
+2855,7,Push,7,Push,True
+4139,10,Swipe Left,10,Swipe Left,True
+1610,4,Pick & Pour,4,Pick & Pour,True
+4836,12,Task Completion,12,Task Completion,True
+2643,6,Pick and Place,6,Pick and Place,True
+3094,7,Push,7,Push,True
+3737,9,Rotate,9,Rotate,True
+3205,8,Receive,8,Receive,True
+2549,6,Pick and Place,6,Pick and Place,True
+198,0,Drop,0,Drop,True
+5677,14,Wiping,14,Wiping,True
+121,0,Drop,0,Drop,True
+843,2,Flip,2,Flip,True
+3468,8,Receive,8,Receive,True
+5149,12,Task Completion,12,Task Completion,True
+2350,5,Pick and Give,5,Pick and Give,True
+1794,4,Pick & Pour,4,Pick & Pour,True
+1651,4,Pick & Pour,4,Pick & Pour,True
+2360,5,Pick and Give,5,Pick and Give,True
+1560,3,Pick,3,Pick,True
+5558,13,Wave,13,Wave,True
+3217,8,Receive,8,Receive,True
+4576,11,Swipe Right,11,Swipe Right,True
+2289,5,Pick and Give,5,Pick and Give,True
+1692,4,Pick & Pour,4,Pick & Pour,True
+1467,3,Pick,3,Pick,True
+3723,9,Rotate,9,Rotate,True
+5935,14,Wiping,14,Wiping,True
+2182,5,Pick and Give,5,Pick and Give,True
+763,1,Emergency_calling,1,Emergency_calling,True
+1327,3,Pick,3,Pick,True
+5158,12,Task Completion,12,Task Completion,True
+728,1,Emergency_calling,1,Emergency_calling,True
+1060,2,Flip,2,Flip,True
+5773,14,Wiping,14,Wiping,True
+642,1,Emergency_calling,1,Emergency_calling,True
+4165,10,Swipe Left,10,Swipe Left,True
+3412,8,Receive,8,Receive,True
+1918,4,Pick & Pour,4,Pick & Pour,True
+3116,7,Push,7,Push,True
+3178,7,Push,7,Push,True
+1897,4,Pick & Pour,4,Pick & Pour,True
+1745,4,Pick & Pour,4,Pick & Pour,True
+517,1,Emergency_calling,1,Emergency_calling,True
+5579,13,Wave,13,Wave,True
+1570,3,Pick,3,Pick,True
+4622,11,Swipe Right,11,Swipe Right,True
+392,0,Drop,0,Drop,True
+5080,12,Task Completion,12,Task Completion,True
+2871,7,Push,7,Push,True
+4617,11,Swipe Right,10,Swipe Left,False
+751,1,Emergency_calling,1,Emergency_calling,True
+3651,9,Rotate,9,Rotate,True
+5571,13,Wave,13,Wave,True
+2868,7,Push,7,Push,True
+3617,9,Rotate,9,Rotate,True
+3923,9,Rotate,9,Rotate,True
+1018,2,Flip,2,Flip,True
+3212,8,Receive,8,Receive,True
+4770,11,Swipe Right,11,Swipe Right,True
+2905,7,Push,7,Push,True
+3887,9,Rotate,9,Rotate,True
+475,1,Emergency_calling,1,Emergency_calling,True
+4854,12,Task Completion,12,Task Completion,True
+3574,8,Receive,8,Receive,True
+806,2,Flip,2,Flip,True
+2361,5,Pick and Give,5,Pick and Give,True
+2600,6,Pick and Place,6,Pick and Place,True
+793,1,Emergency_calling,1,Emergency_calling,True
+1221,3,Pick,3,Pick,True
+3852,9,Rotate,9,Rotate,True
+4233,10,Swipe Left,10,Swipe Left,True
+2832,7,Push,7,Push,True
+4351,10,Swipe Left,10,Swipe Left,True
+3751,9,Rotate,9,Rotate,True
+3435,8,Receive,8,Receive,True
+172,0,Drop,0,Drop,True
+5387,13,Wave,13,Wave,True
+1816,4,Pick & Pour,4,Pick & Pour,True
+527,1,Emergency_calling,1,Emergency_calling,True
+3265,8,Receive,8,Receive,True
+5120,12,Task Completion,12,Task Completion,True
+605,1,Emergency_calling,1,Emergency_calling,True
+2689,6,Pick and Place,6,Pick and Place,True
+4726,11,Swipe Right,11,Swipe Right,True
+4524,11,Swipe Right,11,Swipe Right,True
+4832,12,Task Completion,12,Task Completion,True
+644,1,Emergency_calling,1,Emergency_calling,True
+5927,14,Wiping,14,Wiping,True
+1811,4,Pick & Pour,4,Pick & Pour,True
+352,0,Drop,0,Drop,True
+3138,7,Push,7,Push,True
+2925,7,Push,7,Push,True
+194,0,Drop,0,Drop,True
+3204,8,Receive,8,Receive,True
+2765,6,Pick and Place,6,Pick and Place,True
+876,2,Flip,2,Flip,True
+2381,5,Pick and Give,5,Pick and Give,True
+5302,13,Wave,13,Wave,True
+1667,4,Pick & Pour,4,Pick & Pour,True
+5872,14,Wiping,14,Wiping,True
+978,2,Flip,2,Flip,True
+4204,10,Swipe Left,10,Swipe Left,True
+999,2,Flip,2,Flip,True
+1829,4,Pick & Pour,4,Pick & Pour,True
+189,0,Drop,0,Drop,True
+1531,3,Pick,3,Pick,True
+4944,12,Task Completion,12,Task Completion,True
+5182,12,Task Completion,12,Task Completion,True
+1443,3,Pick,3,Pick,True
+5453,13,Wave,13,Wave,True
+1619,4,Pick & Pour,4,Pick & Pour,True
+4409,11,Swipe Right,11,Swipe Right,True
+3343,8,Receive,8,Receive,True
+5688,14,Wiping,14,Wiping,True
+3396,8,Receive,8,Receive,True
+492,1,Emergency_calling,1,Emergency_calling,True
+898,2,Flip,2,Flip,True
+5734,14,Wiping,14,Wiping,True
+3098,7,Push,7,Push,True
+45,0,Drop,0,Drop,True
+735,1,Emergency_calling,1,Emergency_calling,True
+5639,14,Wiping,14,Wiping,True
+3368,8,Receive,8,Receive,True
+1509,3,Pick,3,Pick,True
+3772,9,Rotate,9,Rotate,True
+976,2,Flip,2,Flip,True
+5093,12,Task Completion,12,Task Completion,True
+2191,5,Pick and Give,5,Pick and Give,True
+2976,7,Push,7,Push,True
+4116,10,Swipe Left,10,Swipe Left,True
+5154,12,Task Completion,12,Task Completion,True
+5879,14,Wiping,14,Wiping,True
+3856,9,Rotate,9,Rotate,True
+220,0,Drop,0,Drop,True
+2488,6,Pick and Place,6,Pick and Place,True
+3054,7,Push,7,Push,True
+4893,12,Task Completion,12,Task Completion,True
+1070,2,Flip,2,Flip,True
+4426,11,Swipe Right,11,Swipe Right,True
+5292,13,Wave,13,Wave,True
+2895,7,Push,7,Push,True
+4170,10,Swipe Left,10,Swipe Left,True
+682,1,Emergency_calling,1,Emergency_calling,True
+1203,3,Pick,3,Pick,True
+3363,8,Receive,8,Receive,True
+5006,12,Task Completion,12,Task Completion,True
+4019,10,Swipe Left,10,Swipe Left,True
+4859,12,Task Completion,12,Task Completion,True
+5310,13,Wave,13,Wave,True
+1665,4,Pick & Pour,4,Pick & Pour,True
+1722,4,Pick & Pour,4,Pick & Pour,True
+2785,6,Pick and Place,6,Pick and Place,True
+2751,6,Pick and Place,6,Pick and Place,True
+3503,8,Receive,8,Receive,True
+5413,13,Wave,13,Wave,True
+882,2,Flip,2,Flip,True
+712,1,Emergency_calling,1,Emergency_calling,True
+5073,12,Task Completion,12,Task Completion,True
+5390,13,Wave,13,Wave,True
+2123,5,Pick and Give,5,Pick and Give,True
+1229,3,Pick,3,Pick,True
+3381,8,Receive,8,Receive,True
+2514,6,Pick and Place,6,Pick and Place,True
+2431,6,Pick and Place,6,Pick and Place,True
+478,1,Emergency_calling,1,Emergency_calling,True
+70,0,Drop,0,Drop,True
+5112,12,Task Completion,12,Task Completion,True
+369,0,Drop,0,Drop,True
+1477,3,Pick,3,Pick,True
+3168,7,Push,7,Push,True
+5942,14,Wiping,14,Wiping,True
+941,2,Flip,2,Flip,True
+4942,12,Task Completion,12,Task Completion,True
+663,1,Emergency_calling,1,Emergency_calling,True
+5803,14,Wiping,14,Wiping,True
+1803,4,Pick & Pour,4,Pick & Pour,True
+388,0,Drop,0,Drop,True
+1040,2,Flip,2,Flip,True
+2762,6,Pick and Place,6,Pick and Place,True
+4100,10,Swipe Left,10,Swipe Left,True
+3544,8,Receive,8,Receive,True
+5882,14,Wiping,14,Wiping,True
+2767,6,Pick and Place,6,Pick and Place,True
+2536,6,Pick and Place,6,Pick and Place,True
+5932,14,Wiping,14,Wiping,True
+2538,6,Pick and Place,6,Pick and Place,True
+4591,11,Swipe Right,11,Swipe Right,True
+1209,3,Pick,3,Pick,True
+828,2,Flip,2,Flip,True
+5187,12,Task Completion,12,Task Completion,True
+2677,6,Pick and Place,6,Pick and Place,True
+2611,6,Pick and Place,6,Pick and Place,True
+2221,5,Pick and Give,5,Pick and Give,True
+4075,10,Swipe Left,10,Swipe Left,True
+4666,11,Swipe Right,11,Swipe Right,True
+5612,14,Wiping,14,Wiping,True
+1057,2,Flip,2,Flip,True
+2960,7,Push,7,Push,True
+1206,3,Pick,3,Pick,True
+1121,2,Flip,2,Flip,True
+3855,9,Rotate,9,Rotate,True
+3643,9,Rotate,9,Rotate,True
+228,0,Drop,0,Drop,True
+374,0,Drop,0,Drop,True
+3504,8,Receive,8,Receive,True
+4636,11,Swipe Right,11,Swipe Right,True
+3701,9,Rotate,9,Rotate,True
+5501,13,Wave,13,Wave,True
+439,1,Emergency_calling,1,Emergency_calling,True
+533,1,Emergency_calling,1,Emergency_calling,True
+1693,4,Pick & Pour,4,Pick & Pour,True
+3432,8,Receive,8,Receive,True
+1906,4,Pick & Pour,4,Pick & Pour,True
+1708,4,Pick & Pour,4,Pick & Pour,True
+3245,8,Receive,8,Receive,True
+1317,3,Pick,3,Pick,True
+4655,11,Swipe Right,11,Swipe Right,True
+1367,3,Pick,3,Pick,True
+3906,9,Rotate,9,Rotate,True
+3045,7,Push,7,Push,True
+1577,3,Pick,3,Pick,True
+5381,13,Wave,13,Wave,True
+4615,11,Swipe Right,11,Swipe Right,True
+2470,6,Pick and Place,6,Pick and Place,True
+5668,14,Wiping,14,Wiping,True
+2253,5,Pick and Give,5,Pick and Give,True
+3806,9,Rotate,9,Rotate,True
+4651,11,Swipe Right,11,Swipe Right,True
+3859,9,Rotate,9,Rotate,True
+3310,8,Receive,8,Receive,True
+5467,13,Wave,13,Wave,True
+3533,8,Receive,8,Receive,True
+2748,6,Pick and Place,6,Pick and Place,True
+686,1,Emergency_calling,1,Emergency_calling,True
+3095,7,Push,7,Push,True
+2084,5,Pick and Give,5,Pick and Give,True
+885,2,Flip,2,Flip,True
+238,0,Drop,0,Drop,True
+3019,7,Push,7,Push,True
+5439,13,Wave,13,Wave,True
+4240,10,Swipe Left,10,Swipe Left,True
+464,1,Emergency_calling,1,Emergency_calling,True
+3456,8,Receive,8,Receive,True
+5317,13,Wave,13,Wave,True
+5596,13,Wave,13,Wave,True
+4798,11,Swipe Right,11,Swipe Right,True
+1594,3,Pick,3,Pick,True
+3153,7,Push,7,Push,True
+2000,5,Pick and Give,5,Pick and Give,True
+1798,4,Pick & Pour,4,Pick & Pour,True
+2193,5,Pick and Give,5,Pick and Give,True
+3565,8,Receive,8,Receive,True
+991,2,Flip,2,Flip,True
+4118,10,Swipe Left,10,Swipe Left,True
+1284,3,Pick,3,Pick,True
+2130,5,Pick and Give,5,Pick and Give,True
+5917,14,Wiping,14,Wiping,True
+5331,13,Wave,13,Wave,True
+5742,14,Wiping,14,Wiping,True
+2159,5,Pick and Give,5,Pick and Give,True
+4804,12,Task Completion,12,Task Completion,True
+3668,9,Rotate,9,Rotate,True
+4338,10,Swipe Left,10,Swipe Left,True
+1248,3,Pick,3,Pick,True
+2833,7,Push,7,Push,True
+3835,9,Rotate,9,Rotate,True
+4750,11,Swipe Right,11,Swipe Right,True
+4740,11,Swipe Right,11,Swipe Right,True
+4242,10,Swipe Left,10,Swipe Left,True
+5498,13,Wave,13,Wave,True
+3431,8,Receive,8,Receive,True
+5289,13,Wave,13,Wave,True
+4253,10,Swipe Left,10,Swipe Left,True
+2941,7,Push,7,Push,True
+4600,11,Swipe Right,11,Swipe Right,True
+2365,5,Pick and Give,5,Pick and Give,True
+3063,7,Push,7,Push,True
+934,2,Flip,2,Flip,True
+1611,4,Pick & Pour,4,Pick & Pour,True
+5628,14,Wiping,14,Wiping,True
+4630,11,Swipe Right,11,Swipe Right,True
+1633,4,Pick & Pour,4,Pick & Pour,True
+2426,6,Pick and Place,6,Pick and Place,True
+3703,9,Rotate,9,Rotate,True
+3940,9,Rotate,9,Rotate,True
+5078,12,Task Completion,12,Task Completion,True
+5071,12,Task Completion,12,Task Completion,True
+4225,10,Swipe Left,10,Swipe Left,True
+2089,5,Pick and Give,5,Pick and Give,True
+1090,2,Flip,2,Flip,True
+5662,14,Wiping,14,Wiping,True
+853,2,Flip,2,Flip,True
+2406,6,Pick and Place,6,Pick and Place,True
+2712,6,Pick and Place,6,Pick and Place,True
+4236,10,Swipe Left,10,Swipe Left,True
+5143,12,Task Completion,12,Task Completion,True
+3767,9,Rotate,9,Rotate,True
+3062,7,Push,7,Push,True
+990,2,Flip,2,Flip,True
+4460,11,Swipe Right,11,Swipe Right,True
+5903,14,Wiping,14,Wiping,True
+1028,2,Flip,2,Flip,True
+3777,9,Rotate,9,Rotate,True
+5275,13,Wave,13,Wave,True
+4948,12,Task Completion,12,Task Completion,True
+1228,3,Pick,3,Pick,True
+1080,2,Flip,2,Flip,True
+2616,6,Pick and Place,6,Pick and Place,True
+5687,14,Wiping,14,Wiping,True
+1853,4,Pick & Pour,4,Pick & Pour,True
+5132,12,Task Completion,12,Task Completion,True
+1054,2,Flip,2,Flip,True
+577,1,Emergency_calling,1,Emergency_calling,True
+1677,4,Pick & Pour,4,Pick & Pour,True
+2137,5,Pick and Give,5,Pick and Give,True
+3741,9,Rotate,9,Rotate,True
+3328,8,Receive,8,Receive,True
+2085,5,Pick and Give,5,Pick and Give,True
+4737,11,Swipe Right,11,Swipe Right,True
+321,0,Drop,0,Drop,True
+4800,12,Task Completion,12,Task Completion,True
+3572,8,Receive,8,Receive,True
+1486,3,Pick,3,Pick,True
+233,0,Drop,0,Drop,True
+3018,7,Push,7,Push,True
+1218,3,Pick,3,Pick,True
+4860,12,Task Completion,12,Task Completion,True
+1449,3,Pick,3,Pick,True
+3848,9,Rotate,9,Rotate,True
+3996,9,Rotate,9,Rotate,True
+1694,4,Pick & Pour,4,Pick & Pour,True
+5678,14,Wiping,14,Wiping,True
+1731,4,Pick & Pour,4,Pick & Pour,True
+357,0,Drop,0,Drop,True
+4069,10,Swipe Left,10,Swipe Left,True
+2088,5,Pick and Give,5,Pick and Give,True
+2183,5,Pick and Give,5,Pick and Give,True
+5461,13,Wave,13,Wave,True
+2230,5,Pick and Give,5,Pick and Give,True
+1374,3,Pick,3,Pick,True
+5248,13,Wave,13,Wave,True
+4312,10,Swipe Left,10,Swipe Left,True
+3995,9,Rotate,9,Rotate,True
+4389,10,Swipe Left,10,Swipe Left,True
+2521,6,Pick and Place,6,Pick and Place,True
+4575,11,Swipe Right,11,Swipe Right,True
+175,0,Drop,0,Drop,True
+5623,14,Wiping,14,Wiping,True
+2842,7,Push,7,Push,True
+2966,7,Push,7,Push,True
+4640,11,Swipe Right,11,Swipe Right,True
+4065,10,Swipe Left,10,Swipe Left,True
+5574,13,Wave,13,Wave,True
+3875,9,Rotate,9,Rotate,True
+2374,5,Pick and Give,5,Pick and Give,True
+265,0,Drop,0,Drop,True
+484,1,Emergency_calling,1,Emergency_calling,True
+2680,6,Pick and Place,6,Pick and Place,True
+5601,14,Wiping,14,Wiping,True
+5127,12,Task Completion,12,Task Completion,True
+2450,6,Pick and Place,6,Pick and Place,True
+5129,12,Task Completion,12,Task Completion,True
+815,2,Flip,2,Flip,True
+5595,13,Wave,13,Wave,True
+3221,8,Receive,8,Receive,True
+5068,12,Task Completion,12,Task Completion,True
+4215,10,Swipe Left,11,Swipe Right,False
+2245,5,Pick and Give,5,Pick and Give,True
+726,1,Emergency_calling,1,Emergency_calling,True
+2957,7,Push,7,Push,True
+4634,11,Swipe Right,11,Swipe Right,True
+4974,12,Task Completion,12,Task Completion,True
+5324,13,Wave,13,Wave,True
+5791,14,Wiping,14,Wiping,True
+115,0,Drop,0,Drop,True
+1830,4,Pick & Pour,4,Pick & Pour,True
+4712,11,Swipe Right,11,Swipe Right,True
+502,1,Emergency_calling,1,Emergency_calling,True
+3551,8,Receive,8,Receive,True
+3048,7,Push,7,Push,True
+4875,12,Task Completion,12,Task Completion,True
+4324,10,Swipe Left,10,Swipe Left,True
+3345,8,Receive,8,Receive,True
+2494,6,Pick and Place,6,Pick and Place,True
+649,1,Emergency_calling,1,Emergency_calling,True
+2753,6,Pick and Place,6,Pick and Place,True
+4448,11,Swipe Right,11,Swipe Right,True
+1464,3,Pick,3,Pick,True
+1163,2,Flip,2,Flip,True
+2322,5,Pick and Give,5,Pick and Give,True
+3702,9,Rotate,9,Rotate,True
+4910,12,Task Completion,12,Task Completion,True
+3358,8,Receive,8,Receive,True
+3898,9,Rotate,9,Rotate,True
+4484,11,Swipe Right,11,Swipe Right,True
+1561,3,Pick,3,Pick,True
+4386,10,Swipe Left,10,Swipe Left,True
+1747,4,Pick & Pour,4,Pick & Pour,True
+3817,9,Rotate,9,Rotate,True
+1646,4,Pick & Pour,4,Pick & Pour,True
+4501,11,Swipe Right,11,Swipe Right,True
+1277,3,Pick,3,Pick,True
+2583,6,Pick and Place,6,Pick and Place,True
+3300,8,Receive,8,Receive,True
+1210,3,Pick,3,Pick,True
+312,0,Drop,0,Drop,True
+2540,6,Pick and Place,6,Pick and Place,True
+1488,3,Pick,3,Pick,True
+1615,4,Pick & Pour,4,Pick & Pour,True
+5416,13,Wave,13,Wave,True
+2067,5,Pick and Give,5,Pick and Give,True
+3200,8,Receive,8,Receive,True
+54,0,Drop,0,Drop,True
+1826,4,Pick & Pour,4,Pick & Pour,True
+404,1,Emergency_calling,1,Emergency_calling,True
+5026,12,Task Completion,12,Task Completion,True
+1643,4,Pick & Pour,4,Pick & Pour,True
+895,2,Flip,2,Flip,True
+4076,10,Swipe Left,10,Swipe Left,True
+2378,5,Pick and Give,5,Pick and Give,True
+2835,7,Push,7,Push,True
+501,1,Emergency_calling,1,Emergency_calling,True
+5563,13,Wave,13,Wave,True
+3405,8,Receive,8,Receive,True
+2575,6,Pick and Place,6,Pick and Place,True
+1953,4,Pick & Pour,4,Pick & Pour,True
+1333,3,Pick,3,Pick,True
+765,1,Emergency_calling,1,Emergency_calling,True
+420,1,Emergency_calling,1,Emergency_calling,True
+1199,2,Flip,2,Flip,True
+687,1,Emergency_calling,1,Emergency_calling,True
+15,0,Drop,0,Drop,True
+3071,7,Push,7,Push,True
+4140,10,Swipe Left,10,Swipe Left,True
+3190,7,Push,7,Push,True
+3041,7,Push,7,Push,True
+3494,8,Receive,8,Receive,True
+1710,4,Pick & Pour,4,Pick & Pour,True
+1091,2,Flip,2,Flip,True
+5664,14,Wiping,14,Wiping,True
+455,1,Emergency_calling,1,Emergency_calling,True
+5095,12,Task Completion,12,Task Completion,True
+1675,4,Pick & Pour,4,Pick & Pour,True
+924,2,Flip,2,Flip,True
+2021,5,Pick and Give,5,Pick and Give,True
+3761,9,Rotate,9,Rotate,True
+1939,4,Pick & Pour,4,Pick & Pour,True
+4947,12,Task Completion,12,Task Completion,True
+3403,8,Receive,8,Receive,True
+4129,10,Swipe Left,10,Swipe Left,True
+2542,6,Pick and Place,6,Pick and Place,True

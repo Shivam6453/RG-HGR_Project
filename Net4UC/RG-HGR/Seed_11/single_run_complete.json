@@ -1,0 +1,10 @@
+{
+  "method_key": "rg-hgr",
+  "method_name": "RG-HGR",
+  "metrics_file": "/run/media/mr_x/Shivam/Net4UC_Results/RG-HGR/Seed_11/metrics.csv",
+  "model_pkl": "/run/media/mr_x/Shivam/Net4UC_Results/RG-HGR/Seed_11/model.pkl",
+  "model_pt": "/run/media/mr_x/Shivam/Net4UC_Results/RG-HGR/Seed_11/model.pt",
+  "protocol_signature": "61a88aecbeb90649c4f45ade25e44963536aa570951bdf9bcc5d87a0db85395a",
+  "seed": 11,
+  "status": "complete"
+}

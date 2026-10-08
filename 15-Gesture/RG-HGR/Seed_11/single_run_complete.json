@@ -1,0 +1,10 @@
+{
+  "method_key": "rg-hgr",
+  "method_name": "RG-HGR",
+  "metrics_file": "/home/cair/intern/our_dataset/RG-HGR_FINAL/RG-HGR/Seed_11/metrics.csv",
+  "model_pkl": "/home/cair/intern/our_dataset/RG-HGR_FINAL/RG-HGR/Seed_11/model.pkl",
+  "model_pt": "/home/cair/intern/our_dataset/RG-HGR_FINAL/RG-HGR/Seed_11/model.pt",
+  "protocol_signature": "5b85313498f09addfa5caea976b393f036ed435bac07b3e6b73a506ab8b9c9a4",
+  "seed": 11,
+  "status": "complete"
+}

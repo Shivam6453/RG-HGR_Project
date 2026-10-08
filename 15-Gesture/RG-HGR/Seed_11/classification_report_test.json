@@ -1,0 +1,105 @@
+{
+  "Drop": {
+    "f1-score": 1.0,
+    "precision": 1.0,
+    "recall": 1.0,
+    "support": 60.0
+  },
+  "Emergency_calling": {
+    "f1-score": 1.0,
+    "precision": 1.0,
+    "recall": 1.0,
+    "support": 60.0
+  },
+  "Flip": {
+    "f1-score": 1.0,
+    "precision": 1.0,
+    "recall": 1.0,
+    "support": 60.0
+  },
+  "Pick": {
+    "f1-score": 0.9743589743589743,
+    "precision": 1.0,
+    "recall": 0.95,
+    "support": 60.0
+  },
+  "Pick & Pour": {
+    "f1-score": 0.9915966386554622,
+    "precision": 1.0,
+    "recall": 0.9833333333333333,
+    "support": 60.0
+  },
+  "Pick and Give": {
+    "f1-score": 0.975609756097561,
+    "precision": 0.9523809523809523,
+    "recall": 1.0,
+    "support": 60.0
+  },
+  "Pick and Place": {
+    "f1-score": 0.9833333333333333,
+    "precision": 0.9833333333333333,
+    "recall": 0.9833333333333333,
+    "support": 60.0
+  },
+  "Push": {
+    "f1-score": 1.0,
+    "precision": 1.0,
+    "recall": 1.0,
+    "support": 60.0
+  },
+  "Receive": {
+    "f1-score": 1.0,
+    "precision": 1.0,
+    "recall": 1.0,
+    "support": 60.0
+  },
+  "Rotate": {
+    "f1-score": 0.9917355371900827,
+    "precision": 0.9836065573770492,
+    "recall": 1.0,
+    "support": 60.0
+  },
+  "Swipe Left": {
+    "f1-score": 0.9482758620689655,
+    "precision": 0.9821428571428571,
+    "recall": 0.9166666666666666,
+    "support": 60.0
+  },
+  "Swipe Right": {
+    "f1-score": 0.944,
+    "precision": 0.9076923076923077,
+    "recall": 0.9833333333333333,
+    "support": 60.0
+  },
+  "Task Completion": {
+    "f1-score": 1.0,
+    "precision": 1.0,
+    "recall": 1.0,
+    "support": 60.0
+  },
+  "Wave": {
+    "f1-score": 0.9915966386554622,
+    "precision": 1.0,
+    "recall": 0.9833333333333333,
+    "support": 60.0
+  },
+  "Wiping": {
+    "f1-score": 1.0,
+    "precision": 1.0,
+    "recall": 1.0,
+    "support": 60.0
+  },
+  "accuracy": 0.9866666666666667,
+  "macro avg": {
+    "f1-score": 0.9867004493573229,
+    "precision": 0.9872770671951001,
+    "recall": 0.9866666666666666,
+    "support": 900.0
+  },
+  "weighted avg": {
+    "f1-score": 0.9867004493573226,
+    "precision": 0.9872770671951,
+    "recall": 0.9866666666666667,
+    "support": 900.0
+  }
+}

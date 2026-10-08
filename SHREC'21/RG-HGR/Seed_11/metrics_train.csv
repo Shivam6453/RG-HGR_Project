@@ -1,0 +1,2 @@
+Train_Accuracy,Train_Balanced_Accuracy,Train_Precision_Macro,Train_Precision_Weighted,Train_Precision_Micro,Train_Recall_Macro,Train_Recall_Weighted,Train_Recall_Micro,Train_F1_Macro,Train_F1_Weighted,Train_F1_Micro,Train_Micro_Score,Train_Specificity_Macro,Train_MCC,Train_Cohen_Kappa,Train_Top2_Accuracy,Train_Top3_Accuracy,Train_Log_Loss,Train_Brier_Score,Train_ECE,Train_Mean_Confidence
+1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,0.002831345042339143,1.4910091198266562e-05,0.002825158522301696,0.9971748414776983
